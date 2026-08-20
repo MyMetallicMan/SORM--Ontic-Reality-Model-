@@ -80,7 +80,7 @@ When citing this work, please use the following format:
 
 **Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 12.0, (2026).**
 
-DOI: *[placeholder — assigned upon Zenodo archiving]*
+**DOI:** [10.5281/zenodo.22021454](https://doi.org/10.5281/zenodo.22021454)
 
 For in-text citations: (Vannrox, 2026)
 
