@@ -1,9 +1,9 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 12.0 (Complete)  
+**Version:** 12.3 (Complete)  
 **Author:** Robert Vannrox  
-**Date:** August 19, 2026  
+**Date:** August 20, 2026  
 **DOI:** [10.5281/zenodo.22021454](https://doi.org/10.5281/zenodo.22021454)  
 **License:** CC BY-SA 4.0  
 
@@ -11,7 +11,7 @@
 
 ## How to Read This Work
 
-This document is the master index for the complete ΨORM v12.0 framework. The work is organized into **six parts**, comprising **twenty-three sections**, plus reference materials.
+This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **twenty-six sections**, plus reference materials.
 
 The main document contains **Sections I, II, and III** (Introduction and Foundational Claims). All other sections are contained in separate PDF files, as indicated below.
 
@@ -23,7 +23,7 @@ The main document contains **Sections I, II, and III** (Introduction and Foundat
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 12.0, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 12.3, (2026).**  
 DOI: [10.5281/zenodo.22021454](https://doi.org/10.5281/zenodo.22021454)
 
 For in-text citations: (Vannrox, 2026)
@@ -44,11 +44,11 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| IV | Grounding in Mainstream Physics | *Not yet uploaded* |
-| VII | The Structure of Shared Reality — Frequency Attractors and Template Clustering | *Not yet uploaded* |
-| VIII | The Ontology of Consciousness | *Not yet uploaded* |
-| XIV | Foundational Review and Genesis | *Not yet uploaded* |
-| XXI | Overlapping Attractor Basins and the Perception of Shared Physical Reality | *Not yet uploaded* |
+| IV | Grounding in Mainstream Physics | [Section IV](./Section%20IV%20-%20Grounding%20in%20Mainstream%20Physics.pdf) |
+| VII | The Structure of Shared Reality — Frequency Attractors and Template Clustering | [Section VII](./Section%20VII%20-%20The%20Structure%20of%20Shared%20Reality.pdf) |
+| VIII | The Ontology of Consciousness | [Section VIII](./Section%20VIII%20-%20The%20Ontology%20of%20Consciousness.pdf) |
+| XIV | Foundational Review and Genesis | [Section XIV](./Section%20XIV%20-%20Foundational%20Review%20and%20Genesis.pdf) |
+| XXI | Overlapping Attractor Basins and the Perception of Shared Physical Reality | [Section XXI](./Section%20XXI%20-%20Overlapping%20Attractor%20Basins.pdf) |
 
 ---
 
@@ -58,9 +58,9 @@ For in-text citations: (Vannrox, 2026)
 |---------|-------|----------|
 | V | Mathematical Formalization | [Section V](./Section%20V%20-%20Mathematical%20Formalization.pdf) |
 | X | The Sine Wave and the 50% Duty Cycle | [Section X](./Section%20X%20-%20The%20Sine%20Wave%20and%20the%2050%20percent%20duty%20cycle.pdf) |
-| XII | Practical Implications — Cultivating Frequency Synchronization | *Not yet uploaded* |
+| XII | Practical Implications — Cultivating Frequency Synchronization | [Section XII](./Section%20XII%20-%20Practical%20Implications%20-%20Cultivating%20Frequency%20Synchronization.pdf) |
 | XIX | The Dropping of the Filter — Applied Phenomenology of ΨORM | [Section XIX](./SECTION%20XIX%20-%20THE%20DROPPING%20OF%20THE%20FILTER%20-%20APPLIED%20PHENOMENOLOGY%20OF%20ΨORM.pdf) |
-| XXII | Intentional Frequency Shift — The Practice of Navigating from A to B | [Section XXII](./Section%20XXI%20-%20Intentional%20Frequency%20Shift%20—%20The%20Practice%20of%20Navigating%20from%20A%20to%20B.pdf) |
+| XXII | Intentional Frequency Shift — The Practice of Navigating from A to B | [Section XXII](./Section%20XXII%20-%20Intentional%20Frequency%20Shift%20-%20The%20Practice%20of%20Navigating%20from%20A%20to%20B.pdf) |
 
 ---
 
@@ -75,6 +75,9 @@ For in-text citations: (Vannrox, 2026)
 | XVIII | Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering | [Section XVIII](./Section%20XVIII%20-%20Reduced%20Filtering%20and%20Perceptual%20Shifts%20—%20The%20Mechanics%20of%20Altered%20Rendering.pdf) |
 | XX | Group Vector Shifts and the Reconfiguration of Rendered Reality | [Section XX](./Section%20XX%20-%20Group%20Vector%20Shifts%20and%20the%20Reconfiguration%20of%20Rendered%20Reality.pdf) |
 | XXIII | Frequency Alignment with Group Vectors — The Mechanism of Joining a New Attractor Basin | [Section XXIII](./Section%20XXIII%20-%20Frequency%20Alignment%20with%20Group%20Vectors%20—%20The%20Mechanism%20of%20Joining%20a%20New%20Attractor%20Basin.pdf) |
+| XXIV | Applied Frequency Modulation: Practical Techniques for Intention Navigation | [Section XXIV](./Section%20XXIV%20—%20Applied%20Frequency%20Modulation%20-%20Practical%20Techniques%20for%20Intention%20Navigation.pdf) |
+| XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./Section%20XXV%20—%20Remote%20Viewing%20as%20Applied%20Consciousness%20Navigation.pdf) |
+| XXVI | The Topography of the Configuration Space | [Section XXVI](./Section%20XXVI%20—%20The%20Topography%20of%20the%20Configuration%20Space.pdf) |
 
 ---
 
@@ -102,9 +105,9 @@ For in-text citations: (Vannrox, 2026)
 
 | Item | Location |
 |------|----------|
-| Project Timeline | *Not yet uploaded* |
-| Early Writings (2017–2020) | *Not yet uploaded* |
-| JCS Submission Materials | *Not yet uploaded* |
+| Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
+| Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
+| JCS Submission Materials | [Submissions](./submissions/) |
 
 ---
 
