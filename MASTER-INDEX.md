@@ -24,7 +24,7 @@ The main document contains **Sections I, II, and III** (Introduction and Foundat
 When citing this work, please use the following format:
 
 **Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.0, (2026).**  
-DOI: [10.5281/zenodo.22021454](https://doi.org/10.5281/zenodo.22021454)
+DOI: [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)
 
 For in-text citations: (Vannrox, 2026)
 
