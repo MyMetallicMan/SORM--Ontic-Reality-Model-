@@ -44,11 +44,11 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| IV | Grounding in Mainstream Physics | [Section IV](./Section%20IV%20-%20Grounding%20in%20Mainstream%20Physics.pdf) |
-| VII | The Structure of Shared Reality — Frequency Attractors and Template Clustering | [Section VII](./Section%20VII%20-%20The%20Structure%20of%20Shared%20Reality.pdf) |
-| VIII | The Ontology of Consciousness | [Section VIII](./Section%20VIII%20-%20The%20Ontology%20of%20Consciousness.pdf) |
-| XIV | Foundational Review and Genesis | [Section XIV](./Section%20XIV%20-%20Foundational%20Review%20and%20Genesis.pdf) |
-| XXI | Overlapping Attractor Basins and the Perception of Shared Physical Reality | [Section XXI](./Section%20XXI%20-%20Overlapping%20Attractor%20Basins.pdf) |
+| IV | Grounding in Mainstream Physics | *Not yet uploaded* |
+| VII | The Structure of Shared Reality — Frequency Attractors and Template Clustering | *Not yet uploaded* |
+| VIII | The Ontology of Consciousness | *Not yet uploaded* |
+| XIV | Foundational Review and Genesis | *Not yet uploaded* |
+| XXI | Overlapping Attractor Basins and the Perception of Shared Physical Reality | *Not yet uploaded* |
 
 ---
 
@@ -58,9 +58,9 @@ For in-text citations: (Vannrox, 2026)
 |---------|-------|----------|
 | V | Mathematical Formalization | [Section V](./Section%20V%20-%20Mathematical%20Formalization.pdf) |
 | X | The Sine Wave and the 50% Duty Cycle | [Section X](./Section%20X%20-%20The%20Sine%20Wave%20and%20the%2050%20percent%20duty%20cycle.pdf) |
-| XII | Practical Implications — Cultivating Frequency Synchronization | [Section XII](./Section%20XII%20-%20Practical%20Implications.pdf) |
-| XIX | The Dropping of the Filter — Applied Phenomenology of ΨORM | [Section XIX](./SECTION%20XIX%20-%20THE%20DROPPING%20OF%20THE%20FILTER.pdf) |
-| XXII | Intentional Frequency Shift — The Practice of Navigating from A to B | [Section XXII](./Section%20XXII%20-%20Intentional%20Frequency%20Shift.pdf) |
+| XII | Practical Implications — Cultivating Frequency Synchronization | *Not yet uploaded* |
+| XIX | The Dropping of the Filter — Applied Phenomenology of ΨORM | [Section XIX](./SECTION%20XIX%20-%20THE%20DROPPING%20OF%20THE%20FILTER%20-%20APPLIED%20PHENOMENOLOGY%20OF%20ΨORM.pdf) |
+| XXII | Intentional Frequency Shift — The Practice of Navigating from A to B | [Section XXII](./Section%20XXI%20-%20Intentional%20Frequency%20Shift%20—%20The%20Practice%20of%20Navigating%20from%20A%20to%20B.pdf) |
 
 ---
 
@@ -71,10 +71,10 @@ For in-text citations: (Vannrox, 2026)
 | IX | Death and Continuity | [Section IX](./Section%20IX%20-%20Death%20and%20Continuity.pdf) |
 | XI | Heaven, Nirvana, and Non-Physical Communities | [Section XI](./Section%20XI%20-%20Heaven%2C%20Nirvana%2C%20and%20Non-Physical%20Communities.pdf) |
 | XVI | Travelers, Anomalies, and the Reality of MWI Navigation | [Section XVI](./Section%20XVI%20-%20Travelers%2C%20Anomalies%2C%20and%20the%20Reality%20of%20MWI%20Navigation.pdf) |
-| XVII | Anomalous Phenomena and the Mechanics of Consciousness Navigation | [Section XVII](./Section%20XVII%20-%20Anomalous%20Phenomena.pdf) |
-| XVIII | Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering | [Section XVIII](./Section%20XVIII%20-%20Reduced%20Filtering%20and%20Perceptual%20Shifts.pdf) |
-| XX | Group Vector Shifts and the Reconfiguration of Rendered Reality | [Section XX](./Section%20XX%20-%20Group%20Vector%20Shifts.pdf) |
-| XXIII | Frequency Alignment with Group Vectors — The Mechanism of Joining a New Attractor Basin | [Section XXIII](./Section%20XXIII%20-%20Frequency%20Alignment%20with%20Group%20Vectors.pdf) |
+| XVII | Anomalous Phenomena and the Mechanics of Consciousness Navigation | [Section XVII](./Section%20XVII%20-%20Anomalous%20Phenomena%20and%20the%20Mechanics%20of%20Consciousness%20Navigation.pdf) |
+| XVIII | Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering | [Section XVIII](./Section%20XVIII%20-%20Reduced%20Filtering%20and%20Perceptual%20Shifts%20—%20The%20Mechanics%20of%20Altered%20Rendering.pdf) |
+| XX | Group Vector Shifts and the Reconfiguration of Rendered Reality | [Section XX](./Section%20XX%20-%20Group%20Vector%20Shifts%20and%20the%20Reconfiguration%20of%20Rendered%20Reality.pdf) |
+| XXIII | Frequency Alignment with Group Vectors — The Mechanism of Joining a New Attractor Basin | [Section XXIII](./Section%20XXIII%20-%20Frequency%20Alignment%20with%20Group%20Vectors%20—%20The%20Mechanism%20of%20Joining%20a%20New%20Attractor%20Basin.pdf) |
 
 ---
 
@@ -83,7 +83,7 @@ For in-text citations: (Vannrox, 2026)
 | Section | Title | Location |
 |---------|-------|----------|
 | VI | Falsifiability and Experimental Directions | [Section VI](./Section%20VI%20-%20Falsifiability%20and%20Experimental%20Directions.pdf) |
-| XV | Comparative Analysis — Addressing the Great Mysteries | [Section XV](./Section%20XV%20-%20Comparative%20Analysis.pdf) |
+| XV | Comparative Analysis — Addressing the Great Mysteries | [Section XV](./Section%20XV%20-%20Comparative%20Analysis%20—%20Addressing%20the%20Great%20Mysteries.pdf) |
 | XIII | Future Work | [Section XIII](./Section%20XIII%20-%20Future%20Work.pdf) |
 
 ---
@@ -102,9 +102,9 @@ For in-text citations: (Vannrox, 2026)
 
 | Item | Location |
 |------|----------|
-| Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
-| Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
-| JCS Submission Materials | [Submissions](./submissions/) |
+| Project Timeline | *Not yet uploaded* |
+| Early Writings (2017–2020) | *Not yet uploaded* |
+| JCS Submission Materials | *Not yet uploaded* |
 
 ---
 
