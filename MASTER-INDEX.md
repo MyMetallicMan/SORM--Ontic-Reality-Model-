@@ -95,7 +95,7 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| Glossary | Glossary of Terms | [Glossary](./Glossary%20of%20Terms.pdf) |
+| Glossary | Glossary of Terms | [Glossary](./glossary.md) |
 | Predictions | Consolidated Table of Falsifiable Predictions | [Predictions](./Consolidated%20Table%20of%20Falsifiable%20Predictions.pdf) |
 | Ah-Hah | Summary of Ah-Hah Moments | [Ah-Hah](./Summary%20of%20Ah-Hah%20Moments.pdf) |
 
