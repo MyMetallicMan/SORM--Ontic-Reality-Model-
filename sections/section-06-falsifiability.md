@@ -135,6 +135,57 @@ To ensure the ΨORM framework is falsifiable and accessible to independent resea
 
 ---
 
+## VI.6 Experimental Protocols
+
+The following protocols are designed to test the core predictions of ΨORM using existing technology. They are reproducible and can be run in standard neuroscience labs.
+
+### Protocol 1: Testing Group Vector Shifts
+
+**Hypothesis:** A group with shared intention will show measurable inter-brain coherence (hyperscanning EEG) that correlates with a shift in collective behavior.
+
+| Element | Description |
+|---------|-------------|
+| **Participants** | 10–20 participants, divided into two groups: experimental (shared intention) and control (no shared intention). |
+| **Task** | Both groups perform a simple collaborative task (e.g., synchronized tapping, cooperative puzzle). |
+| **Measurement** | Hyperscanning EEG to measure inter-brain phase coherence (PLV) between participants. |
+| **Protocol** | 1. Baseline: 5 minutes of resting state. 2. Intention period: Experimental group focuses on a shared intention (e.g., "we are perfectly synchronized"). 3. Task period: Both groups perform the collaborative task. 4. Post-task: 5 minutes of resting state. |
+| **Prediction** | The experimental group will show a significant increase in inter-brain PLV during the intention period, and this increase will correlate with improved task performance (e.g., reduced tapping variability). |
+| **Falsification** | If no significant increase in PLV is observed, or if the increase does not correlate with task performance, the prediction is falsified. |
+
+### Protocol 2: Testing Reduced Filtering
+
+**Hypothesis:** Reduced filtering (e.g., during meditation or altered states) will correlate with a specific EEG signature: decreased alpha power (8–12 Hz) and/or increased broadband gamma power (30–100 Hz).
+
+| Element | Description |
+|---------|-------------|
+| **Participants** | 20–30 participants, all with some experience in meditation or mindfulness practices. |
+| **Task** | Participants undergo three conditions: (1) resting state, (2) focused attention meditation, (3) open monitoring meditation. |
+| **Measurement** | EEG recording of alpha power, gamma power, and PLV between frontal and parietal electrodes. |
+| **Protocol** | 1. Baseline: 5 minutes of resting state. 2. Condition 1: 10 minutes of focused attention meditation. 3. Condition 2: 10 minutes of open monitoring meditation. 4. Post-task: 5 minutes of resting state. |
+| **Prediction** | During both meditation conditions, participants will show decreased alpha power and/or increased gamma power compared to baseline. The degree of change will correlate with self-reported levels of "filter dropping." |
+| **Falsification** | If no significant change in alpha or gamma power is observed, or if the change does not correlate with self-reported filter dropping, the prediction is falsified. |
+
+### Protocol 3: Testing Intentional Frequency Shift
+
+**Hypothesis:** Intentional, focused thought (e.g., visualization or affirmation) produces a measurable shift in phase coherence (PLV) that correlates with improved performance on a perceptual task.
+
+| Element | Description |
+|---------|-------------|
+| **Participants** | 20–30 participants. |
+| **Task** | Participants perform a perceptual threshold task (e.g., detecting a faint visual or auditory stimulus). |
+| **Measurement** | EEG recording of PLV between frontal and parietal electrodes. |
+| **Protocol** | 1. Baseline: 5 minutes of resting state. 2. Pre-task: 5 minutes of intentional focus on a specific intention (e.g., "I will detect the stimulus clearly"). 3. Task: Perceptual threshold task. 4. Post-task: 5 minutes of resting state. |
+| **Prediction** | Participants will show a significant increase in PLV during the intention period, and this increase will correlate with improved performance on the perceptual task (e.g., lower detection threshold). |
+| **Falsification** | If no significant increase in PLV is observed, or if the increase does not correlate with task performance, the prediction is falsified. |
+
+### Summary of Protocols
+
+| Protocol | Tested Prediction | Key Measurement | Falsification Criterion |
+|----------|-------------------|-----------------|------------------------|
+| 1. Group Vector Shifts | Prediction 4: Shared experiences correlate with frequency similarity. | Hyperscanning EEG: Inter-brain PLV. | No PLV increase during shared intention. |
+| 2. Reduced Filtering | Prediction 1: Frequency shifts are measurable. | EEG: Alpha and gamma power. | No change in alpha/gamma during meditation. |
+| 3. Intentional Frequency Shift | Prediction 5: Intentional shifts alter perception. | EEG: PLV + behavioral performance. | No correlation between PLV and task performance. |
+
 ## Summary
 
 Section VI presents five specific, testable, and falsifiable predictions that ground ΨORM in experimental science. These predictions are designed to be tested with existing or near-future technology, and they avoid stigmatized or paranormal framing. If any of these predictions are conclusively rejected by experimental evidence, the ΨORM model would be significantly weakened or falsified.
