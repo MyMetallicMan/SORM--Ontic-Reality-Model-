@@ -1,3 +1,76 @@
+# SORM: The Ψ-Ontic Reality Model
+
+**Version:** 13.0 (Canonical Markdown Edition)  
+**Author:** Robert Vannrox  
+**Date:** August 22, 2026  
+**License:** CC BY-SA 4.0  
+**DOI:** [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036494.svg)](https://doi.org/10.5281/zenodo.22036494)
+
+---
+
+## Purpose
+
+This repository contains the complete seed document for the Ψ-Ontic Reality Model (ΨORM), a unified framework that repositions consciousness as the primary agent of reality navigation.
+
+This work is not a hobby. It is not a commercial product. It is a legacy — a structural gift to future generations. It is intended to be discovered, studied, and refined long after the author has departed.
+
+---
+
+## Quick Start
+
+| Document | Description |
+|----------|-------------|
+| **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
+| **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 26 sections. |
+| **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
+| **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
+
+---
+
+## One-Paragraph Summary
+
+ΨORM proposes that time is not fundamental, but emerges from consciousness illuminating a static set of frozen moments. Consciousness is an active quantum waveform that navigates reality through frequency synchronization with a biological receiver (the brain and body). Reality is not shared in the naive sense; it is an emergent property of frequency alignment between consciousness vectors. The framework is falsifiable, testable, and grounded in a coherent ontology that spans quanta, garbons, souls, and consciousness.
+
+---
+
+## The Four Foundational Claims
+
+1. **Time is not fundamental.** Reality is an infinite set of static "frozen moments." Time emerges from consciousness illuminating them sequentially.
+2. **Consciousness is the navigator.** Consciousness is an active quantum waveform that selects and moves through frozen moments.
+3. **Reality is frequency synchronization.** Consciousness interacts with reality through frequency entrainment and phase-locking with a biological receiver.
+4. **Reality is not shared.** Each consciousness follows its own unique vector. Shared reality is an emergent property of frequency alignment.
+
+---
+
+## Repository Structure
+SORM/
+├── README.md # This file
+├── core-thesis.md # 1-2 page summary
+├── MASTER-INDEX.md # Complete navigation
+├── LICENSE # CC BY-SA 4.0
+├── CITATION.cff # Citation metadata
+├── CONTRIBUTING.md # Contribution guidelines
+├── ROADMAP.md # Future development roadmap
+├── CODE_OF_CONDUCT.md # Community standards
+├── SECURITY.md # Security policy
+├── CHANGELOG.md # Version history
+├── .gitignore # Git ignore file
+├── glossary.md # Definitions of key terms
+├── predictions.md # Consolidated table of falsifiable predictions
+├── ah-hah.md # Summary of Ah-Hah moments
+├── mathematical-formalization.md # Standalone mathematical framework
+├── sections/
+│ ├── section-01-introduction.md
+│ ├── ... (all 26 sections)
+│ └── section-26-topography.md
+├── early-pdfs/ # Blog entries (2017–2020)
+├── submissions/ # JCS submission materials
+└── .github/
+└── workflows/
+└── release-pdf.yml # Automatic PDF generation on release
+
 
 ---
 
@@ -5,10 +78,8 @@
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 12.0, (2026).**  
-**DOI:** [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036494.svg)](https://doi.org/10.5281/zenodo.22036494)
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.0, (2026).**  
+DOI: [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)
 
 For in-text citations: (Vannrox, 2026)
 
@@ -23,7 +94,7 @@ To ensure this work is permanently preserved and citable, this repository is pai
 1. Create a free account at [zenodo.org](https://zenodo.org).
 2. Connect your GitHub account to Zenodo.
 3. Enable archiving for this repository (`SORM`).
-4. Create a release on GitHub (v12.0 or later).
+4. Create a release on GitHub (v13.0 or later).
 5. Zenodo will automatically archive the release and assign a DOI.
 6. Update this README with the assigned DOI.
 
@@ -45,6 +116,19 @@ Under the following terms:
 
 Full license text is available in the `LICENSE` file and at:  
 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## Branching Strategy
+
+This repository uses a two-branch workflow:
+
+- **`main`** — The canonical, stable release. Only the maintainer can merge changes here. All changes are reviewed and approved.
+- **`develop`** — The active development branch. Contributors submit Pull Requests to `develop`.
+
+When a contribution is ready and approved, it is merged from `develop` into `main` and a new release is created.
+
+For more details, see `CONTRIBUTING.md`.
 
 ---
 
