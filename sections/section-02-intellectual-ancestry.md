@@ -97,6 +97,60 @@ The Many-Worlds Interpretation posits that all possible outcomes of quantum even
 
 ---
 
+## II.7 Distinction from Existing Models
+
+To clarify ΨORM's contribution, it is essential to distinguish it from other frameworks in consciousness studies.
+
+### II.7.1 Integrated Information Theory (IIT)
+
+| Element | IIT | ΨORM |
+|---------|-----|------|
+| Core Claim | Consciousness = integrated information (Φ). | Consciousness = frequency navigation through attractor basins. |
+| Mechanism | Information integration. | Frequency synchronization. |
+| Agency | Not addressed. | Central: intention as frequency modulation. |
+| ΨORM Relationship | **Compatible but insufficient.** IIT measures consciousness but does not explain navigation or agency. | ΨORM adds a navigational mechanism. |
+
+### II.7.2 Global Workspace Theory (GWT)
+
+| Element | GWT | ΨORM |
+|---------|-----|------|
+| Core Claim | Consciousness = a global workspace for information sharing. | Consciousness = a navigator through frozen moments. |
+| Mechanism | Information broadcasting. | Frequency synchronization. |
+| Memory | Stored in the brain. | Stored in the soul (cloud). |
+| ΨORM Relationship | **Complementary but limited.** GWT describes information access but not how consciousness selects or navigates reality. | ΨORM repositions the workspace as a router, not a generator. |
+
+### II.7.3 Penrose-Hameroff (Orch-OR)
+
+| Element | Orch-OR | ΨORM |
+|---------|---------|------|
+| Core Claim | Consciousness = quantum computation in microtubules. | Consciousness = frequency navigation through classical resonance. |
+| Mechanism | Quantum collapse. | Classical resonance and phase-locking. |
+| Location | Microtubules. | Configuration space. |
+| ΨORM Relationship | **Not supported.** ΨORM rejects the need for quantum computation in microtubules as the primary mechanism. | ΨORM proposes classical resonance as the mechanism. |
+
+### II.7.4 Idealist Metaphysics (Bernardo Kastrup)
+
+| Element | Kastrup | ΨORM |
+|---------|---------|------|
+| Core Claim | Consciousness is the only reality; matter is a representation. | Consciousness is the navigator; reality is frequency synchronization. |
+| Mechanism | Not specified. | Frequency synchronization. |
+| Agency | Not specified. | Central: intention as frequency modulation. |
+| ΨORM Relationship | **Broadly aligned but differs in mechanism.** Kastrup does not specify a mechanism for interaction. | ΨORM provides a specific mechanism: frequency synchronization. |
+
+---
+
+### II.7.5 Summary of Distinctions
+
+| Framework | What It Explains | What ΨORM Adds |
+|-----------|------------------|----------------|
+| IIT | Consciousness = integrated information. | Navigation mechanism and agency. |
+| GWT | Information access and sharing. | Router/cloud architecture and memory storage. |
+| Orch-OR | Quantum computation in microtubules. | Classical resonance as the mechanism. |
+| Kastrup | Consciousness is primary. | Frequency synchronization as the mechanism. |
+
+**The Ah-Hah Moment:**
+> "ΨORM is not a competitor to these frameworks. It is a complement — an extension that provides the missing mechanism of navigation and agency. Where others describe what consciousness is, ΨORM describes how it moves."
+
 ## Summary
 
 Section II situates ΨORM within the broader intellectual landscape of philosophy of mind, neuroscience, and quantum foundations. It engages with Conscious Realism, Filter Theory, Panpsychism, and the Many-Worlds Interpretation, clarifying both points of agreement and divergence. ΨORM is positioned as a formalization and extension of these frameworks, providing specific mechanisms—frequency synchronization, phase-locking, and the router/cloud architecture—that are absent in the original theories.
