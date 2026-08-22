@@ -1,0 +1,26 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Local config files
+.env
+*.local
+
+# Backup files
+*.bak
+*.orig
+
+# Release artifacts (if any)
+*.zip
+*.tar.gz
