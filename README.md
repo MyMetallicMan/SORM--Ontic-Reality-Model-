@@ -45,32 +45,58 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 ---
 
 ## Repository Structure
-SORM/
-├── README.md # This file
-├── core-thesis.md # 1-2 page summary
-├── MASTER-INDEX.md # Complete navigation
-├── LICENSE # CC BY-SA 4.0
-├── CITATION.cff # Citation metadata
-├── CONTRIBUTING.md # Contribution guidelines
-├── ROADMAP.md # Future development roadmap
-├── CODE_OF_CONDUCT.md # Community standards
-├── SECURITY.md # Security policy
-├── CHANGELOG.md # Version history
-├── .gitignore # Git ignore file
-├── glossary.md # Definitions of key terms
-├── predictions.md # Consolidated table of falsifiable predictions
-├── ah-hah.md # Summary of Ah-Hah moments
-├── mathematical-formalization.md # Standalone mathematical framework
-├── sections/
-│ ├── section-01-introduction.md
-│ ├── ... (all 26 sections)
-│ └── section-26-topography.md
-├── early-pdfs/ # Blog entries (2017–2020)
-├── submissions/ # JCS submission materials
-└── .github/
-└── workflows/
-└── release-pdf.yml # Automatic PDF generation on release
+## Repository Structure
 
+```
+SORM/
+├── README.md                         # This file
+├── core-thesis.md                    # 1-2 page summary
+├── MASTER-INDEX.md                   # Complete navigation
+├── LICENSE                           # CC BY-SA 4.0
+├── CITATION.cff                      # Citation metadata
+├── CONTRIBUTING.md                   # Contribution guidelines
+├── ROADMAP.md                        # Future development roadmap
+├── CODE_OF_CONDUCT.md                # Community standards
+├── SECURITY.md                       # Security policy
+├── CHANGELOG.md                      # Version history
+├── .gitignore                        # Git ignore file
+├── glossary.md                       # Definitions of key terms
+├── predictions.md                    # Consolidated table of falsifiable predictions
+├── ah-hah.md                         # Summary of Ah-Hah moments
+├── mathematical-formalization.md     # Standalone mathematical framework
+├── sections/
+│   ├── section-01-introduction.md
+│   ├── section-02-intellectual-ancestry.md
+│   ├── section-03-foundational-claims.md
+│   ├── section-04-grounding-in-mainstream-physics.md
+│   ├── section-05-mathematical-formalization.md
+│   ├── section-06-falsifiability.md
+│   ├── section-07-shared-reality.md
+│   ├── section-08-ontology-of-consciousness.md
+│   ├── section-09-death-and-continuity.md
+│   ├── section-10-sine-wave-duty-cycle.md
+│   ├── section-11-heaven-nirvana.md
+│   ├── section-12-practical-implications.md
+│   ├── section-13-future-work.md
+│   ├── section-14-genesis.md
+│   ├── section-15-comparative-analysis.md
+│   ├── section-16-travelers-anomalies.md
+│   ├── section-17-anomalous-phenomena.md
+│   ├── section-18-reduced-filtering.md
+│   ├── section-19-dropping-the-filter.md
+│   ├── section-20-group-vector-shifts.md
+│   ├── section-21-overlapping-attractor-basins.md
+│   ├── section-22-intentional-frequency-shift.md
+│   ├── section-23-frequency-alignment-group-vectors.md
+│   ├── section-24-applied-frequency-modulation.md
+│   ├── section-25-remote-viewing.md
+│   └── section-26-topography.md
+├── early-pdfs/                       # Blog entries (2017–2020)
+├── submissions/                      # JCS submission materials
+└── .github/
+    └── workflows/
+        └── release-pdf.yml           # Automatic PDF generation on release
+```
 
 ---
 
