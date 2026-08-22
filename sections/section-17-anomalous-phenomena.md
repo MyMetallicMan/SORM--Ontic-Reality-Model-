@@ -118,6 +118,21 @@ The consciousness vector partially decouples from the biological receiver while 
 
 ---
 
+Section XVII.3.1: Intentional Influence on Random Physical Systems (The Intention Experiment)
+
+The Phenomenon:
+A classic "blind study" experiment, detailed in works like The Intention Experiment, involved researchers using focused intention to influence the outcome of a random process, such as a coin toss. The group of researchers intended for one specific outcome to occur more frequently than chance would predict, and the results of the experiment were statistically significant, demonstrating that the outcome was altered by the intention .
+
+ΨORM Explanation:
+This is a demonstration of consciousness as a frequency navigator altering the rendering of a local frozen moment. The researchers, as a group, successfully modulated their own frequency to influence the local probability landscape. The synchronized intention of multiple consciousness vectors created a temporary shift in the state of the local system, making the desired outcome more probable . This is a direct example of group vector coherence influencing the configuration space.
+
+The Ah-Hah Moment:
+
+    "The coin did not obey the mind. The mind and the coin are entangled in the same frequency field. By aligning with the desired outcome, the researchers made that frozen moment more accessible. The result is not a violation of physics, but a navigation of probability."
+
+Falsifiability:
+ΨORM predicts that successful outcomes of micro-PK experiments will correlate with measurable indicators of group coherence (e.g., hyperscanning EEG showing phase-locking) and will be heavily dependent on the density and specificity of the intention. If no such correlation is found under controlled conditions, this prediction would be falsified.
+
 ## XVII.4 Summary: Anomalous Phenomena and Their ΨORM Mechanics
 
 | Phenomenon | ΨORM Mechanism |
