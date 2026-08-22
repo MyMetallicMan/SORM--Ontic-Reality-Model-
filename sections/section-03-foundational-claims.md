@@ -108,6 +108,57 @@ The Mandela Effect is a consequence of vector convergence. When adjacent conscio
 
 ---
 
+## III.6 The Role of "Psi" in ΨORM
+
+The Ψ in ΨORM stands for "Psi-Ontic" — a term that intentionally evokes the phenomena traditionally labeled as "psi" (ESP, telepathy, precognition, psychokinesis, etc.). In ΨORM, these phenomena are not supernatural. They are natural consequences of the model's core mechanics.
+
+### What Counts as "Psi" in ΨORM
+
+| Phenomenon | ΨORM Mechanism |
+|------------|----------------|
+| **ESP (Extra-Sensory Perception)** | Temporal adjacency access — accessing future or distant frozen moments during reduced filtering. |
+| **Precognition / Premonition** | Accessing temporally adjacent frozen moments during sleep, meditation, or altered states. |
+| **Telepathy** | Bleed-through between frequency-compatible consciousness vectors. |
+| **Psychokinesis (PK)** | Intentional frequency modulation influencing local rendering of frozen moments. |
+| **Remote Viewing** | Frequency synchronization with a distant or non-local target attractor basin. |
+| **Healing (Intentional)** | Frequency alignment with a target biological receiver, influencing its rendering. |
+| **Near-Death Experiences** | Partial decoupling from the biological receiver; direct access to the non-physical state. |
+| **Past-Life Memories** | Memory-garbons from previous consciousness vectors accessible in early childhood. |
+| **Synchronicity** | Frequency alignment between consciousness vectors and attractor basins; meaningful coincidence. |
+
+### How Psi Interfaces with the Attractor Model
+
+| Psi Phenomenon | Attractor Model Interface |
+|----------------|---------------------------|
+| **ESP** | The consciousness vector temporarily accesses adjacent attractor basins (temporal or spatial). |
+| **Telepathy** | Two or more vectors share frequency compatibility, allowing bleed-through. |
+| **Psychokinesis** | The vector's frequency modulation influences the local rendering of frozen moments. |
+| **Remote Viewing** | The vector aligns its frequency with a distant target's frequency signature. |
+| **Precognition** | The vector accesses a temporally adjacent attractor basin (future frozen moments). |
+| **Healing** | The vector aligns its frequency with the target biological receiver, influencing its phase-locking. |
+| **NDEs** | The vector partially decouples from the biological receiver, accessing the non-physical state directly. |
+
+### Key Distinction
+
+ΨORM does not treat psi as "paranormal." It treats psi as **operational navigation** — the natural result of consciousness accessing adjacent attractor basins or modulating frequency to influence rendering. The mechanisms are:
+
+- **Frequency synchronization** — aligning with a target.
+- **Bleed-over / bleed-through** — sharing information across vectors.
+- **Duty cycle alteration** — spending more time in the non-physical state.
+- **Attractor basin access** — navigating to adjacent regions of the configuration space.
+
+**The Ah-Hah Moment:**
+> "Psi is not supernatural — it is operational. It is the natural consequence of consciousness navigating the configuration space. The mechanisms are frequency, bleed-through, and access to adjacent attractor basins."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Psi phenomena will correlate with measurable frequency shifts (EEG/MEG).
+2. Psi phenomena will be more common when the duty cycle is altered (e.g., during meditation, sleep, or altered states).
+3. Psi phenomena will be more common among individuals with high frequency coherence.
+
+If no such correlations are found, these predictions would be falsified.
+
 ## Summary
 
 Section III establishes the four foundational claims of ΨORM:
