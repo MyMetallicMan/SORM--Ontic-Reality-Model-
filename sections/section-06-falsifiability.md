@@ -71,9 +71,13 @@ To ensure the ΨORM framework is falsifiable and accessible to independent resea
 
 ### Prediction 3: Memory Access Is Non-Local
 
-**Statement:** Memories are not stored exclusively in the brain. The brain functions as a router—an access terminal to the quantum information repository. Physical damage to the biological receiver disrupts access to memories but does not destroy the memories themselves.
+**Statement:** Memories are not stored exclusively in the brain. The brain functions as a router — an access terminal to the quantum information repository. Physical damage to the biological receiver disrupts access to memories but does not destroy the memories themselves.
 
-**Clarification:** This is analogous to a computer with a damaged network adapter—the data still exists on the cloud server, but the terminal cannot retrieve it. Hippocampal damage disrupting recall is fully consistent with this model. The disruption is a failure of access, not a failure of storage.
+**Clarification:** This is analogous to a computer with a damaged network adapter — the data still exists on the cloud server, but the terminal cannot retrieve it. Hippocampal damage disrupting recall is fully consistent with this model. The disruption is a failure of access, not a failure of storage.
+
+**Burden of Proof:** This is a high-impact claim with a correspondingly high burden of proof. The goal is not to "prove non-locality" directly, but to test whether memory phenomena exceed the explanatory capacity of current neural-storage models. This is a more modest, defensible, and collaborative approach.
+
+**Strategic Framing:** Frame this not as "proving non-locality," but as "testing whether memory phenomena exceed current neural-storage models." This invites collaboration rather than confrontation.
 
 **Specific Predictions:**
 
@@ -84,12 +88,27 @@ To ensure the ΨORM framework is falsifiable and accessible to independent resea
 | Memory capacity | Instances of memory retrieval that exceed the storage capacity of the intact neural substrate (i.e., more information than the brain could physically store). |
 | Memory persistence | Persistence of specific memories despite complete destruction of the neural substrate (e.g., as documented in some NDE cases, where patients report accurate, verifiable events during cardiac arrest). |
 
+**Alternative Explanations to Rule Out:**
+
+| Alternative | Why It Must Be Ruled Out |
+|-------------|--------------------------|
+| Distributed neural coding | Memory may be stored redundantly across multiple brain regions. |
+| Neuroplasticity | The brain may reorganize and recover function after injury. |
+| Reconstructive memory | Recall may be confabulated or reconstructed from fragments. |
+| Sensory leakage | Anomalous recall may be due to unconscious sensory cues. |
+
+**Constructive Pathways:**
+
+1. **Start conservative:** Test whether anomalous memory retrieval (e.g., veridical perception during cardiac arrest) occurs at rates above chance, controlling for sensory leakage.
+2. **Quantify "storage capacity":** Collaborate with computational neuroscientists to model theoretical neural storage limits vs. reported recall fidelity.
+3. **Pre-register replication attempts:** Partner with labs studying NDEs or anesthesia awareness to test specific, narrow hypotheses.
+
 **Measurement:**
 - Case studies and controlled experiments examining memory retrieval under conditions where the neural substrate is compromised (anesthesia, brain damage, cardiac arrest).
 - Quantitative comparison of memory capacity vs. theoretical neural storage limits.
 - Longitudinal studies of memory recovery after brain injury or regeneration.
 
-**Falsification:** If no instance of memory retrieval exceeding the storage capacity of the intact neural substrate is ever observed, despite systematic investigation—and if all memories are conclusively shown to be fully destroyed by brain damage—this prediction is unsupported.
+**Falsification:** If no instance of memory retrieval exceeding the storage capacity of the intact neural substrate is ever observed, despite systematic investigation — and if all memories are conclusively shown to be fully destroyed by brain damage — this prediction is unsupported.
 
 **Status:** Testable with existing technology; requires carefully designed studies targeting anomalous memory retrieval.
 
