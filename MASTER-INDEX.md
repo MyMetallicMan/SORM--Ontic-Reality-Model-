@@ -24,6 +24,7 @@ All sections are now available in **Markdown format** for easy reading, editing,
 | Document | Description |
 |----------|-------------|
 | **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
+| **[Case Studies](./case-studies.md)** | Anonymized observations from applied ΨORM practices over decades. |
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
 
@@ -116,6 +117,7 @@ For in-text citations: (Vannrox, 2026)
 | Item | Location |
 |------|----------|
 | Core Thesis | [core-thesis.md](./core-thesis.md) |
+| Case Studies | [case-studies.md](./case-studies.md) |
 | Mathematical Formalization | [mathematical-formalization.md](./mathematical-formalization.md) |
 | Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
 | Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
@@ -126,10 +128,10 @@ For in-text citations: (Vannrox, 2026)
 ## How to Navigate
 
 1. **Start with the Core Thesis** — A 1-2 page summary of the framework.
-2. **Then explore the Master Index** — Use this document to navigate to any section.
-3. **Proceed through Parts II–V in order** — Each section builds on the previous.
-4. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
-5. **Explore the Supplementary Materials** — Early writings and submission materials provide additional context and chronological priority.
+2. **Then explore the Case Studies** — Anonymized observations from applied practices.
+3. **Then use the Master Index** — Use this document to navigate to any section.
+4. **Proceed through Parts II–V in order** — Each section builds on the previous.
+5. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
 
 ---
 
