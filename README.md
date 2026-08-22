@@ -45,7 +45,6 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 ---
 
 ## Repository Structure
-## Repository Structure
 
 ```
 SORM/
