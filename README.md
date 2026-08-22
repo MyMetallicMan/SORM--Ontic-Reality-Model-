@@ -23,6 +23,7 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 | Document | Description |
 |----------|-------------|
 | **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
+| **[Case Studies](./case-studies.md)** | Anonymized observations from applied ΨORM practices over decades. |
 | **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 26 sections. |
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
@@ -46,10 +47,12 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 
 ## Repository Structure
 
+
 ```
 SORM/
 ├── README.md                         # This file
 ├── core-thesis.md                    # 1-2 page summary
+├── case-studies.md                   # Anonymized observations from applied practices
 ├── MASTER-INDEX.md                   # Complete navigation
 ├── LICENSE                           # CC BY-SA 4.0
 ├── CITATION.cff                      # Citation metadata
@@ -96,6 +99,7 @@ SORM/
     └── workflows/
         └── release-pdf.yml           # Automatic PDF generation on release
 ```
+
 
 ---
 
