@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 22, 2026  
 
 ---
 
@@ -18,11 +18,16 @@ A scientific framework must generate specific, testable, and falsifiable predict
 
 ## VI.2 Operational Definitions
 
-- **Frequency $(\Omega)$:** The specific eigenvalue of the consciousness operator, dictating the probability distribution of the vector's attention within the configuration space. Measured indirectly via phase coherence (EEG, MEG, or quantum coherence experiments).
-- **Shift in Frequency $(\Delta \Omega)$:** A unitary transformation of the consciousness vector's state, driven by the application of thought (directed attentional weight). Measured as a change in phase coherence.
-- **Phase-Locking:** The state where the commutator of consciousness and biological receiver observables approaches zero. Measured as high mutual information between the consciousness vector and the biological receiver.
-- **Bleed-Over:** Incomplete decoherence between adjacent vectors $(\Delta \Omega \approx 0)$, resulting in non-zero entanglement entropy. Measured as non-local correlations between separated consciousnesses.
-- **Bleed-Through:** Transient quantum entanglement during rapid, extreme frequency shifts. Measured as temporary, high-fidelity information transfer.
+To ensure the ΨORM framework is falsifiable and accessible to independent researchers, all key terms are defined in terms of measurable physical quantities.
+
+| ΨORM Term | Operational Definition | Measurement Protocol |
+|-----------|------------------------|---------------------|
+| **Frequency (Ω)** | The specific eigenvalue of the consciousness operator, corresponding to the dominant frequency band (e.g., alpha, beta, gamma) of neural oscillations. | EEG spectral analysis: Identify the peak frequency band during intentional tasks. |
+| **Frequency Shift (ΔΩ)** | A change in the dominant frequency band or phase coherence (PLV) between baseline and task states. | EEG/MEG: Compare PLV during intentional focus vs. resting state. Use a threshold of p < 0.05 for statistical significance. |
+| **Phase-Locking Value (PLV)** | A measure of the consistency of phase differences between two signals, ranging from 0 (no locking) to 1 (perfect locking). | EEG: Compute PLV between electrode pairs using Hilbert transform. |
+| **Frequency Attractor** | A stable PLV pattern that emerges consistently across repeated trials or individuals. | Cluster analysis: Identify PLV patterns that recur across trials. |
+| **Filter Dropping** | A reduction in alpha power (8–12 Hz) or increase in broadband gamma power (30–100 Hz), indicating reduced sensory gating. | EEG: Measure alpha attenuation during meditation or altered states. |
+| **Template Clustering** | The grouping of individuals by similarity of their PLV patterns during shared intentional tasks. | Hyperscanning EEG: Compute inter-subject PLV correlations and use hierarchical clustering. |
 
 ---
 
@@ -120,13 +125,13 @@ A scientific framework must generate specific, testable, and falsifiable predict
 
 ## VI.5 Summary of Predictions
 
-| Prediction | Measurement | Falsification Criterion |
-|------------|-------------|------------------------|
-| Frequency shifts are measurable. | EEG/MEG phase coherence. | No shift occurs during intentional thought. |
-| Phase-locking correlates with navigation. | EEG PLV and outcome measures. | No correlation. |
-| Memory access is non-local. | Memory retrieval under neural compromise. | No memory exceeds neural storage capacity. |
-| Shared experiences correlate with frequency similarity. | Hyperscanning EEG and shared experience reports. | No correlation. |
-| Intentional frequency shifts alter perception. | Neurofeedback and perceptual content. | No change in perception. |
+| Prediction | Operational Definition | Measurement | Falsification Criterion |
+|------------|------------------------|-------------|------------------------|
+| 1. Frequency shifts are measurable. | ΔΩ = change in PLV between baseline and intentional focus. | EEG/MEG: PLV comparison. | No significant PLV change during intentional thought. |
+| 2. Phase-locking correlates with performance. | PLV correlates with reaction time or accuracy. | EEG + behavioral data. | No correlation between PLV and performance. |
+| 3. Memory access is non-local. | Memory retrieval exceeds neural storage limits. | Controlled memory studies. | No instance of retrieval exceeding storage capacity. |
+| 4. Shared experiences correlate with frequency similarity. | Inter-subject PLV correlation during shared tasks. | Hyperscanning EEG. | No correlation between PLV and shared experience. |
+| 5. Intentional shifts alter perception. | Perceptual threshold changes during neurofeedback. | Neurofeedback + perceptual tasks. | No perceptual change during intentional modulation. |
 
 ---
 
