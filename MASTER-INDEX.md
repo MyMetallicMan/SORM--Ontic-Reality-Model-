@@ -113,7 +113,7 @@ For in-text citations: (Vannrox, 2026)
 
 ## How to Navigate
 
-1. **Start with the Main Document** — Use the master index to navigate to any section.
+1. **Start with the Master Index** — Use this document to navigate to any section.
 2. **Proceed through Parts II–V in order** — Each section builds on the previous.
 3. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
 4. **Explore the Supplementary Materials** — Early writings and submission materials provide additional context and chronological priority.
@@ -143,4 +143,3 @@ This repository is maintained by Robert Vannrox. For inquiries regarding the wor
 ---
 
 *This work is dedicated to future generations. May it serve them well.*
- 
