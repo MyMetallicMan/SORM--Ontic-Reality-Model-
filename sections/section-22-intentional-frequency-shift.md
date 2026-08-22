@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 22, 2026  
 
 ---
 
@@ -55,20 +55,40 @@ The language of intention is critical. Affirmations must be stated in the presen
 
 ---
 
-## XXII.5 Frequency Hygiene
+## XXII.5 Aligning with Deeper Needs
 
-Frequency hygiene is the practice of maintaining coherent frequency alignment. Negative self-talk, self-deprecation, and engagement with negative individuals introduce frequency dissonance.
+Surface desires often mask deeper needs. A desire for a beach house may mask a need for peace, freedom, or adventure. A desire for wealth may mask a need for security or recognition.
 
-| Practice | Why It Matters |
-|----------|----------------|
-| Avoid Self-Deprecating Language | Weakens frequency coherence. |
-| Limit Exposure to Negative Individuals | Dissonant frequencies disrupt alignment. |
-| Maintain Positive Speech | Reinforces coherent frequency alignment. |
-| Recognize Negative Statements | Each negative statement weakens the alignment and requires additional effort to restore coherence. |
+When formulating intentions, practitioners should ask: *"What is the deeper need behind this desire?"* Aligning with the deeper need — rather than the symbolic prop — increases the accuracy of frequency targeting and reduces the risk of unexpected or unsatisfying manifestations.
+
+**The Ah-Hah Moment:**
+> "The universe delivers the substance, not the symbol. Focus on the frequency of the desired outcome, not the specific form it will take."
 
 ---
 
-## XXII.6 Visualization as Frequency Anchoring
+## XXII.6 Embracing Trade-Offs
+
+Every intentional frequency shift involves trade-offs. Shifting to a beach-side lifestyle may mean sacrificing access to mountains or winter seasons. Shifting to a high-powered career may mean sacrificing leisure time.
+
+Practitioners should recognize that the physical rendering of a desired attractor basin will involve trade-offs. The goal is not to achieve an idealized image but to align with authentic needs and values. Honest self-reflection is essential for navigating these trade-offs successfully.
+
+**The Ah-Hah Moment:**
+> "Every shift involves trade-offs. The goal is alignment with your authentic needs, not an idealized image."
+
+---
+
+## XXII.7 The Pitfalls of Symbolic Navigation
+
+A common pitfall in intentional frequency shift is assuming that the physical rendering will match the mental image. The universe delivers the frequency-aligned substance of the intention, not the symbolic prop used to represent it.
+
+For example, an affirmation for "fine, delicious, and healthy food" may result in a shift toward fresh seafood and vegetables rather than the expected hamburgers and pizza. The substance is delivered; the symbol may or may not follow.
+
+**The Ah-Hah Moment:**
+> "Focus on the frequency of the desired outcome, not the specific form it will take."
+
+---
+
+## XXII.8 Visualization as Frequency Anchoring
 
 Visualization is a form of frequency anchoring. By mentally simulating the desired outcome, the consciousness vector generates a frequency profile that aligns with the desired attractor basin.
 
@@ -78,9 +98,28 @@ Visualization is a form of frequency anchoring. By mentally simulating the desir
 | Emotional Engagement | Emotions generate strong frequency signals. |
 | Repetition | Reinforces the frequency alignment over time. |
 
+**The Ah-Hah Moment:**
+> "Visualization is not fantasy — it is frequency engineering. It pre-renders the desired outcome, reducing the lag between frequency alignment and manifestation."
+
 ---
 
-## XXII.7 Falsifiability
+## XXII.9 Frequency Hygiene
+
+Frequency hygiene is the practice of maintaining coherent frequency alignment. Negative self-talk, self-deprecation, and engagement with negative individuals introduce frequency dissonance. Each dissonant statement or interaction can disrupt the coherence of the consciousness vector, potentially undoing the effects of intentional frequency modulation.
+
+**Practitioners should:**
+
+- Avoid self-deprecating language.
+- Limit exposure to negative individuals and environments.
+- Maintain positive, coherent speech and thought patterns.
+- Recognize that each negative statement weakens the alignment and requires additional effort to restore coherence.
+
+**The Ah-Hah Moment:**
+> "Every negative statement erases one affirmation session. Frequency hygiene is not optional — it is essential for sustained alignment."
+
+---
+
+## XXII.10 Falsifiability
 
 ΨORM predicts that individuals who practice intentional frequency shift will show measurable increases in frequency coherence (EEG/MEG) over time. If no such correlation is found, this prediction would be falsified.
 
