@@ -19,6 +19,16 @@ All sections are now available in **Markdown format** for easy reading, editing,
 
 ---
 
+## Quick Start
+
+| Document | Description |
+|----------|-------------|
+| **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
+| **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
+| **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
+
+---
+
 ## Citation
 
 When citing this work, please use the following format:
@@ -56,7 +66,7 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| V | Mathematical Formalization | [Section V](./sections/section-05-mathematical-formalization.md) — [Standalone Document](./mathematical-formalization.md) |
+| V | Mathematical Formalization | [Section V](./sections/section-05-mathematical-formalization.md) — [Standalone](./mathematical-formalization.md) |
 | X | The Sine Wave and the 50% Duty Cycle | [Section X](./sections/section-10-sine-wave-duty-cycle.md) |
 | XII | Practical Implications — Cultivating Frequency Synchronization | [Section XII](./sections/section-12-practical-implications.md) |
 | XIX | The Dropping of the Filter — Applied Phenomenology of ΨORM | [Section XIX](./sections/section-19-dropping-the-filter.md) |
@@ -105,6 +115,8 @@ For in-text citations: (Vannrox, 2026)
 
 | Item | Location |
 |------|----------|
+| Core Thesis | [core-thesis.md](./core-thesis.md) |
+| Mathematical Formalization | [mathematical-formalization.md](./mathematical-formalization.md) |
 | Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
 | Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
 | JCS Submission Materials | [Submissions](./submissions/) |
@@ -113,10 +125,11 @@ For in-text citations: (Vannrox, 2026)
 
 ## How to Navigate
 
-1. **Start with the Master Index** — Use this document to navigate to any section.
-2. **Proceed through Parts II–V in order** — Each section builds on the previous.
-3. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
-4. **Explore the Supplementary Materials** — Early writings and submission materials provide additional context and chronological priority.
+1. **Start with the Core Thesis** — A 1-2 page summary of the framework.
+2. **Then explore the Master Index** — Use this document to navigate to any section.
+3. **Proceed through Parts II–V in order** — Each section builds on the previous.
+4. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
+5. **Explore the Supplementary Materials** — Early writings and submission materials provide additional context and chronological priority.
 
 ---
 
