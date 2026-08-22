@@ -65,6 +65,15 @@ These are the most immediate and actionable next steps. They require experimenta
 | **Create a "Getting Started" guide** | A brief, accessible introduction for new readers. | Medium |
 | **Translate into other languages** | Make the framework accessible to non-English speakers. | Low |
 
+### 2.4 Memory Research Pathway (Collaborative)
+
+| Task | Description | Priority |
+|------|-------------|----------|
+| **Test anomalous memory retrieval** | Partner with labs studying NDEs or anesthesia awareness to test whether veridical perception during cardiac arrest occurs at rates above chance, controlling for sensory leakage. | High |
+| **Quantify neural storage capacity** | Collaborate with computational neuroscientists to model theoretical neural storage limits vs. reported recall fidelity. | High |
+| **Pre-register replication attempts** | Pre-register studies to ensure transparency and reproducibility. | Medium |
+| **Rule out alternative explanations** | Design experiments to control for distributed coding, neuroplasticity, reconstructive memory, and sensory leakage. | High |
+
 ---
 
 ## 3. Medium-Term (2–5 Years)
