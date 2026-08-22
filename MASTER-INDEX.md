@@ -56,7 +56,7 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| V | Mathematical Formalization | [Section V](./sections/section-05-mathematical-formalization.md) |
+| V | Mathematical Formalization | [Section V](./sections/section-05-mathematical-formalization.md) — [Standalone Document](./mathematical-formalization.md) |
 | X | The Sine Wave and the 50% Duty Cycle | [Section X](./sections/section-10-sine-wave-duty-cycle.md) |
 | XII | Practical Implications — Cultivating Frequency Synchronization | [Section XII](./sections/section-12-practical-implications.md) |
 | XIX | The Dropping of the Filter — Applied Phenomenology of ΨORM | [Section XIX](./sections/section-19-dropping-the-filter.md) |
