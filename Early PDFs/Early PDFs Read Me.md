@@ -1,0 +1,1 @@
+These are my early writings as I explored SORM prior to rigorous attention. It is a mixture of intention, physics, some "pseudo science", and other avenues of investigation. Reading these allows the reader to see, in real time (everything is date and time stamped) how i came to develop SORM concepts a full decade before AI entered the public domain.
