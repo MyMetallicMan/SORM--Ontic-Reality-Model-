@@ -103,6 +103,16 @@ Reading these early posts alongside the formal ΨORM framework reveals the evolu
 | False positives | Substance over symbol |
 | Course correction | Frequency hygiene |
 | Extreme goals | Novel attractor basins |
+| Consciousness as soul fragment | Soul projects consciousness (10–35% of quanta) |
+| Soul has say in manifestations | Soul growth as purpose; lessons attached to desires |
+| Weaving / Dodging	Frequency hygiene | Protection from group vector interference |
+| Wet Towel technique | Kinesthetic frequency anchoring |
+| Image vocalization | Visualization as frequency anchoring |
+| Time track control | Intention timing / Affirmation refinement |
+| Aggressive implementation | Accelerated attractor basin shift |
+| Present tense | Language of intention |
+| Lazy Man's technique | Random deviation from fated path |
+
 
 These posts demonstrate that the core ideas of ΨORM were developed independently, years before AI entered the public domain.
 
