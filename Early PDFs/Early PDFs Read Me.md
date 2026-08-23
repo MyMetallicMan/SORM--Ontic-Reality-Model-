@@ -86,6 +86,26 @@ They are, simply, the raw material from which ΨORM was eventually refined.
 
 ---
 
+## Conceptual Evolution
+
+Reading these early posts alongside the formal ΨORM framework reveals the evolution of key concepts:
+
+| Early Concept | ΨORM Equivalent |
+|---------------|-----------------|
+| World-lines | Frozen moments / Configuration space |
+| Template map | Topography of the configuration space |
+| Pre-birth template | Pre-birth template / Fated life |
+| Slides | Intentional frequency shift |
+| Affirmation campaigns | Applied frequency modulation |
+| Comfort zone | Path of least resistance |
+| Echo chamber | Group vector coherence |
+| Shadow people | Quantum shadows |
+| False positives | Substance over symbol |
+| Course correction | Frequency hygiene |
+| Extreme goals | Novel attractor basins |
+
+These posts demonstrate that the core ideas of ΨORM were developed independently, years before AI entered the public domain.
+
 ## Final Thought
 
 > "The road to discovery is not a straight line. It is a path of wandering, backtracking, and stumbling. These early writings are the footprints left behind during that journey. They are not the destination — they are the map of how I got there."
