@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 22, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -118,7 +118,9 @@ All intentional frequency modulation techniques share a common principle:
 **The Ah-Hah Moment:**
 > "A wish machine is not a gimmick — it is a frequency generator. It amplifies and broadcasts the intention, reinforcing the desired attractor basin."
 
-### Soul Energy Healing
+---
+
+### Soul Energy Healing Techniques
 
 | Element | Description |
 |---------|-------------|
@@ -128,6 +130,8 @@ All intentional frequency modulation techniques share a common principle:
 
 **Client-Reported Experience:**
 > "I begin by throwing out a shower of my energy as an umbrella... a cloud of cotton candy. This gives my wife a blanket of mental warmth which is calming." — *Journey of Souls*
+
+**See Also:** Section XXVIII (The Non-Physical State — Healing), Section XXX (Soul Specializations — Restoration Masters)
 
 ### Somatic Bridging
 
@@ -176,6 +180,7 @@ Visualization is a form of frequency anchoring. By mentally simulating the desir
 | Golden Dawn / Thelema | Ritual | Intentional ritual frequency modulation. |
 | Wish Machine (Electronic) | External Device | External frequency generation and broadcast. |
 | Wish Machine (Hydraulic) | External Device | Water-based frequency entrainment. |
+| Soul Energy Healing | Spiritual | Directed energy healing. |
 
 ---
 
@@ -186,8 +191,10 @@ Visualization is a form of frequency anchoring. By mentally simulating the desir
 2. External frequency devices will produce measurable frequency shifts in the biological receiver.
 3. Physical frequency anchors will produce measurable frequency alignment in the individual.
 
+If no such correlations are found, these predictions would be falsified.
+
 ---
 
 ## Summary
 
-Section XXIV presents a formalized overview of practical frequency modulation techniques, grounded in the ΨORM framework. Mental techniques, audio techniques, physical techniques, environmental techniques, ritual techniques, and external devices are all explained as different ways of generating, amplifying, and anchoring frequency.
+Section XXIV presents a formalized overview of practical frequency modulation techniques, grounded in the ΨORM framework. Mental techniques, audio techniques, physical techniques, environmental techniques, ritual techniques, and external devices are all explained as different ways of generating, amplifying, and anchoring frequency. Soul energy healing — including somatic bridging and energy restoration — extends these techniques into the non-physical state. For a detailed exploration of soul healing in the non-physical state, see Section XXVIII. For the role of Restoration Masters, see Section XXX (Soul Specializations).
