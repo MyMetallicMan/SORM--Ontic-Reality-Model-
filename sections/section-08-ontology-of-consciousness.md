@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -11,17 +11,6 @@
 This section defines the ontological hierarchy of ΨORM — the fundamental building blocks of reality and their relationships. The hierarchy moves from the simplest quantum structures to the most complex self-aware systems.
 
 ---
-
-## VIII.2 The Ontological Hierarchy
-
-| Level | Term | Definition |
-|-------|------|------------|
-| 1 | Quanta | Fundamental building blocks of reality. |
-| 2 | Garbons | Ordered quantum structures that form naturally. They exist prior to consciousness. Consciousness can generate new garbons. |
-| 3 | Soul | A complex, organized collection of garbons that has achieved sentience. The quantum information repository (the "cloud"). |
-| 4 | Consciousness | A projection of the soul into a specific frozen moment or sequence of frozen moments. |
-| 5 | Consciousness Vector | The directed sequence of frozen moments illuminated by a given consciousness. |
-| 6 | Biological Receiver | The physical body and brain. An access terminal to the soul. A router, not a hard drive. |
 
 ## VIII.2 The Ontological Hierarchy
 
@@ -62,6 +51,8 @@ Souls do not exist in isolation. They belong to groups that function as spiritua
 
 **Client-Reported Experience:**
 > "They all know me... my people... I've been with them for so long." — *Journey of Souls*
+
+**See Also:** Section XXVIII (Non-Physical State), Section XXIII (Group Vector Coherence)
 
 ### VIII.2.3 Animal Souls
 
@@ -132,6 +123,12 @@ Consciousness navigates reality to generate experiences. Experiences are consoli
 
 ---
 
+## VIII.7 Falsifiability
+
+ΨORM predicts that individuals who exercise agency — who intentionally generate thought-garbons — will show measurable increases in soul complexity (as proxied by coherence and navigational success). If no correlation between agency practice and soul growth is found, this prediction would be falsified.
+
+---
+
 ## Summary
 
-Section VIII establishes the ontological hierarchy of ΨORM, from quanta to the soul. It positions consciousness as the ground of being and the navigator of reality. The purpose of navigation is soul growth — the expansion of the soul through experience.
+Section VIII establishes the ontological hierarchy of ΨORM, from quanta to the soul. It positions consciousness as the ground of being and the navigator of reality. The purpose of navigation is soul growth — the expansion of the soul through experience. Soul duality, soul groups, and animal souls are integral parts of this ontology, and are explored in greater detail in Section XXVIII (The Non-Physical State).
