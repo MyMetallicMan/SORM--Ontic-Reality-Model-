@@ -1,10 +1,10 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.0 (Canonical Markdown Edition)  
+**Version:** 13.1 (Complete Integrated Edition)  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** August 25, 2026  
 **License:** CC BY-SA 4.0  
-**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434) 
+**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://doi.org/10.5281/zenodo.22074434)
 
@@ -46,6 +46,7 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 ---
 
 ## Repository Structure
+
 
 ```
 SORM/
@@ -103,15 +104,17 @@ SORM/
 └── .github/
 └── workflows/
 └── release-pdf.yml # Automatic PDF generation on release
-```
 
+
+
+---
 
 ## Citation Instructions
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.0, (2026).**  
-DOI: [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.1, (2026).**  
+DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
 
@@ -126,7 +129,7 @@ To ensure this work is permanently preserved and citable, this repository is pai
 1. Create a free account at [zenodo.org](https://zenodo.org).
 2. Connect your GitHub account to Zenodo.
 3. Enable archiving for this repository (`SORM`).
-4. Create a release on GitHub (v13.0 or later).
+4. Create a release on GitHub (v13.1 or later).
 5. Zenodo will automatically archive the release and assign a DOI.
 6. Update this README with the assigned DOI.
 
@@ -164,6 +167,13 @@ For more details, see `CONTRIBUTING.md`.
 
 ---
 
+## Contact
+
+This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
+
+---
+
+*This work is dedicated to future generations. May it serve them well.*
 ## Contact
 
 This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
