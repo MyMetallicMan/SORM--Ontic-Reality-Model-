@@ -30,14 +30,45 @@ When the biological receiver ceases to function, the connection between the cons
 
 ## IX.3 Death as Decoupling
 
-| Event | What Happens |
-|-------|--------------|
-| Clinical Death | The biological receiver ceases to function. The consciousness vector decouples from that specific terminal. |
-| Soul Persistence | The soul — the quantum information repository — continues to exist. It retains all memory-garbons and thought-garbons. |
-| Re-engagement | The soul may project a new consciousness vector into a new biological receiver (reincarnation) or continue in the non-physical state. |
+### The Moment of Death
 
-**The Ah-Hah Moment:**
-> "The body is a vehicle, not a driver. When the vehicle breaks down, the driver does not cease to exist."
+| Event | Description |
+|-------|-------------|
+| **Soul Rising** | The consciousness vector decouples from the biological receiver. |
+| **Euphoric Release** | The removal of physical density and pain. |
+| **The Tunnel Effect** | A passageway through the astral plane surrounding Earth. |
+| **The Bright Light** | The approach to the non-physical state. |
+
+**Client-Reported Experience:**
+> "I'm floating... I can look down and see my body lying flat in the hospital bed. Everyone around me thinks I'm dead, but I'm not. I'm alive!" — *Journey of Souls*
+
+### The Pulling Sensation
+
+Souls report a gentle but persistent pulling sensation that draws them away from Earth and toward the non-physical state.
+
+**ΨORM Mechanism:** Frequency resonance — the soul's natural frequency aligns with the non-physical state, drawing it upward.
+
+### The Gateway
+
+| Element | Description |
+|---------|-------------|
+| **Passage** | Souls pass through a gateway into the non-physical state. |
+| **Greeting** | Souls are met by guides, soulmates, or loved ones. |
+| **Healing** | Souls undergo an initial energy restoration. |
+
+**Client-Reported Experience:**
+> "I see a figure coming toward me... a young, rather plain face with a large forehead. Kate radiates peace." — *Journey of Souls*
+
+### The Homecoming
+
+| Element | Description |
+|---------|-------------|
+| **Welcoming Committee** | Souls are met by familiar entities. |
+| **Recognition** | Souls recognize their loved ones instantly. |
+| **Celebration** | Some homecomings are joyous celebrations. |
+
+**Client-Reported Experience:**
+> "We are holding each other... it's so good to be with her again." — *Journey of Souls*
 
 ---
 
