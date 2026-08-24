@@ -34,18 +34,39 @@ Before examining specific phenomena, we must establish the core mechanics that u
 
 The reported phenomena can be grouped into several categories, each explained by specific ΨORM mechanics.
 
-### Category A: Near-Death Experiences and "Restart" Events
+## XVII.3 Category A: Ghosts and Displaced Souls
 
-**Reported Phenomena:**
-- A person experiences a catastrophic event and "dies" — but then "restarts" moments earlier, unharmed.
-- The person retains a vivid memory of the "death" event, including sensory details.
+### Ghosts
 
-**ΨORM Explanation:**
-The consciousness vector decouples from the biological receiver during the catastrophic event. Instead of fully disconnecting, the vector re-anchors to a nearby frozen moment — an adjacent frequency basin where the event did not occur. The memory of the "death" moment is carried over as a memory-garbon.
+| Element | Description |
+|---------|-------------|
+| **Definition** | Souls who refuse to leave Earth after death. |
+| **Cause** | Unfinished business, unresolved grief, trauma. |
+| **Resolution** | Redeemer Masters assist ghosts in transitioning. |
 
-**The Ah-Hah Moment:**
-> "You did not imagine it. You did not hallucinate. You experienced a real death in one frozen moment — and then re-anchored to a different frozen moment where you survived. The memory is not false — it is from a different version of reality."
+**Client-Reported Experience:**
+> "I won't go — I can't leave yet... I must wait longer at the farm... I cry and moan over my sadness." — *Journey of Souls*
 
+### Souls of Solitude
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | Souls who choose isolation after death. |
+| **Cause** | Self-imposed punishment, grief, guilt. |
+| **Resolution** | Gradual healing, eventual return to the soul group. |
+
+**Client-Reported Experience:**
+> "They box themselves in so they can't experience much light or make contact with anyone. It is self-imposed punishment." — *Journey of Souls*
+
+### Redeemer Masters
+
+| Element | Description |
+|---------|-------------|
+| **Role** | Rescuing souls who are lost or displaced. |
+| **Qualities** | Compassion, patience, gentle guidance. |
+
+**Client-Reported Experience:**
+> "The Redeemer of Lost Souls calls to me and I move further away from Earth with him." — *Journey of Souls*
 ---
 
 ### Category B: Objects Appearing and Disappearing
