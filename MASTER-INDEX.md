@@ -89,6 +89,7 @@ For in-text citations: (Vannrox, 2026)
 | XXIV | Applied Frequency Modulation: Practical Techniques for Intention Navigation | [Section XXIV](./sections/section-24-applied-frequency-modulation.md) |
 | XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./sections/section-25-remote-viewing.md) |
 | XXVI | The Topography of the Configuration Space | [Section XXVI](./sections/section-26-topography.md) |
+| XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-discrete-states-of-consciousness.md) |
 
 ---
 
