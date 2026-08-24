@@ -16,15 +16,31 @@ This section describes the mechanism of joining a new attractor basin, the level
 
 ## XXIII.2 What Is a Group Vector?
 
-| Concept | Definition |
-|---------|------------|
-| Group Vector | The collective trajectory of a cluster of frequency-compatible consciousness vectors. |
-| Attractor Basin | A stable region of the configuration space defined by a frequency attractor. A group vector creates and occupies its own attractor basin. |
-| Frequency Basin | The region of influence of a group vector. Consciousness vectors within the basin are drawn to the group's frequency. |
-| Collective Garbons | The shared memory-garbons and thought-garbons of the group. These are the "institutional memory" and "cultural DNA" of the group. |
+### Primary Soul Groups
 
-**The Ah-Hah Moment:**
-> "A group is not just a collection of individuals — it is a frequency field. The group vector is the trajectory of that field. When you join a group, you are not just signing a contract — you are entering a frequency basin."
+| Element | Description |
+|---------|-------------|
+| **Size** | 3–25 souls, average ~15. |
+| **Composition** | Souls at similar developmental levels. |
+| **Role** | Intimate companions, soulmates, and support network. |
+
+**Client-Reported Experience:**
+> "They all know me... my people... I've been with them for so long." — *Journey of Souls*
+
+### Secondary Soul Groups
+
+| Element | Description |
+|---------|-------------|
+| **Size** | Up to 1,000 souls. |
+| **Composition** | Multiple primary groups in the same vicinity. |
+| **Role** | Broader community, occasional interaction. |
+
+### The Inner Circle
+
+| Element | Description |
+|---------|-------------|
+| **Size** | 3–5 souls within the primary group. |
+| **Role** | Closest companions, primary soulmates. |
 
 ---
 
