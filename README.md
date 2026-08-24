@@ -45,68 +45,6 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 
 ---
 
-## Repository Structure
-
-
-```
-SORM/
-├── README.md # This file
-├── core-thesis.md # 1-2 page summary
-├── case-studies.md # Anonymized observations from applied practices
-├── MASTER-INDEX.md # Complete navigation
-├── LICENSE # CC BY-SA 4.0
-├── CITATION.cff # Citation metadata
-├── CONTRIBUTING.md # Contribution guidelines
-├── ROADMAP.md # Future development roadmap
-├── CODE_OF_CONDUCT.md # Community standards
-├── SECURITY.md # Security policy
-├── CHANGELOG.md # Version history
-├── .gitignore # Git ignore file
-├── glossary.md # Definitions of key terms
-├── predictions.md # Consolidated table of falsifiable predictions
-├── ah-hah.md # Summary of Ah-Hah moments
-├── mathematical-formalization.md # Standalone mathematical framework
-├── sections/
-│ ├── section-01-introduction.md
-│ ├── section-02-intellectual-ancestry.md
-│ ├── section-03-foundational-claims.md
-│ ├── section-04-grounding-in-mainstream-physics.md
-│ ├── section-05-mathematical-formalization.md
-│ ├── section-06-falsifiability.md
-│ ├── section-07-shared-reality.md
-│ ├── section-08-ontology-of-consciousness.md
-│ ├── section-09-death-and-continuity.md
-│ ├── section-10-sine-wave-duty-cycle.md
-│ ├── section-11-heaven-nirvana.md
-│ ├── section-12-practical-implications.md
-│ ├── section-13-future-work.md
-│ ├── section-14-genesis.md
-│ ├── section-15-comparative-analysis.md
-│ ├── section-16-travelers-anomalies.md
-│ ├── section-17-anomalous-phenomena.md
-│ ├── section-18-reduced-filtering.md
-│ ├── section-19-dropping-the-filter.md
-│ ├── section-20-group-vector-shifts.md
-│ ├── section-21-overlapping-attractor-basins.md
-│ ├── section-22-intentional-frequency-shift.md
-│ ├── section-23-frequency-alignment-group-vectors.md
-│ ├── section-24-applied-frequency-modulation.md
-│ ├── section-25-remote-viewing.md
-│ ├── section-26-topography.md
-│ ├── section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md
-│ ├── section-28-The-Non-Physical-State.md
-│ ├── section-29-The-Council-of-Elders-and-Karmic-Review.md
-│ ├── section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md
-│ ├── section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md
-│ └── section-32-The-Colors-of-Souls-and-Levels-of-Development.md
-├── early-pdfs/ # Blog entries (2017–2020)
-├── submissions/ # JCS submission materials
-└── .github/
-└── workflows/
-└── release-pdf.yml # Automatic PDF generation on release
-
-
-
 ---
 
 ## Citation Instructions
@@ -179,5 +117,66 @@ This repository is maintained by Robert Vannrox. For inquiries regarding the wor
 This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
 
 ---
+
+## Repository Structure
+
+
+```
+SORM/
+├── README.md # This file
+├── core-thesis.md # 1-2 page summary
+├── case-studies.md # Anonymized observations from applied practices
+├── MASTER-INDEX.md # Complete navigation
+├── LICENSE # CC BY-SA 4.0
+├── CITATION.cff # Citation metadata
+├── CONTRIBUTING.md # Contribution guidelines
+├── ROADMAP.md # Future development roadmap
+├── CODE_OF_CONDUCT.md # Community standards
+├── SECURITY.md # Security policy
+├── CHANGELOG.md # Version history
+├── .gitignore # Git ignore file
+├── glossary.md # Definitions of key terms
+├── predictions.md # Consolidated table of falsifiable predictions
+├── ah-hah.md # Summary of Ah-Hah moments
+├── mathematical-formalization.md # Standalone mathematical framework
+├── sections/
+│ ├── section-01-introduction.md
+│ ├── section-02-intellectual-ancestry.md
+│ ├── section-03-foundational-claims.md
+│ ├── section-04-grounding-in-mainstream-physics.md
+│ ├── section-05-mathematical-formalization.md
+│ ├── section-06-falsifiability.md
+│ ├── section-07-shared-reality.md
+│ ├── section-08-ontology-of-consciousness.md
+│ ├── section-09-death-and-continuity.md
+│ ├── section-10-sine-wave-duty-cycle.md
+│ ├── section-11-heaven-nirvana.md
+│ ├── section-12-practical-implications.md
+│ ├── section-13-future-work.md
+│ ├── section-14-genesis.md
+│ ├── section-15-comparative-analysis.md
+│ ├── section-16-travelers-anomalies.md
+│ ├── section-17-anomalous-phenomena.md
+│ ├── section-18-reduced-filtering.md
+│ ├── section-19-dropping-the-filter.md
+│ ├── section-20-group-vector-shifts.md
+│ ├── section-21-overlapping-attractor-basins.md
+│ ├── section-22-intentional-frequency-shift.md
+│ ├── section-23-frequency-alignment-group-vectors.md
+│ ├── section-24-applied-frequency-modulation.md
+│ ├── section-25-remote-viewing.md
+│ ├── section-26-topography.md
+│ ├── section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md
+│ ├── section-28-The-Non-Physical-State.md
+│ ├── section-29-The-Council-of-Elders-and-Karmic-Review.md
+│ ├── section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md
+│ ├── section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md
+│ └── section-32-The-Colors-of-Souls-and-Levels-of-Development.md
+├── early-pdfs/ # Blog entries (2017–2020)
+├── submissions/ # JCS submission materials
+└── .github/
+└── workflows/
+└── release-pdf.yml # Automatic PDF generation on release
+
 
 *This work is dedicated to future generations. May it serve them well.*
