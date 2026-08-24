@@ -35,7 +35,7 @@ All sections are now available in **Markdown format** for easy reading, editing,
 When citing this work, please use the following format:
 
 **Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.1, (2026).**  
-[10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
+**DOI:**  [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
 
