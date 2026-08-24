@@ -11,7 +11,7 @@
 
 ## How to Read This Work
 
-This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **twenty-six sections**, plus reference materials.
+This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **twenty-seven sections**, plus reference materials.
 
 All sections are now available in **Markdown format** for easy reading, editing, and contribution.
 
