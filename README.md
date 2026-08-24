@@ -4,9 +4,9 @@
 **Author:** Robert Vannrox  
 **Date:** August 24, 2026  
 **License:** CC BY-SA 4.0  
-**DOI:** [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)  
+**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434) 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036494.svg)](https://doi.org/10.5281/zenodo.22036494)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://doi.org/10.5281/zenodo.22074434)
 
 ---
 
