@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -53,6 +53,8 @@ The duty cycle can be altered intentionally through:
 **The Ah-Hah Moment:**
 > "ESP is not a supernatural gift. It is a natural consequence of spending more time in the non-physical."
 
+---
+
 ## X.5 The Role of Sleep
 
 ### The Necessity of Sleep
@@ -98,6 +100,10 @@ Sleep is not a biological inconvenience — it is a return to the non-physical s
 **The Ah-Hah Moment:**
 > "Sleep is not a pause — it is a return. Each night, you go home. Each morning, you return to the physical world. The 50% duty cycle is the rhythm of your existence."
 
+**See Also:** Section XXVIII (The Non-Physical State — Healing and Orientation)
+
+---
+
 ## X.6 The Non-Physical State
 
 ### The Shower of Healing
@@ -129,6 +135,17 @@ After healing, souls undergo an initial debriefing with their guide.
 
 ---
 
+## X.7 Falsifiability
+
+ΨORM predicts that:
+1. Individuals who practice intentional duty cycle alteration will show measurable increases in frequency coherence (EEG/MEG) over time.
+2. Sleep and dreaming will correlate with measurable frequency shifts in the biological receiver.
+3. The non-physical state experiences will be consistent across individuals in deep hypnosis.
+
+If no such correlations are found, these predictions would be falsified.
+
+---
+
 ## Summary
 
-Section X introduces the sine wave rhythm of consciousness and the 50% duty cycle. Consciousness alternates between physical and non-physical states, and this rhythm can be intentionally modulated. The non-physical state is not an exception — it is a fundamental part of existence.
+Section X introduces the sine wave rhythm of consciousness and the 50% duty cycle. Consciousness alternates between physical and non-physical states, and this rhythm can be intentionally modulated. The non-physical state is not an exception — it is a fundamental part of existence. Sleep is a return to the non-physical state, allowing for energy restoration, memory processing, and spiritual communication. For a detailed exploration of the non-physical state, see Section XXVIII.
