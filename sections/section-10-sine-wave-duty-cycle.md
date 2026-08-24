@@ -53,6 +53,51 @@ The duty cycle can be altered intentionally through:
 **The Ah-Hah Moment:**
 > "ESP is not a supernatural gift. It is a natural consequence of spending more time in the non-physical."
 
+## X.5 The Role of Sleep
+
+### The Necessity of Sleep
+
+Sleep is not a biological inconvenience — it is a return to the non-physical state. During sleep, the consciousness vector partially decouples from the biological receiver, allowing it to recharge and access the configuration space directly.
+
+### ΨORM Mechanism
+
+| Element | Description |
+|---------|-------------|
+| **Partial Decoupling** | The consciousness vector separates from the biological receiver but maintains a connection. |
+| **Energy Restoration** | The soul recharges its energy in the non-physical state. |
+| **Memory Processing** | Experiences are consolidated into memory-garbons. |
+| **Dreaming** | The soul accesses adjacent attractor basins and processes information. |
+
+### The Duty Cycle and Sleep
+
+| Element | Description |
+|---------|-------------|
+| **Physical State** | Waking hours — consciousness is phase-locked to the biological receiver. |
+| **Non-Physical State** | Sleep and dreaming — consciousness is partially decoupled. |
+| **50% Duty Cycle** | The natural balance between physical and non-physical states. |
+
+### Sleep and Healing
+
+| Element | Description |
+|---------|-------------|
+| **Physical Healing** | The body repairs itself during sleep. |
+| **Soul Healing** | The soul is restored and refreshed. |
+| **Emotional Processing** | Emotions are processed and integrated. |
+
+### Dreams as Navigation
+
+| Element | Description |
+|---------|-------------|
+| **Accessing Adjacent Basins** | During dreams, consciousness can access adjacent attractor basins. |
+| **Problem Solving** | Dreams can provide solutions to problems. |
+| **Spiritual Communication** | Guides and soulmates can communicate through dreams. |
+
+**Client-Reported Experience:**
+> "I begin by connecting myself to his divided nature here to more closely communicate with his light on Earth... I slip into his mind quite easily to deploy my energy." — *Journey of Souls*
+
+**The Ah-Hah Moment:**
+> "Sleep is not a pause — it is a return. Each night, you go home. Each morning, you return to the physical world. The 50% duty cycle is the rhythm of your existence."
+
 ## X.6 The Non-Physical State
 
 ### The Shower of Healing
