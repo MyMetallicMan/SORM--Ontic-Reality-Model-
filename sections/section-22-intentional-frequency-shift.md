@@ -28,14 +28,29 @@ If consciousness navigates reality through frequency synchronization, then inten
 
 ## XXII.3 The Process: Shifting from A to B
 
-| Step | Action | Description |
-|------|--------|-------------|
-| 1 | Define Intention | Clearly define the desired outcome in present-tense language. |
-| 2 | Generate Frequency | Focus attention on the intention. Generate a coherent frequency signal. |
-| 3 | Amplify Frequency | Use repetition, visualization, or ritual to amplify the signal. |
-| 4 | Anchor Frequency | Use physical objects, symbols, or environmental adjustments to anchor the frequency. |
-| 5 | Release Attachment | Release attachment to the outcome. Trust the frequency to attract compatible frozen moments. |
-| 6 | Observe Results | Observe the physical rendering for evidence of frequency alignment. |
+### The Preparation Class
+
+Before entering a new life, souls attend a preparation class.
+
+| Element | Description |
+|---------|-------------|
+| **Purpose** | To remember recognition signs for the next life. |
+| **Content** | Signs, symbols, and triggers for important people and events. |
+| **Significance** | Souls are given clues to help them find their soulmates and fulfill their contracts. |
+
+**Client-Reported Experience:**
+> "The signs are placed in our mind now in order to jog our memories later as humans. Flags — markers in the road of life." — *Journey of Souls*
+
+### The Recognition Signs
+
+| Element | Description |
+|---------|-------------|
+| **Senses** | Sight, sound, smell, touch. |
+| **Symbols** | Physical objects, colors, patterns. |
+| **People** | Facial features, mannerisms, voices. |
+
+**Client-Reported Experience:**
+> "A silver pendant... I will see it when I am seven years old around the neck of a woman on my street. She always wore it." — *Journey of Souls*
 
 ---
 
