@@ -1,10 +1,10 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.0 (Canonical Markdown Edition)  
+**Version:** 13.1 (Complete Integrated Edition)  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
-**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
+**Date:** August 25, 2026  
+**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 **License:** CC BY-SA 4.0  
 
 ---
@@ -35,7 +35,7 @@ All sections are now available in **Markdown format** for easy reading, editing,
 When citing this work, please use the following format:
 
 **Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.1, (2026).**  
-**DOI:**  [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
+DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
 
@@ -89,12 +89,12 @@ For in-text citations: (Vannrox, 2026)
 | XXIV | Applied Frequency Modulation: Practical Techniques for Intention Navigation | [Section XXIV](./sections/section-24-applied-frequency-modulation.md) |
 | XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./sections/section-25-remote-viewing.md) |
 | XXVI | The Topography of the Configuration Space | [Section XXVI](./sections/section-26-topography.md) |
-| XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-Discrete%20States%20of%20Consciousness%20as%20Frequency%20Basins.md) |
-| **XXVIII** | **The Non-Physical State — A Client-Mapped Geography of Heaven** | [Section XXVIII](./sections/section-28-The%20Non-Physical%20State%20—%20A%20Client-Mapped%20Geography%20of%20Heaven.md) |
-| **XXIX** | **The Council of Elders and Karmic Review** | [Section XXIX](./sections/section-29-The%20Council%20of%20Elders%20and%20Karmic%20Review.md) |
-| **XXX** | **Soul Specializations — The Roles of Advanced Souls** | [Section XXX](./sections/section-30-Soul%20Specializations%20-%20The%20Roles%20of%20Advanced%20Souls.md) |
-| **XXXI** | **The Ring of Destiny — Life Selection and Body Choice** | [Section XXXI](./sections/section-31-The%20Ring%20of%20Destiny%20-%20Life%20Selection%20and%20Body%20Choice.md) |
-| **XXXII** | **The Colors of Souls and Levels of Development** | [Section XXXII](./sections/section-32-The%20Colors%20of%20Souls%20and%20Levels%20of%20Development.md) |
+| XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md) |
+| **XXVIII** | **The Non-Physical State — A Client-Mapped Geography of Heaven** | [Section XXVIII](./sections/section-28-The-Non-Physical-State.md) |
+| **XXIX** | **The Council of Elders and Karmic Review** | [Section XXIX](./sections/section-29-The-Council-of-Elders-and-Karmic-Review.md) |
+| **XXX** | **Soul Specializations — The Roles of Advanced Souls** | [Section XXX](./sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
+| **XXXI** | **The Ring of Destiny — Life Selection and Body Choice** | [Section XXXI](./sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
+| **XXXII** | **The Colors of Souls and Levels of Development** | [Section XXXII](./sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
 
 ---
 
@@ -124,8 +124,8 @@ For in-text citations: (Vannrox, 2026)
 |------|----------|
 | Core Thesis | [core-thesis.md](./core-thesis.md) |
 | Case Studies | [case-studies.md](./case-studies.md) |
-| Mathematical Formalization | [mathematical-formalization.md](./mathematical-formalization.md) |
 | Bridges to Mainstream | [bridges-overview.md](./bridges-overview.md) |
+| Mathematical Formalization | [mathematical-formalization.md](./mathematical-formalization.md) |
 | Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
 | Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
 | JCS Submission Materials | [Submissions](./submissions/) |
@@ -152,13 +152,19 @@ Full license text is available in the `LICENSE` file.
 ## Permanent Archiving
 
 This work is permanently archived on Zenodo with the DOI:  
-[10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)
+[10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 This DOI ensures that the work remains accessible and citable even if GitHub changes or disappears.
 
 ---
 
 ## Contact
+
+This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
+
+---
+
+*This work is dedicated to future generations. May it serve them well.*
 
 This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
 
