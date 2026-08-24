@@ -12,13 +12,29 @@ If the Many-Worlds Interpretation is correct, and consciousness can navigate bet
 
 ---
 
-## XVI.2 Travelers: Who Are They?
+## XVI.2 Travelers
 
-| Type | Description | ΨORM Explanation |
-|------|-------------|------------------|
-| **Conscious Navigators** | Individuals who intentionally navigate between branches. | Advanced frequency modulation skills. |
-| **Unconscious Drifters** | Individuals who shift between branches without intention. | Natural frequency fluctuations. |
-| **Anomalous Witnesses** | Individuals who experience bleed-over or bleed-through events. | Transient entanglement with adjacent vectors. |
+### Explorer Souls
+
+| Element | Description |
+|---------|-------------|
+| **Role** | Traveling to other worlds and dimensions. |
+| **Qualities** | Curiosity, adaptability, courage. |
+| **Challenges** | Navigating unfamiliar environments, avoiding interference. |
+
+**Client-Reported Experience:**
+> "We travel to physical and mental worlds in our universe and even into other dimensions. To me, an Explorer is a highly specialized, non-incarnating being." — *Destiny of Souls*
+
+### Interdimensional Travel
+
+| Element | Description |
+|---------|-------------|
+| **Passage** | Souls pass through doorways between dimensions. |
+| **Adaptation** | Souls must adapt their energy to local conditions. |
+| **Purpose** | Exploration, learning, recreation. |
+
+**Client-Reported Experience:**
+> "I'm passing through folds of silky cloth... smooth... I'm on a band... a pathway... faster and faster." — *Journey of Souls*
 
 ---
 
