@@ -16,11 +16,37 @@ This section maps these traditional descriptions onto the ΨORM framework.
 
 ## XI.2 The Non-Physical State as a Real Region of the Configuration Space
 
-**The Ah-Hah Moment:**
-> "Heaven is not a place. It is a region of the non-physical realms."
+### The Structure of the Non-Physical State
 
-The non-physical state is not a void — it is a structured region of the configuration space. Consciousness can navigate this region, encounter other consciousnesses, and experience events that are not physically rendered.
+| Element | Description |
+|---------|-------------|
+| **Layered Light** | The spirit world is structured in layers of light. |
+| **Musical Vibrations** | Harmonic resonance is pervasive. |
+| **Infinite Space** | The non-physical state appears limitless. |
+| **Familiar Settings** | Souls initially perceive familiar Earth imagery. |
 
+**Client-Reported Experience:**
+> "Things are layered... levels of light... translucent... woven together in stratified threads." — *Destiny of Souls*
+
+### Soul Communities
+
+| Element | Description |
+|---------|-------------|
+| **Primary Soul Groups** | Intimate groups of 3–25 souls. |
+| **Secondary Soul Groups** | Broader communities of up to 1,000 souls. |
+| **Recreational Areas** | Places for dancing, music, and games. |
+| **Study Areas** | Places for learning and review. |
+
+### The Library of Life Books
+
+| Element | Description |
+|---------|-------------|
+| **Akashic Record** | The record of every soul's past lives. |
+| **Life Books** | Three-dimensional, moving records. |
+| **Study Hall** | A library setting for review. |
+
+**Client-Reported Experience:**
+> "The books contain stories which have been told and those that are untold." — *Destiny of Souls*
 ---
 
 ## XI.3 Heaven, Nirvana, and Other Traditions
