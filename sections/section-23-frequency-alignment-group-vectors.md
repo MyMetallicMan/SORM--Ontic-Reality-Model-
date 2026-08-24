@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -15,6 +15,16 @@ This section describes the mechanism of joining a new attractor basin, the level
 ---
 
 ## XXIII.2 What Is a Group Vector?
+
+| Concept | Definition |
+|---------|------------|
+| Group Vector | The collective trajectory of a cluster of frequency-compatible consciousness vectors. |
+| Attractor Basin | A stable region of the configuration space defined by a frequency attractor. A group vector creates and occupies its own attractor basin. |
+| Frequency Basin | The region of influence of a group vector. Consciousness vectors within the basin are drawn to the group's frequency. |
+| Collective Garbons | The shared memory-garbons and thought-garbons of the group. These are the "institutional memory" and "cultural DNA" of the group. |
+
+**The Ah-Hah Moment:**
+> "A group is not just a collection of individuals — it is a frequency field. The group vector is the trajectory of that field. When you join a group, you are not just signing a contract — you are entering a frequency basin."
 
 ### Primary Soul Groups
 
@@ -41,6 +51,8 @@ This section describes the mechanism of joining a new attractor basin, the level
 |---------|-------------|
 | **Size** | 3–5 souls within the primary group. |
 | **Role** | Closest companions, primary soulmates. |
+
+**See Also:** Section XXVIII (The Non-Physical State — Soul Groups)
 
 ---
 
@@ -100,4 +112,4 @@ This section describes the mechanism of joining a new attractor basin, the level
 
 ## Summary
 
-Section XXIII describes the mechanism of joining a new attractor basin through frequency alignment with a group vector. The alignment occurs at multiple levels: personal, proximate, structural, and identity. The mechanism is grounded in frequency synchronization, vector convergence, and garbon integration. Alignment is not manipulation — it is resonance. It is not a one-time event — it is a practice.
+Section XXIII describes the mechanism of joining a new attractor basin through frequency alignment with a group vector. The alignment occurs at multiple levels: personal, proximate, structural, and identity. The mechanism is grounded in frequency synchronization, vector convergence, and garbon integration. Alignment is not manipulation — it is resonance. It is not a one-time event — it is a practice. For a detailed exploration of soul groups in the non-physical state, see Section XXVIII (The Non-Physical State — Soul Groups).
