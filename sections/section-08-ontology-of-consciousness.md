@@ -23,6 +23,62 @@ This section defines the ontological hierarchy of ΨORM — the fundamental buil
 | 5 | Consciousness Vector | The directed sequence of frozen moments illuminated by a given consciousness. |
 | 6 | Biological Receiver | The physical body and brain. An access terminal to the soul. A router, not a hard drive. |
 
+## VIII.2 The Ontological Hierarchy
+
+| Level | Term | Definition |
+|-------|------|------------|
+| 1 | Quanta | Fundamental building blocks of reality. |
+| 2 | Garbons | Ordered quantum structures that form naturally. They exist prior to consciousness. Consciousness can generate new garbons. |
+| 3 | Soul | A complex, organized collection of garbons that has achieved sentience. The quantum information repository (the "cloud"). |
+| 4 | Consciousness | A projection of the soul into a specific frozen moment or sequence of frozen moments. |
+| 5 | Consciousness Vector | The directed sequence of frozen moments illuminated by a given consciousness. |
+| 6 | Biological Receiver | The physical body and brain. An access terminal to the soul. A router, not a hard drive. |
+
+### VIII.2.1 Soul Duality
+
+Souls possess the capacity to divide their energy. This is not separation — it is extension.
+
+| Element | Description |
+|---------|-------------|
+| **Holographic Nature** | Each part of the soul contains the whole. |
+| **Energy Reserve** | Part of the soul's energy remains in the non-physical state during incarnation. |
+| **Reunification** | The soul reunites with its reserve energy upon return to the non-physical state. |
+
+**Client-Reported Experience:**
+> "When I was free of my body the pulling lessened... Something wants me to go soon... I'm moving... into a brighter light." — *Journey of Souls*
+
+**The Ah-Hah Moment:**
+> "You are not just a part of the soul — you are the whole soul, projected into a temporary form. The rest of you waits in the non-physical state, ready to welcome you home."
+
+### VIII.2.2 Soul Groups
+
+Souls do not exist in isolation. They belong to groups that function as spiritual families.
+
+| Element | Description |
+|---------|-------------|
+| **Primary Soul Group** | 3–25 souls, average ~15. Intimate companions across many lives. |
+| **Secondary Soul Group** | Up to 1,000 souls. Broader community. |
+| **Inner Circle** | 3–5 souls within the primary group who are especially close. |
+
+**Client-Reported Experience:**
+> "They all know me... my people... I've been with them for so long." — *Journey of Souls*
+
+### VIII.2.3 Animal Souls
+
+Animals possess soul energy, though it differs from human souls.
+
+| Element | Description |
+|---------|-------------|
+| **Smaller Energy Mass** | Animal souls are less complex than human souls. |
+| **Domesticated vs. Wild** | Domesticated animals have a special bond with humans. |
+| **Animal Caretaker Souls** | Advanced souls who care for animal souls in the non-physical state. |
+
+**Client-Reported Experience:**
+> "Animal souls have smaller particles of energy... less volume and are not as complex as the human soul. But they have their own domains and their own community bonding." — *Destiny of Souls*
+
+**The Ah-Hah Moment:**
+> "The soul of a dog is not less than the soul of a human — it is simply different. Both are expressions of the same divine energy."
+
 ---
 
 ## VIII.3 Consciousness as the Ground of Being
