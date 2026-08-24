@@ -2,13 +2,13 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
 ## XVII.1 Overview
 
-The ΨORM model is not merely an abstract framework—it is a living description of lived experience. Throughout human history, people have reported phenomena that defy conventional materialist explanations: near-death experiences, premonitions, shared hallucinations, objects appearing and disappearing, and encounters with the "supernatural." Materialist models dismiss these as delusion, coincidence, or fraud.
+The ΨORM model is not merely an abstract framework — it is a living description of lived experience. Throughout human history, people have reported phenomena that defy conventional materialist explanations: near-death experiences, premonitions, shared hallucinations, objects appearing and disappearing, and encounters with the "supernatural." Materialist models dismiss these as delusion, coincidence, or fraud.
 
 ΨORM does not dismiss them. It explains them.
 
@@ -34,39 +34,18 @@ Before examining specific phenomena, we must establish the core mechanics that u
 
 The reported phenomena can be grouped into several categories, each explained by specific ΨORM mechanics.
 
-## XVII.3 Category A: Ghosts and Displaced Souls
+### Category A: Near-Death Experiences and "Restart" Events
 
-### Ghosts
+**Reported Phenomena:**
+- A person experiences a catastrophic event and "dies" — but then "restarts" moments earlier, unharmed.
+- The person retains a vivid memory of the "death" event, including sensory details.
 
-| Element | Description |
-|---------|-------------|
-| **Definition** | Souls who refuse to leave Earth after death. |
-| **Cause** | Unfinished business, unresolved grief, trauma. |
-| **Resolution** | Redeemer Masters assist ghosts in transitioning. |
+**ΨORM Explanation:**
+The consciousness vector decouples from the biological receiver during the catastrophic event. Instead of fully disconnecting, the vector re-anchors to a nearby frozen moment — an adjacent frequency basin where the event did not occur. The memory of the "death" moment is carried over as a memory-garbon.
 
-**Client-Reported Experience:**
-> "I won't go — I can't leave yet... I must wait longer at the farm... I cry and moan over my sadness." — *Journey of Souls*
+**The Ah-Hah Moment:**
+> "You did not imagine it. You did not hallucinate. You experienced a real death in one frozen moment — and then re-anchored to a different frozen moment where you survived. The memory is not false — it is from a different version of reality."
 
-### Souls of Solitude
-
-| Element | Description |
-|---------|-------------|
-| **Definition** | Souls who choose isolation after death. |
-| **Cause** | Self-imposed punishment, grief, guilt. |
-| **Resolution** | Gradual healing, eventual return to the soul group. |
-
-**Client-Reported Experience:**
-> "They box themselves in so they can't experience much light or make contact with anyone. It is self-imposed punishment." — *Journey of Souls*
-
-### Redeemer Masters
-
-| Element | Description |
-|---------|-------------|
-| **Role** | Rescuing souls who are lost or displaced. |
-| **Qualities** | Compassion, patience, gentle guidance. |
-
-**Client-Reported Experience:**
-> "The Redeemer of Lost Souls calls to me and I move further away from Earth with him." — *Journey of Souls*
 ---
 
 ### Category B: Objects Appearing and Disappearing
@@ -125,34 +104,30 @@ The "deceased" consciousness vector has not ceased to exist — it has reintegra
 
 ---
 
-### Category F: Astral Projection and Out-of-Body Experiences
+### Category F: Ghosts and Displaced Souls
 
 **Reported Phenomena:**
-- A person experiences being "outside" their body.
-- A person sees themselves from above.
+- A spirit refuses to leave Earth after death.
+- A person feels the presence of a "haunting."
 
 **ΨORM Explanation:**
-The consciousness vector partially decouples from the biological receiver while maintaining the phase-locking necessary for eventual return. The vector navigates the non-physical state — the cloud — without fully disconnecting.
+Souls who refuse to leave Earth after death are not lost — they are clinging to unresolved issues. They are eventually assisted by Redeemer Masters who help them transition.
+
+| Element | Description |
+|---------|-------------|
+| **Ghosts** | Souls who refuse to leave Earth after death. |
+| **Cause** | Unfinished business, unresolved grief, trauma. |
+| **Resolution** | Redeemer Masters assist ghosts in transitioning. |
+
+**Client-Reported Experience:**
+> "I won't go — I can't leave yet... I must wait longer at the farm... I cry and moan over my sadness." — *Journey of Souls*
 
 **The Ah-Hah Moment:**
-> "You are not imagining it. You are experiencing the non-physical state — the cloud. This is normal. This is natural. This is the other half of your existence."
+> "A ghost is not a demon — it is a soul that has forgotten it is free. The door is always open, but it must choose to walk through."
+
+**See Also:** Section XXVIII (The Non-Physical State — Ghosts and Displaced Souls)
 
 ---
-
-Section XVII.3.1: Intentional Influence on Random Physical Systems (The Intention Experiment)
-
-The Phenomenon:
-A classic "blind study" experiment, detailed in works like The Intention Experiment, involved researchers using focused intention to influence the outcome of a random process, such as a coin toss. The group of researchers intended for one specific outcome to occur more frequently than chance would predict, and the results of the experiment were statistically significant, demonstrating that the outcome was altered by the intention .
-
-ΨORM Explanation:
-This is a demonstration of consciousness as a frequency navigator altering the rendering of a local frozen moment. The researchers, as a group, successfully modulated their own frequency to influence the local probability landscape. The synchronized intention of multiple consciousness vectors created a temporary shift in the state of the local system, making the desired outcome more probable . This is a direct example of group vector coherence influencing the configuration space.
-
-The Ah-Hah Moment:
-
-    "The coin did not obey the mind. The mind and the coin are entangled in the same frequency field. By aligning with the desired outcome, the researchers made that frozen moment more accessible. The result is not a violation of physics, but a navigation of probability."
-
-Falsifiability:
-ΨORM predicts that successful outcomes of micro-PK experiments will correlate with measurable indicators of group coherence (e.g., hyperscanning EEG showing phase-locking) and will be heavily dependent on the density and specificity of the intention. If no such correlation is found under controlled conditions, this prediction would be falsified.
 
 ## XVII.4 Summary: Anomalous Phenomena and Their ΨORM Mechanics
 
@@ -163,10 +138,21 @@ Falsifiability:
 | Shared "impossible" events | Group vector coherence — cluster accesses adjacent frozen moment. |
 | Premonitions and prophetic dreams | Temporal adjacency access — future moments accessed during reduced filtering. |
 | Communication with deceased loved ones | Soul resonance — transient entanglement with soul-stored memory-garbons. |
-| Astral projection / OOBEs | Partial decoupling — vector navigates the non-physical state. |
+| Ghosts and displaced souls | Refusal to transition; Redeemer Masters assist. |
+
+---
+
+## XVII.5 Falsifiability
+
+ΨORM predicts that:
+1. Individuals who report anomalous experiences will show measurable frequency shifts (EEG/MEG) during the events.
+2. Ghost and displaced soul experiences will be consistent with unresolved karmic issues.
+3. Communication with the deceased will correlate with frequency resonance between vectors.
+
+If no such correlations are found, these predictions would be falsified.
 
 ---
 
 ## Summary
 
-Section XVII maps reported anomalous phenomena onto the mechanistic framework of ΨORM. Near-death experiences, objects appearing and disappearing, shared impossible events, premonitions, communication with the deceased, and astral projection are all explained as natural consequences of consciousness navigation, frequency synchronization, and the structure of the configuration space.
+Section XVII maps reported anomalous phenomena onto the mechanistic framework of ΨORM. Near-death experiences, objects appearing and disappearing, shared impossible events, premonitions, communication with the deceased, and ghost phenomena are all explained as natural consequences of consciousness navigation, frequency synchronization, and the structure of the configuration space. For a detailed exploration of ghosts and displaced souls, see Section XXVIII (The Non-Physical State).
