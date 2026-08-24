@@ -118,6 +118,36 @@ All intentional frequency modulation techniques share a common principle:
 **The Ah-Hah Moment:**
 > "A wish machine is not a gimmick — it is a frequency generator. It amplifies and broadcasts the intention, reinforcing the desired attractor basin."
 
+### Soul Energy Healing
+
+| Element | Description |
+|---------|-------------|
+| **Nature** | Souls can heal each other through directed energy. |
+| **Mechanism** | Focused beams of energy, cloaking, and energy transfer. |
+| **Techniques** | Direct touch, energy beams, somatic bridging. |
+
+**Client-Reported Experience:**
+> "I begin by throwing out a shower of my energy as an umbrella... a cloud of cotton candy. This gives my wife a blanket of mental warmth which is calming." — *Journey of Souls*
+
+### Somatic Bridging
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | Connecting two minds through telepathic transmission. |
+| **Mechanism** | Directed energy beams to various parts of the body. |
+| **Purpose** | Comfort, healing, recognition. |
+
+**Client-Reported Experience:**
+> "I play this area as if I was doing body massage — which I am, actually. I spread my energy and resonate myself by touch." — *Journey of Souls*
+
+### Energy Restoration
+
+| Element | Description |
+|---------|-------------|
+| **Purpose** | Restoring damaged soul energy. |
+| **Mechanism** | Healing beams, sound and light therapy. |
+| **Result** | Return to full spiritual vitality. |
+
 ---
 
 ## XXIV.5 Visualization as Frequency Anchoring
