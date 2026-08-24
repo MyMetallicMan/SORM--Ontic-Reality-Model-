@@ -53,6 +53,35 @@ The duty cycle can be altered intentionally through:
 **The Ah-Hah Moment:**
 > "ESP is not a supernatural gift. It is a natural consequence of spending more time in the non-physical."
 
+## X.6 The Non-Physical State
+
+### The Shower of Healing
+
+Upon arrival in the non-physical state, souls undergo an energy restoration process.
+
+| Element | Description |
+|---------|-------------|
+| **Energy Cleansing** | Removal of negative imprints from the physical life. |
+| **Healing Beams** | Directed energy to repair damaged soul energy. |
+| **Sound and Light Therapy** | Vibrational and color healing. |
+| **Restoration** | Return to full spiritual vitality. |
+
+**Client-Reported Experience:**
+> "I'm bathed and cleansed from my hurts... the light permeates through my soul... washing out most of the negative viruses." — *Journey of Souls*
+
+### Orientation and Debriefing
+
+After healing, souls undergo an initial debriefing with their guide.
+
+| Element | Description |
+|---------|-------------|
+| **Life Review** | A preliminary review of the life just ended. |
+| **Emotional Release** | Processing grief, regret, and unresolved issues. |
+| **Guidance** | Gentle counseling about lessons learned. |
+
+**The Ah-Hah Moment:**
+> "Orientation is not judgment — it is understanding. The guide does not condemn; the guide helps the soul understand itself."
+
 ---
 
 ## Summary
