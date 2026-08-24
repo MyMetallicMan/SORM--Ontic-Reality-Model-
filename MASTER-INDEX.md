@@ -125,6 +125,7 @@ For in-text citations: (Vannrox, 2026)
 | Core Thesis | [core-thesis.md](./core-thesis.md) |
 | Case Studies | [case-studies.md](./case-studies.md) |
 | Mathematical Formalization | [mathematical-formalization.md](./mathematical-formalization.md) |
+| Bridges to Mainstream | [bridges-overview.md](./bridges-overview.md) |
 | Project Timeline | [Timeline](./ΨORM%20PROJECT%20TIMELINE.odt) |
 | Early Writings (2017–2020) | [Early PDFs](./early-pdfs/) |
 | JCS Submission Materials | [Submissions](./submissions/) |
