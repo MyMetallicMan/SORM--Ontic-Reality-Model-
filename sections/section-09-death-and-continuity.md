@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -70,15 +70,19 @@ Souls report a gentle but persistent pulling sensation that draws them away from
 **Client-Reported Experience:**
 > "We are holding each other... it's so good to be with her again." — *Journey of Souls*
 
+**See Also:** Section XXVIII (The Non-Physical State — Gateway and Homecoming)
+
 ---
 
 ## IX.4 Continuity of Experience
 
 | Phenomenon | ΨORM Explanation |
 |------------|------------------|
-| NDEs (Near-Death Experiences) | The consciousness vector partially decouples from the biological receiver but does not fully disconnect. The vector experiences the non-physical state directly. |
-| Past-Life Memories | The soul retains memory-garbons from previous vectors. In early childhood, before the new biological receiver is fully calibrated, these memories may be accessible. |
-| Reincarnation | The soul projects a new consciousness vector into a new biological receiver. The new vector inherits the soul's structure but is not identical to the previous vector. |
+| **NDEs (Near-Death Experiences)** | The consciousness vector partially decouples from the biological receiver but does not fully disconnect. The vector experiences the non-physical state directly. |
+| **Past-Life Memories** | The soul retains memory-garbons from previous vectors. In early childhood, before the new biological receiver is fully calibrated, these memories may be accessible. |
+| **Reincarnation** | The soul projects a new consciousness vector into a new biological receiver. The new vector inherits the soul's structure but is not identical to the previous vector. |
+
+**See Also:** Section XXXI (The Ring of Destiny — Life Selection and Body Choice)
 
 ---
 
@@ -93,6 +97,17 @@ The non-physical state is not a void — it is a region of the configuration spa
 
 ---
 
+## IX.6 Falsifiability
+
+ΨORM predicts that:
+1. Individuals in deep hypnosis will consistently describe the same general features of the non-physical state, supporting the continuity of consciousness.
+2. The experiences described will be independent of prior religious or cultural conditioning.
+3. Near-death experiences will correlate with measurable frequency shifts in the biological receiver.
+
+If no such correlations are found, these predictions would be falsified.
+
+---
+
 ## Summary
 
-Section IX addresses death and continuity within the ΨORM framework. Death is decoupling from a specific biological receiver, not the end of consciousness. The soul persists, retains all memory, and may project new vectors into new receivers. The non-physical state is a region of the configuration space where consciousness continues to navigate and grow.
+Section IX addresses death and continuity within the ΨORM framework. Death is decoupling from a specific biological receiver, not the end of consciousness. The soul persists, retains all memory, and may project new vectors into new receivers. The non-physical state is a region of the configuration space where consciousness continues to navigate and grow. For a detailed exploration of the non-physical state, see Section XXVIII. For the process of life selection and body choice, see Section XXXI.
