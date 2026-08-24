@@ -2,7 +2,7 @@
 
 **Version:** 13.0  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 24, 2026  
 
 ---
 
@@ -47,6 +47,12 @@ This section maps these traditional descriptions onto the ΨORM framework.
 
 **Client-Reported Experience:**
 > "The books contain stories which have been told and those that are untold." — *Destiny of Souls*
+
+**The Ah-Hah Moment:**
+> "Heaven is not a place. It is a region of the non-physical realms."
+
+**See Also:** Section XXVIII (The Non-Physical State — Geography and Structure)
+
 ---
 
 ## XI.3 Heaven, Nirvana, and Other Traditions
@@ -71,6 +77,17 @@ Consciousness vectors in the non-physical state can cluster into communities, ju
 
 ---
 
+## XI.5 Falsifiability
+
+ΨORM predicts that:
+1. Individuals in deep hypnosis will consistently describe the same general features of the non-physical state, supporting the reality of these regions.
+2. The descriptions will be independent of prior religious or cultural conditioning.
+3. The experiences of the non-physical state will be consistent across individuals.
+
+If no such consistency is found, these predictions would be falsified.
+
+---
+
 ## Summary
 
-Section XI maps traditional descriptions of the afterlife onto the ΨORM framework. Heaven, nirvana, and the spirit world are regions of the non-physical state. Consciousness can navigate these regions, encounter other consciousnesses, and continue to grow. The non-physical state is not an exception — it is a fundamental part of existence.
+Section XI maps traditional descriptions of the afterlife onto the ΨORM framework. Heaven, nirvana, and the spirit world are regions of the non-physical state. Consciousness can navigate these regions, encounter other consciousnesses, and continue to grow. The non-physical state is not an exception — it is a fundamental part of existence. For a detailed exploration of the non-physical state, see Section XXVIII.
