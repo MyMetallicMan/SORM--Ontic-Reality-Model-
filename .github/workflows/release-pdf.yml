@@ -4,24 +4,37 @@ on:
   release:
     types: [published]
 
+permissions:
+  contents: write      # Grants permission to upload assets
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Publish PDF Document
-        uses: shrink/actions-document-publish@v1
-        id: publish-document
-        with:
-          sources: 'sections/*.md'
-      
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+
+      - name: Combine Markdown files and generate PDF
+        run: |
+          mkdir -p output
+          pandoc sections/*.md \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -V fontsize=12pt \
+            -V mainfont="DejaVu Serif" \
+            -V monofont="DejaVu Sans Mono" \
+            --toc \
+            --toc-depth=2 \
+            -o output/SORM-v${{ github.event.release.tag_name }}.pdf
+
       - name: Upload PDF to Release
-        uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ github.event.release.upload_url }}
-          asset_path: ${{ steps.publish-document.outputs.pdf }}
-          asset_name: SORM-v${{ github.event.release.tag_name }}.pdf
-          asset_content_type: application/pdf
+        run: |
+          gh release upload ${{ github.event.release.tag_name }} output/SORM-v${{ github.event.release.tag_name }}.pdf --repo ${{ github.repository }}
