@@ -3,7 +3,7 @@
 **The Ψ-Ontic Reality Model (ΨORM)**  
 **Version:** 13.0 (Canonical Markdown Edition)  
 **Author:** Robert Vannrox  
-**Date:** August 22, 2026  
+**Date:** August 24, 2026  
 **DOI:** [10.5281/zenodo.22036494](https://doi.org/10.5281/zenodo.22036494)  
 **License:** CC BY-SA 4.0  
 
@@ -11,7 +11,7 @@
 
 ## How to Read This Work
 
-This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **twenty-seven sections**, plus reference materials.
+This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **thirty-two sections**, plus reference materials.
 
 All sections are now available in **Markdown format** for easy reading, editing, and contribution.
 
@@ -90,6 +90,11 @@ For in-text citations: (Vannrox, 2026)
 | XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./sections/section-25-remote-viewing.md) |
 | XXVI | The Topography of the Configuration Space | [Section XXVI](./sections/section-26-topography.md) |
 | XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-Discrete%20States%20of%20Consciousness%20as%20Frequency%20Basins.md) |
+| **XXVIII** | **The Non-Physical State — A Client-Mapped Geography of Heaven** | [Section XXVIII](./sections/section-28-The%20Non-Physical%20State%20—%20A%20Client-Mapped%20Geography%20of%20Heaven.md) |
+| **XXIX** | **The Council of Elders and Karmic Review** | [Section XXIX](./sections/section-29-The%20Council%20of%20Elders%20and%20Karmic%20Review.md) |
+| **XXX** | **Soul Specializations — The Roles of Advanced Souls** | [Section XXX](./sections/section-30-Soul%20Specializations%20-%20The%20Roles%20of%20Advanced%20Souls.md) |
+| **XXXI** | **The Ring of Destiny — Life Selection and Body Choice** | [Section XXXI](./sections/section-31-The%20Ring%20of%20Destiny%20-%20Life%20Selection%20and%20Body%20Choice.md) |
+| **XXXII** | **The Colors of Souls and Levels of Development** | [Section XXXII](./sections/section-32-The%20Colors%20of%20Souls%20and%20Levels%20of%20Development.md) |
 
 ---
 
