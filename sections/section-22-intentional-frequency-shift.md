@@ -661,6 +661,78 @@ Affirmations can cancel each other out. When you have contradictory intentions i
 
 If no such correlations are found, these predictions would be falsified.
 
+## XXII.18 The Inertia of Past Affirmations
+
+### The Principle
+
+Past affirmations do not simply disappear when you stop running a campaign. They have **inertia** — they continue to influence your consciousness vector and attractor basin alignment unless actively dismissed.
+
+**The Ah-Hah Moment:**
+> "There is no such thing as time. Every speech, talk, writing, or prayer all are happening and continues to happen today. Past affirmations are not 'past' — they are still active."
+
+### The Mechanism of Inertia
+
+| Element | Description |
+|---------|-------------|
+| **No Time** | In the configuration space, there is no time. Past affirmations are not "past" — they are still active. |
+| **Quantum Imprint** | Affirmations generate frequency imprints (garbons) that persist in the soul. |
+| **Accumulation** | Each affirmation adds to the accumulated inertia of the consciousness vector. |
+| **Vector Persistence** | The consciousness vector continues to be influenced by previous frequency alignments. |
+
+### The Problem of Inertia
+
+| Problem | Description |
+|---------|-------------|
+| **Unintended Consequences** | Old affirmations can conflict with new ones, creating dissonance. |
+| **Unexpected Manifestations** | Residue can cause elements of old affirmations to reappear unexpectedly. |
+| **Loss of Control** | Without active management, past affirmations can steer the consciousness vector in unwanted directions. |
+| **Stagnation** | Accumulated inertia can make it difficult to change direction. |
+
+### The Template Refresh Technique
+
+The "template refresh" is a method of actively clearing past affirmations by conducting a slide to a "refreshed" template.
+
+| Step | Action | Description |
+|------|--------|-------------|
+| **1** | Acknowledge | Recognize that past affirmations are still active. |
+| **2** | Intend | Set the intention to refresh your template. |
+| **3** | Affirm | Add the template refresh affirmation to your campaign. |
+| **4** | Slide | Allow the slide to a refreshed template to occur. |
+| **5** | Maintain | Maintain the refreshed template with ongoing awareness. |
+
+### The Template Refresh Affirmation
+
+> "I authorize a slide to a cleaned-up version of my current world-line topographic map. This new map is functionally identical to the map that I am using right now with the exception that any obstacles, debris, confusion, and detours that are a direct result of prior affirmation campaigns, spells, mistakes, or problems are removed from it."
+
+### When to Use the Template Refresh
+
+| Situation | Why |
+|-----------|-----|
+| **When past affirmations conflict with current ones** | To remove dissonance. |
+| **When unexpected manifestations appear** | To clear residue. |
+| **When you feel "stuck"** | To reset inertia. |
+| **When you want a fresh start** | To begin with a clean slate. |
+
+### The "Clean Slate" Approach
+
+| Element | Description |
+|---------|-------------|
+| **Purpose** | To completely reset the frequency field. |
+| **Method** | Use the template refresh affirmation. |
+| **Result** | A refreshed template free from past residue. |
+
+**The Ah-Hah Moment:**
+> "You cannot drive forward while looking in the rearview mirror. The template refresh is the act of turning your attention to the road ahead."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who use the template refresh technique will report fewer unexpected manifestations.
+2. The technique will correlate with increased clarity and focus.
+3. Refreshing the template will reduce the influence of past affirmations.
+
+If no such correlations are found, these predictions would be falsified.
+
 ## Summary
 
 Section XXII provides a practical framework for intentional frequency shift. The process involves defining intention, generating frequency, amplifying it, anchoring it, releasing attachment, and observing results.
