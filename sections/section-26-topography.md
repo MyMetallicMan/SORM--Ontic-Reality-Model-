@@ -1,8 +1,8 @@
 # Section XXVI: The Topography of the Configuration Space
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -112,9 +112,59 @@ Novel attractor basins are strange, unfamiliar regions of the configuration spac
 **The Ah-Hah Moment:**
 > "Intuition is not magic — it is navigation. ESP is not paranormal — it is perception. When the duty cycle shifts, the map becomes visible. You can plot your path with clarity."
 
+## XXVI.10 The Right Hand Convention
+
+### The Principle
+
+The topography of the configuration space is not a flat, two-dimensional surface. It is a dynamic, buoyant landscape that can be navigated with intention. The "Right Hand Convention" is a visualization aid that helps orient your navigation.
+
+**The Ah-Hah Moment:**
+> "Moving to the left upon the mapped surface indicates more freedom of movement. Moving to the right indicates less freedom. The surface is not solid — it is buoyant, like water."
+
+### The Right Hand Convention Explained
+
+| Direction | Meaning | Effect on Navigation |
+|-----------|---------|---------------------|
+| **Left** | More freedom of movement. | You have greater control over your decisions and their outcomes. |
+| **Right** | Less freedom of movement. | Your decisions are more constrained; navigation becomes progressively more difficult. |
+| **Above the Surface** | Strength of will over inertia. | You can cut a path for yourself, overcoming obstacles. |
+| **Below the Surface** | Overwhelmed by inertia. | The situation "pulls you under," making navigation difficult. |
+
+### The Buoyant Surface
+
+| Element | Description |
+|---------|-------------|
+| **Not Solid** | The topographical surface is not like paper or concrete — it is buoyant, like water. |
+| **Buoyancy** | You can rise above the surface or be pulled under by inertia. |
+| **Dynamic** | The surface shifts and changes in response to frequency alignment. |
+
+### How to Use the Convention
+
+| Practice | Description |
+|----------|-------------|
+| **Assess Your Position** | Determine whether you are moving left or right on your topography. |
+| **Assess Your Depth** | Determine whether you are above or below the surface. |
+| **Adjust** | If you are moving right or being pulled under, take corrective action. |
+
+### Affirmations for Navigation
+
+| Affirmation | Purpose |
+|-------------|---------|
+| "When traveling on my MWI world-line map, I am never overwhelmed and 'pulled under' the topography. Instead, I avoid those crisis situations well in advance." | Staying above the surface. |
+| "I meter my life-line path over the 'hills and valleys' of the topographical world-line template in such a way that I have a minimum of physical distress when I navigate to my objectives." | Smooth navigation. |
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who use the Right Hand Convention will show greater clarity in their navigation.
+2. Moving left on the topography will correlate with greater freedom and ease.
+3. Moving right will correlate with increased difficulty and constraint.
+
+If no such correlations are found, these predictions would be falsified.
+
 ---
 
-## XXVI.10 Falsifiability
+## XXVI.11 Falsifiability
 
 ΨORM predicts that:
 1. Individuals who practice intentional frequency modulation will show measurable shifts in their perceived "topography" (as measured by changes in life trajectory, decision-making patterns, and reported experiences).
