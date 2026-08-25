@@ -1,8 +1,8 @@
 # Section III: Foundational Claims
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -156,6 +156,67 @@ The Ψ in ΨORM stands for "Psi-Ontic" — a term that intentionally evokes the 
 1. Psi phenomena will correlate with measurable frequency shifts (EEG/MEG).
 2. Psi phenomena will be more common when the duty cycle is altered (e.g., during meditation, sleep, or altered states).
 3. Psi phenomena will be more common among individuals with high frequency coherence.
+
+If no such correlations are found, these predictions would be falsified.
+
+## III.7 The Dynamic Configuration Space
+
+### The Principle
+
+The configuration space is not a fixed, static structure. It is a dynamic, living field that can be altered at its foundational level — the Master Template.
+
+**The Ah-Hah Moment:**
+> "The source code of reality is not written in stone. It is written in frequency. And frequency can be shifted."
+
+### What Is the Master Template?
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | The fundamental template from which all other templates are derived. |
+| **Function** | Defines the basic structure of the configuration space. |
+| **Nature** | Dynamic and subject to change. |
+
+### The Nature of the Change
+
+| Element | Description |
+|---------|-------------|
+| **Permanent** | The change is permanent — the template has shifted from the "Elastic Region" to the "Plastic Region." |
+| **Foundational** | The change affects the fundamental structure of the configuration space. |
+| **Subtle** | The change is subtle — most people will not notice it directly. |
+
+### Implications for Navigation
+
+| Implication | Description |
+|-------------|-------------|
+| **Faster Manifestation** | Affirmations are expected to manifest faster than before. |
+| **Increased Stickiness** | Manifestations are expected to be more stable and persistent. |
+| **Easier Alignment** | Frequency alignment is expected to be easier. |
+
+### Implications for Affirmation Campaigns
+
+| Implication | Description |
+|-------------|-------------|
+| **Faster Results** | Campaigns are expected to produce results more quickly. |
+| **Greater Stability** | Results are expected to last longer. |
+| **Less Resistance** | There is less resistance to frequency alignment. |
+
+### Why This Matters
+
+| Element | Description |
+|---------|-------------|
+| **Timing** | The change makes this an opportune time for affirmation campaigns. |
+| **Strategy** | You can adjust your strategy to take advantage of the change. |
+| **Expectations** | You can expect faster, more stable results. |
+
+**The Ah-Hah Moment:**
+> "The rules have changed. The game is different now. What used to take years may now take months. What used to fade may now persist."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Affirmation campaigns conducted after the Master Template change will manifest faster than those conducted before.
+2. Manifestations will show greater stability and persistence.
+3. Frequency alignment will require less effort.
 
 If no such correlations are found, these predictions would be falsified.
 
