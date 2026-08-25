@@ -1,8 +1,8 @@
 # Section XI: Heaven, Nirvana, and Non-Physical Communities
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -121,7 +121,77 @@ If no such consistency is found, these predictions would be falsified.
 
 ---
 
-## XI.6 Falsifiability
+## XI.7 Pair Consciousness and Shared World-Lines
+
+### The Principle
+
+Strong emotional bonds — love, friendship, deep affection — create quantum entanglements between consciousness vectors. This causes loved ones to share world-lines, navigating the configuration space together rather than separately.
+
+**The Ah-Hah Moment:**
+> "When you truly love someone or something, you want to be with them. This forges strong emotional bonds that result in quantum entanglements. You both end up sharing the world-line cycling together at the same time."
+
+### The Mechanism
+
+| Element | Description |
+|---------|-------------|
+| **Quantum Entanglement** | Love creates a quantum connection between consciousness vectors. |
+| **Shared World-Lines** | Entangled vectors navigate adjacent world-lines together. |
+| **Dominant Personality** | The stronger vector takes over navigation during the shared period. |
+| **Passive Component** | The weaker vector follows the dominant vector's trajectory. |
+
+### The Effect on Navigation
+
+| Element | Description |
+|---------|-------------|
+| **Shared Trajectory** | Both vectors follow a similar path through the configuration space. |
+| **Amplified Experience** | The shared experience is more intense and meaningful. |
+| **Protective Effect** | The dominant vector can protect the passive vector from harmful world-lines. |
+
+### Examples of Pair Consciousness
+
+| Pair Type | Description |
+|-----------|-------------|
+| **Human-Human** | Soulmates, spouses, close friends. |
+| **Human-Pet** | Deep bonds with dogs, cats, horses, and other animals. |
+| **Human-Family** | Parent-child bonds, sibling bonds. |
+
+### The Role of Pets in Pair Consciousness
+
+| Element | Description |
+|---------|-------------|
+| **Mellowing Effect** | Pets, especially dogs and cats, mellow out the world-lines of their humans. |
+| **Calm Navigation** | Pets navigate toward comfort and happiness. |
+| **Emotional Grounding** | Pets provide emotional stability and frequency grounding. |
+
+### Implications for Meeting After Death
+
+| Element | Description |
+|---------|-------------|
+| **No Separation** | Love transcends species boundaries in the non-physical state. |
+| **Direct Connection** | The quantum entanglement persists after death. |
+| **Reunion** | The bond ensures reunion in the non-physical state. |
+
+### The Role of Dominant Personality
+
+| Element | Description |
+|---------|-------------|
+| **Navigation Control** | The dominant personality takes over navigation. |
+| **Positive Influence** | A positive dominant personality can guide the pair toward good world-lines. |
+| **Negative Influence** | A negative dominant personality can drag the pair toward bad world-lines. |
+
+**The Ah-Hah Moment:**
+> "Be careful who you love. They will take you with them. Love is not just an emotion — it is a navigation system."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Strong emotional bonds will correlate with frequency similarity between consciousness vectors.
+2. Pairs in deep love will show higher inter-brain coherence (hyperscanning EEG).
+3. The dominant personality will correlate with the navigation trajectory of the pair.
+
+If no such correlations are found, these predictions would be falsified.
+
+## XI.8 Falsifiability
 
 ΨORM predicts that:
 1. Individuals in deep hypnosis will consistently describe the same general features of the non-physical state, supporting the reality of these regions.
