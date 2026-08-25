@@ -1,6 +1,6 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.1 (Complete Integrated Edition)  
+**Version:** 13.2 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **License:** CC BY-SA 4.0  
@@ -50,7 +50,7 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.1, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.2, (2026).**  
 DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
@@ -66,7 +66,7 @@ To ensure this work is permanently preserved and citable, this repository is pai
 1. Create a free account at [zenodo.org](https://zenodo.org).
 2. Connect your GitHub account to Zenodo.
 3. Enable archiving for this repository (`SORM`).
-4. Create a release on GitHub (v13.1 or later).
+4. Create a release on GitHub (v13.2 or later).
 5. Zenodo will automatically archive the release and assign a DOI.
 6. Update this README with the assigned DOI.
 
@@ -74,7 +74,6 @@ This process ensures that even if GitHub changes or disappears, the work remains
 
 ---
 
-## Repository Structure
 ## Repository Structure
 
 ```
