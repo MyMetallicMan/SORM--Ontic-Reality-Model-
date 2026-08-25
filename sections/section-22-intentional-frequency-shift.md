@@ -668,9 +668,10 @@ Section XXII provides a practical framework for intentional frequency shift. The
 Key elements of the framework include:
 
 - **The Language of Intention:** Affirmations must be stated in the present tense, describing the desired reality as already existing.
-- **Visualization asMy affirmations tie together with affirmations of others so that they all combine with a positive "slipstream" effect. This slipstream effect acts as an accelerator for all of us to benefit from. Any slipstream affirmations that run counter to my personal affirmations listed herein are ignored and do not influence this campaign. Frequency Anchoring:** Mentally simulating the desired outcome anchors frequency in the physical rendering.
+- **Visualization as Frequency Anchoring:** Mentally simulating the desired outcome anchors frequency in the physical rendering.
 - **Frequency Hygiene:** Maintaining coherent frequency alignment by avoiding negative self-talk and dissonant influences.
 - **The Mandatory Pause:** Intentional non-engagement with the campaign allows the frequency alignment to manifest.
 - **Ghost Campaigns:** Previous affirmations leave a persistent frequency residue that continues to influence the present.
+- **The Slipstream Effect:** Tying your affirmations to a group creates a shared pool of frequency targets, amplifying individual alignment.
 
 These principles are supported by the concepts of group vector coherence, attractor basin dynamics, and the router/cloud architecture. The framework is designed to be practical, testable, and falsifiable, providing a systematic approach to intentional reality navigation.
