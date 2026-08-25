@@ -1,8 +1,8 @@
 # Section XVII: Anomalous Phenomena and the Mechanics of Consciousness Navigation
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -45,6 +45,66 @@ The consciousness vector decouples from the biological receiver during the catas
 
 **The Ah-Hah Moment:**
 > "You did not imagine it. You did not hallucinate. You experienced a real death in one frozen moment — and then re-anchored to a different frozen moment where you survived. The memory is not false — it is from a different version of reality."
+
+### Category A1: The Emergency Slide
+
+#### Reported Phenomena
+
+- A person experiences a catastrophic event (car accident, fall, medical emergency) and "dies" — but then "restarts" moments earlier, unharmed.
+- The person retains a vivid memory of the "death" event, including sensory details (sounds, smells, physical sensations).
+- Often described as "I died but I didn't."
+
+#### ΨORM Explanation
+
+The consciousness vector decouples from the biological receiver during the catastrophic event. Instead of fully disconnecting (which would be clinical death), the vector re-anchors to a nearby frozen moment — an adjacent frequency basin where the event did not occur.
+
+This is not a hallucination. It is a real death in one frozen moment, followed by re-anchoring to a different frozen moment where survival occurred.
+
+#### The Mechanism
+
+| Element | Description |
+|---------|-------------|
+| **Decoupling** | The consciousness vector separates from the biological receiver. |
+| **Re-Anchoring** | Instead of proceeding to the non-physical state, the vector re-anchors to a nearby frozen moment. |
+| **Memory Transfer** | The memory of the "death" moment is carried over as a memory-garbon. |
+| **Frequency Shift** | The shift is involuntary, triggered by extreme stress or trauma. |
+
+#### Key Characteristics
+
+| Characteristic | Description |
+|----------------|-------------|
+| **Involuntary** | The shift is not consciously controlled. |
+| **Rapid** | The shift occurs in fractions of a second. |
+| **Nearby Re-Anchoring** | The new frozen moment is adjacent to the original one. |
+| **Memory Retention** | The memory of the "death" event is retained. |
+
+#### Examples
+
+| Example | Description |
+|---------|-------------|
+| **Tractor-Trailer Accident** | A driver experiences a collision, dies, and then "restarts" moments before the impact, avoiding it. |
+| **Armoire Incident** | A person helping move furniture is crushed, then "restarts" at the dining room table. |
+| **Semi-Truck Near Miss** | A driver feels the impact of a collision, then "restarts" before the truck hits. |
+
+**The Ah-Hah Moment:**
+> "You did not imagine it. You did not hallucinate. You experienced a real death in one frozen moment — and then re-anchored to a different frozen moment where you survived. The memory is not false — it is from a different version of reality."
+
+#### Related Phenomena
+
+| Phenomenon | Connection |
+|------------|------------|
+| **Near-Death Experiences (NDEs)** | Similar decoupling, but without re-anchoring. |
+| **Restart Events** | The "death" is experienced, then "undone." |
+| **Glitches** | Objects or events that seem to "skip" or "reset." |
+
+#### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who report emergency slide events will show measurable frequency shifts (EEG/MEG) during the period surrounding the event.
+2. The memories of the "death" event will be consistent with veridical perception (accurate sensory details).
+3. The phenomenon will be more common in individuals with high frequency coherence.
+
+If no such correlations are found, these predictions would be falsified.
 
 ---
 
