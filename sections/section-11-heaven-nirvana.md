@@ -75,9 +75,53 @@ Consciousness vectors in the non-physical state can cluster into communities, ju
 - Consciousnesses can interact, learn, and grow in the non-physical state.
 - The purpose of existence — soul growth — continues in the non-physical state.
 
+## XI.5 Species-Specific Heavens
+
+### The Phenomenon
+
+Many people who have lost a beloved pet wonder if they will see them again after death. The answer, according to ΨORM and client-verified research, is yes.
+
+However, the non-physical state is not a single, undifferentiated region. Just as there are different frequency basins for different consciousness vectors, there are frequency basins tailored to different species.
+
+### The Mechanism
+
+| Element | Description |
+|---------|-------------|
+| **Species-Specific Basins** | Each species has its own region of the non-physical state — a frequency basin that resonates with the quantum makeup of that species. |
+| **Natural Migration** | Upon death, a consciousness naturally migrates to the frequency basin that matches its quantum signature. |
+| **Cross-Species Connection** | Strong emotional bonds (love) between species can create quantum entanglements that allow cross-species connection. |
+
+**The Ah-Hah Moment:**
+> "Cats do not go to a human heaven. They go to a cat heaven. But love bridges the gap."
+
+### How to Meet Your Pets After Death
+
+| Method | Description |
+|--------|-------------|
+| **Direct Navigation** | In the non-physical state, you can will yourself to your pet's frequency basin. |
+| **Guide Assistance** | If you are unable to navigate independently, you can request assistance from a guide. |
+| **Pet's Return** | Your pet can also navigate to you, drawn by your emotional bond. |
+
+### Practical Implications
+
+| Implication | Description |
+|-------------|-------------|
+| **Affirmation Preparation** | You can include affirmations in your campaigns to ensure you meet your pets after death. |
+| **Emotional Bonding** | The stronger the bond, the easier the connection. |
+| **No Separation** | Love transcends species boundaries in the non-physical state. |
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals in deep hypnosis will consistently describe species-specific regions of the non-physical state.
+2. Cross-species connections will correlate with the strength of emotional bonds.
+3. Affirmations for meeting pets will correlate with reported experiences.
+
+If no such consistency is found, these predictions would be falsified.
+
 ---
 
-## XI.5 Falsifiability
+## XI.6 Falsifiability
 
 ΨORM predicts that:
 1. Individuals in deep hypnosis will consistently describe the same general features of the non-physical state, supporting the reality of these regions.
