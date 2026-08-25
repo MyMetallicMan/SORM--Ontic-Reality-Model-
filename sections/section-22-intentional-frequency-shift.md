@@ -283,4 +283,14 @@ If no such correlations are found, these predictions would be falsified.
 
 ## Summary
 
-Section XXII provides a practical framework for intentional frequency shift. The process involves defining intention, generating frequency, amplifying it, anchoring it, releasing attachment, and observing results. Language, visualization, and frequency hygiene are essential tools for maintaining coherent frequency alignment. Before entering a life, souls attend a preparation class to remember recognition signs — an extension of the intentional frequency shift process that spans lifetimes. For a detailed exploration of this preparation process, see Section XXXI (The Ring of Destiny — Life Selection and Body Choice).
+Section XXII provides a practical framework for intentional frequency shift. The process involves defining intention, generating frequency, amplifying it, anchoring it, releasing attachment, and observing results.
+
+Key elements of the framework include:
+
+- **The Language of Intention:** Affirmations must be stated in the present tense, describing the desired reality as already existing.
+- **Visualization as Frequency Anchoring:** Mentally simulating the desired outcome anchors frequency in the physical rendering.
+- **Frequency Hygiene:** Maintaining coherent frequency alignment by avoiding negative self-talk and dissonant influences.
+- **The Mandatory Pause:** Intentional non-engagement with the campaign allows the frequency alignment to manifest.
+- **Ghost Campaigns:** Previous affirmations leave a persistent frequency residue that continues to influence the present.
+
+These principles are supported by the concepts of group vector coherence, attractor basin dynamics, and the router/cloud architecture. The framework is designed to be practical, testable, and falsifiable, providing a systematic approach to intentional reality navigation.
