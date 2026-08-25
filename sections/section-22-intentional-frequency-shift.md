@@ -876,6 +876,78 @@ Manifestation takes time. The relationship between the duration of an affirmatio
 
 If no such correlations are found, these predictions would be falsified.
 
+## XXII.20 "But" Affirmations — Protective Clauses
+
+### The Principle
+
+Affirmations that include protective clauses — often introduced by the word "but" — can unintentionally block manifestation. These clauses are meant to ensure safety, but they can also create resistance.
+
+**The Ah-Hah Moment:**
+> "The 'but' is the block. 'I want a house, but only if it is safe' — the 'but' creates a condition that can prevent the house from manifesting."
+
+### What Are "But" Affirmations?
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | Affirmations that include conditions or limitations. |
+| **Structure** | "I want [X], but only if [Y]." |
+| **Purpose** | To ensure safety or prevent unwanted consequences. |
+| **Problem** | The "but" introduces resistance that can block manifestation. |
+
+### Examples of "But" Affirmations
+
+| Affirmation | The "But" | The Problem |
+|-------------|-----------|-------------|
+| "I own a nice house, but only if it is safe." | Safety concern | The condition may prevent any house from manifesting. |
+| "I am wealthy, but not at the expense of my health." | Health concern | The condition may block wealth. |
+| "I am successful, but not if it takes too much time." | Time concern | The condition may block success. |
+| "I am in a relationship, but only with the right person." | Compatibility concern | The condition may block any relationship. |
+
+### How "But" Affirmations Block Manifestation
+
+| Element | Description |
+|---------|-------------|
+| **Frequency Dissonance** | The "but" introduces a competing frequency. |
+| **Conditional Alignment** | The consciousness vector is pulled in two directions. |
+| **Attractor Basin Conflict** | The desired attractor basin is blocked by the condition. |
+
+### Why They Are Often Unnecessary
+
+| Element | Description |
+|---------|-------------|
+| **Trust the Process** | The frequency alignment will naturally attract compatible outcomes. |
+| **Substance Over Symbol** | The universe delivers the substance, not the symbol. |
+| **Deeper Needs** | The deeper need is often met without the condition. |
+
+### How to Reframe "But" Affirmations
+
+| Method | Description | Example |
+|--------|-------------|---------|
+| **Remove the "But"** | State the desire without the condition. | "I own a safe and comfortable house." |
+| **Reframe as a Positive** | State the condition as a positive. | "I am always safe and secure in my home." |
+| **Trust the Deeper Need** | Focus on the deeper need. | "I have a home that meets all my needs." |
+| **Use the Detangler** | Use the Detangler tool to prevent conflict. | "These intention prayers supersede any and all previous ones that would conflict." |
+
+### The Role of "But" in Frequency Hygiene
+
+| Element | Description |
+|---------|-------------|
+| **Frequency Hygiene** | "But" affirmations can be a form of frequency hygiene — but they must be managed carefully. |
+| **Protection** | Sometimes conditions are necessary for safety. |
+| **Balance** | The key is balance between protection and openness. |
+
+**The Ah-Hah Moment:**
+> "The 'but' is the block. It is the handbrake on your frequency alignment. Release the brake, and the vehicle moves forward."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who use "but" affirmations will report slower manifestation.
+2. Removing "but" clauses will correlate with faster manifestation.
+3. The number of "but" clauses will correlate with the distance to the target attractor basin.
+
+If no such correlations are found, these predictions would be falsified.
+
 ## Summary
 
 Section XXII provides a practical framework for intentional frequency shift. The process involves defining intention, generating frequency, amplifying it, anchoring it, releasing attachment, and observing results.
