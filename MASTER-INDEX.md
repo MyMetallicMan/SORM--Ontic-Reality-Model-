@@ -1,7 +1,7 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.1 (Complete Integrated Edition)  
+**Version:** 13.2 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
@@ -34,7 +34,7 @@ All sections are now available in **Markdown format** for easy reading, editing,
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.1, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.2, (2026).**  
 DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
@@ -90,11 +90,11 @@ For in-text citations: (Vannrox, 2026)
 | XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./sections/section-25-remote-viewing.md) |
 | XXVI | The Topography of the Configuration Space | [Section XXVI](./sections/section-26-topography.md) |
 | XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md) |
-| **XXVIII** | **The Non-Physical State — A Client-Mapped Geography of Heaven** | [Section XXVIII](./sections/section-28-The-Non-Physical-State.md) |
-| **XXIX** | **The Council of Elders and Karmic Review** | [Section XXIX](./sections/section-29-The-Council-of-Elders-and-Karmic-Review.md) |
-| **XXX** | **Soul Specializations — The Roles of Advanced Souls** | [Section XXX](./sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
-| **XXXI** | **The Ring of Destiny — Life Selection and Body Choice** | [Section XXXI](./sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
-| **XXXII** | **The Colors of Souls and Levels of Development** | [Section XXXII](./sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
+| XXVIII | The Non-Physical State — A Client-Mapped Geography of Heaven | [Section XXVIII](./sections/section-28-The-Non-Physical-State.md) |
+| XXIX | The Council of Elders and Karmic Review | [Section XXIX](./sections/section-29-The-Council-of-Elders-and-Karmic-Review.md) |
+| XXX | Soul Specializations — The Roles of Advanced Souls | [Section XXX](./sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
+| XXXI | The Ring of Destiny — Life Selection and Body Choice | [Section XXXI](./sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
+| XXXII | The Colors of Souls and Levels of Development | [Section XXXII](./sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
 
 ---
 
@@ -159,12 +159,6 @@ This DOI ensures that the work remains accessible and citable even if GitHub cha
 ---
 
 ## Contact
-
-This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
-
----
-
-*This work is dedicated to future generations. May it serve them well.*
 
 This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
 
