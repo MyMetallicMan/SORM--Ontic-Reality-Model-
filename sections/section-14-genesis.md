@@ -1,8 +1,8 @@
 # Section XIV: Foundational Review and Genesis
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -81,6 +81,85 @@ Once a soul has made its first navigation, a cascade begins:
 | 4. Explosion of Experience | Navigation creates experience; experience shifts frequency; frequency creates new navigation. | Frequency proliferation — a cascade of experience. |
 
 ---
+
+## XIV.5 Signposts as Unchangeable Waypoints
+
+### The Principle
+
+While consciousness can navigate freely through much of the configuration space, there are fixed points that are unalterable. These are set by the soul before birth to ensure that essential experiences are obtained.
+
+**The Ah-Hah Moment:**
+> "There are events that are 'set in stone' and unalterable. These events are birth, death, and signposts."
+
+### The Three Fixed Points
+
+| Fixed Point | Description | Why It Is Fixed |
+|-------------|-------------|-----------------|
+| **Birth** | The time, place, and conditions of entry into physical existence. | Set by the soul before incarnation. |
+| **Death** | The time, place, and conditions of exit from physical existence. | Set by the soul before incarnation. |
+| **Signposts** | Key events that mark the trajectory of the life path. | Set by the soul to ensure essential experiences. |
+
+### What Are Signposts?
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | Key events that act as "anchors" in the configuration space. |
+| **Purpose** | To keep the consciousness vector on its intended trajectory. |
+| **Characteristics** | Unchangeable, recognizable, often associated with strong emotions. |
+
+### Examples of Signposts
+
+| Example | Description |
+|---------|-------------|
+| **Meeting a Soulmate** | A predetermined encounter with a primary soulmate. |
+| **Career Turning Point** | A job change or promotion that alters the life trajectory. |
+| **Major Life Decision** | A choice that determines the direction of the life path. |
+| **Health Crisis** | An illness or injury that triggers a shift in priorities. |
+
+### How Signposts Manifest
+
+| Element | Description |
+|---------|-------------|
+| **Premonitions** | Glimpses of future signpost events. |
+| **Deja Vu** | The feeling of having experienced a moment before. |
+| **Synchronicities** | Meaningful coincidences that confirm the path. |
+| **Intuitive Knowing** | A deep sense that a particular event is significant. |
+
+### The Role of Signposts in Genesis
+
+| Element | Description |
+|---------|-------------|
+| **Pre-Birth Planning** | The soul sets signposts before incarnation. |
+| **Navigation Aid** | Signposts help the consciousness vector stay on track. |
+| **Growth Catalyst** | Signpost events often trigger significant soul growth. |
+
+### Why Signposts Are Unchangeable
+
+| Element | Description |
+|---------|-------------|
+| **Soul Contract** | The signposts are part of the soul's agreement for this life. |
+| **Essential Experiences** | The experiences associated with signposts are necessary for growth. |
+| **Frequency Anchoring** | Signposts anchor the consciousness vector to specific frequencies. |
+
+### Can You Avoid a Signpost?
+
+| Element | Description |
+|---------|-------------|
+| **Generally No** | Signposts are fixed and will manifest in some form. |
+| **Minor Variations** | The details may vary, but the core event will occur. |
+| **Slides** | Sliding to a new template may shift the context, but the signpost remains. |
+
+**The Ah-Hah Moment:**
+> "You can rearrange the furniture, but the event will still happen. The signpost is not a singular world-line — it is a region of world-lines that you must pass through."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals will consistently report premonitions of major life events.
+2. Signpost events will be recognized as significant and unchangeable.
+3. Attempts to avoid signpost events will be unsuccessful.
+
+If no such patterns are found, these predictions would be falsified.
 
 ## Summary
 
