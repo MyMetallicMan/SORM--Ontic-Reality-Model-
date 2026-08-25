@@ -1,8 +1,8 @@
 # Section VIII: The Ontology of Consciousness
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -126,6 +126,68 @@ Consciousness navigates reality to generate experiences. Experiences are consoli
 ## VIII.7 Falsifiability
 
 ΨORM predicts that individuals who exercise agency — who intentionally generate thought-garbons — will show measurable increases in soul complexity (as proxied by coherence and navigational success). If no correlation between agency practice and soul growth is found, this prediction would be falsified.
+
+## VIII.8 Consciousness Components
+
+### The Principle
+
+Consciousness is not a singular, homogeneous "blob." It is composed of multi-dimensional components — each with its own functions, features, and attractions to specific quantum arrangements.
+
+**The Ah-Hah Moment:**
+> "Consciousness is not a blob. It is a complex system of components, each attracted to different quantum arrangements. This is why certain experiences repeat — your components are drawn to them."
+
+### The Components of Consciousness
+
+| Element | Description |
+|---------|-------------|
+| **Component A** | Attracted to specific quantum arrangements (e.g., certain types of people, situations, experiences). |
+| **Component B** | Attracted to different quantum arrangements (e.g., mechanical disruptions, challenges). |
+| **Component C** | Attracted to yet other arrangements (e.g., emotional states, relationships). |
+| **Multiple Components** | Consciousness consists of many such components, each with its own unique attraction patterns. |
+
+### How Components Shape Experience
+
+| Element | Description |
+|---------|-------------|
+| **Attraction Patterns** | Each component is drawn to specific quantum arrangements. |
+| **Repeated Experiences** | If a component is repeatedly attracted to the same type of arrangement, similar experiences recur. |
+| **Template Formation** | The interaction of all components defines the structure of the pre-birth template. |
+
+### The Pre-Birth Template and Components
+
+| Element | Description |
+|---------|-------------|
+| **Functional Definition** | The pre-birth template is functionally defined by the interaction of the consciousness components. |
+| **Individual Variation** | Each consciousness has a unique set of components, resulting in a unique template. |
+| **Default Trajectory** | The components determine the default trajectory of the consciousness vector. |
+
+### Why Components Persist
+
+| Element | Description |
+|---------|-------------|
+| **Inertia** | Components tend to persist in their attraction patterns. |
+| **Evolution** | Components can change and evolve through experience. |
+| **Difficulty of Change** | Significant change to components requires sustained effort. |
+
+### Implications for Navigation
+
+| Implication | Description |
+|-------------|-------------|
+| **Self-Knowledge** | Understanding your components helps you understand your attraction patterns. |
+| **Target Selection** | You can choose targets that align with your components' attractions. |
+| **Course Correction** | You can intentionally shift your components' attractions through focused practice. |
+
+**The Ah-Hah Moment:**
+> "You are not a single, uniform being. You are a collection of components, each with its own agenda. Knowing them is the first step to navigating them."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who identify their consciousness components will show greater clarity and focus in their navigation.
+2. Repeated experience patterns will correlate with specific component attractions.
+3. Intentional practice can shift component attractions over time.
+
+If no such correlations are found, these predictions would be falsified.
 
 ---
 
