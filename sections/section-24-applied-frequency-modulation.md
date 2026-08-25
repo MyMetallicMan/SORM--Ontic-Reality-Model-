@@ -2,7 +2,7 @@
 
 **Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** August 25, 2026  
 
 ---
 
@@ -318,7 +318,73 @@ If no such correlations are found, these predictions would be falsified.
 
 ---
 
-## XXIV.7 Falsifiability
+## XXIV.9 ESP as a Learned Skill
+
+### The Principle
+
+Extra-sensory perception (ESP) is not a gift — it is a learned skill. Just as you can learn to play an instrument or speak a language, you can learn to access the frequency field directly. Affirmations can accelerate this learning process.
+
+**The Ah-Hah Moment:**
+> "ESP is not a supernatural gift — it is a skill. It is the ability to access information directly from the frequency field. Anyone can learn it with practice."
+
+### The Learning Styles Framework
+
+| Style | Description | ESP Application |
+|-------|-------------|-----------------|
+| **Visual** | Learning through images and symbols. | Clairvoyance, seeing auras, remote viewing. |
+| **Auditory** | Learning through sound and music. | Clairaudience, hearing spirit voices. |
+| **Verbal** | Learning through words and writing. | Automatic writing, channeling. |
+| **Physical** | Learning through action and movement. | Psychometry, healing touch. |
+| **Logical** | Learning through patterns and systems. | Precognition, divination. |
+| **Social** | Learning through interaction with others. | Telepathy, empathy. |
+| **Solitary** | Learning through introspection and intuition. | Claircognizance, gut feelings. |
+
+### The ESP Affirmation Template
+
+| Element | Description |
+|---------|-------------|
+| **Base Statement** | "I am improving, learning, and expanding upon my ability to perform [ESP skill]." |
+| **Method Statement** | "The methodology that is used to improve my [ESP skill] ability is via [learning style]." |
+| **Optimization** | "The methodology that is used to improve my [ESP skill] ability is via the most effective available to me, and I utilize it to its fullest potential." |
+
+### ESP Skills
+
+| Skill | Description | Recommended Style |
+|-------|-------------|-------------------|
+| **Clairvoyance** | Seeing beyond the physical sphere. | Visual |
+| **Clairaudience** | Hearing beyond normal perception. | Auditory |
+| **Telepathy** | Mind-to-mind communication. | Social |
+| **Precognition** | Predicting future events. | Logical |
+| **Remote Viewing** | Viewing distant objects or places. | Visual |
+| **Psychometry** | Reading objects through touch. | Physical |
+| **Claircognizance** | Knowing without prior knowledge. | Solitary |
+| **Automatic Writing** | Channeling through writing. | Verbal |
+| **Psychic Empathy** | Sensing others' emotions. | Social |
+
+### How to Use the Template
+
+| Step | Description |
+|------|-------------|
+| **1. Select a Skill** | Choose one ESP skill to develop. |
+| **2. Choose a Style** | Select a learning style that suits you. |
+| **3. Create the Affirmation** | Combine the base and method statements. |
+| **4. Add to Your Campaign** | Include the affirmation in your campaign. |
+| **5. Practice** | Engage in activities that reinforce the skill. |
+
+### Affirmation Example
+
+> "I am improving, learning, and expanding upon my ability to perform remote viewing. The methodology that is used to improve my remote viewing ability is via visual learning, and I utilize it to its fullest potential."
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals who use ESP affirmations will report measurable improvements in their chosen skill.
+2. The learning style chosen will correlate with the effectiveness of the skill development.
+3. ESP skills will correlate with measurable frequency shifts (EEG/MEG).
+
+If no such correlations are found, these predictions would be falsified.
+
+## XXIV.10 Falsifiability
 
 ΨORM predicts that:
 1. Intentional frequency modulation techniques will produce measurable shifts in EEG/MEG phase coherence.
