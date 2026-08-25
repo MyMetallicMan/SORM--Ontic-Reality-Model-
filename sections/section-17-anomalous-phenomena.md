@@ -187,6 +187,70 @@ Souls who refuse to leave Earth after death are not lost — they are clinging t
 
 **See Also:** Section XXVIII (The Non-Physical State — Ghosts and Displaced Souls)
 
+### Category G: Vehicle Egress and Ingress Events
+
+#### Reported Phenomena
+
+- A vehicle appears suddenly in the middle of an intersection, with no physical explanation.
+- A vehicle disappears from a road, leaving no trace.
+- The phenomenon is captured on video, often by dashcams or traffic cameras.
+- The vehicle appears to "pop" into existence rather than accelerating into view.
+
+#### The Evidence
+
+| Element | Description |
+|---------|-------------|
+| **Observation** | Vehicles appear and disappear at intersections with no physical explanation. |
+| **Speed Impossibility** | The vehicle would have to be traveling at impossibly high speeds to enter the frame in the observed time. |
+| **No Physical Obstruction** | The vehicle is not hidden by other objects or blind spots. |
+| **Replication** | The phenomenon is reported worldwide, across different cultures and time periods. |
+
+**The Ah-Hah Moment:**
+> "The materialist says: 'It must be a trick of the light.' The observer says: 'I saw it with my own eyes.' The materialist is not wrong to be skeptical — but skepticism is not an explanation. The phenomenon is real. The question is: what is the mechanism?"
+
+#### The ΨORM Explanation
+
+| Element | Description |
+|---------|-------------|
+| **Frequency Shift** | The vehicle is transitioning between adjacent frozen moments. |
+| **Stable Coordinates** | Intersections provide stable geospatial coordinates for egress and ingress. |
+| **Observer-Specific Reality** | The event is observed by one consciousness vector; other vectors may not share the experience. |
+
+#### Roads and Intersections as Stable Coordinates
+
+| Element | Description |
+|---------|-------------|
+| **Roads as Stable Features** | Roads persist across time and world-lines. They are predictable and long-lasting. |
+| **Intersections as Fixed Points** | The intersection of two roads creates a geospatial coordinate that is stable across frozen moments. |
+| **Stability Advantage** | An intersection is more stable than a single road — it is a fixed point in the configuration space. |
+| **Egress Points** | Vehicles can use these stable points to enter or exit the current frozen moment. |
+
+#### The Observer Principle
+
+| Element | Description |
+|---------|-------------|
+| **Reality is Observer-Specific** | Each consciousness observes its own unique vector. |
+| **No Secondary Observer Required** | The event is real for the observer, even if no one else sees it. |
+| **Quantum Shadows** | Other vehicles at the intersection are not co-occupants — they are shadows. |
+| **Data, Not Delusion** | The observed phenomenon is data — not a hallucination or a hoax. |
+
+#### Why This Matters
+
+| Element | Description |
+|---------|-------------|
+| **Validation of the Framework** | The phenomenon is consistent with ΨORM's claims about frequency shifts and frozen moments. |
+| **Empirical Grounding** | The phenomenon provides observable, documentable evidence. |
+| **Challenge to Materialism** | The phenomenon cannot be explained by conventional physics. |
+
+#### Falsifiability
+
+ΨORM predicts that:
+1. Vehicle egress and ingress events will occur more frequently at road intersections.
+2. The events will be observer-specific — not all observers will witness the same event.
+3. The events will correlate with measurable electromagnetic or frequency anomalies.
+
+If no such patterns are found, these predictions would be falsified.
+
 ---
 
 ## XVII.4 Summary: Anomalous Phenomena and Their ΨORM Mechanics
