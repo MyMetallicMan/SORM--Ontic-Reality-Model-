@@ -349,6 +349,29 @@ The use of vehicles (especially at road intersections) as stable access points f
 
 ---
 
+### Sentience
+
+**Definition:** The capacity to feel, perceive, and experience subjectively. It is the quality of being aware — the "what it is like" to be something. Sentience is a property of the soul, not a property of consciousness.
+
+**Distinction from Consciousness:** Consciousness is the active navigator that selects and moves through frozen moments. Sentience is the passive, receptive capacity that allows the soul to feel and perceive. A soul is sentient; consciousness is the projection of that sentience into the configuration space.
+
+**Operational Definition:** Sentience is inferred from behavioral and neural correlates of feeling and perception. It is not directly measurable, but its presence is indicated by:
+- Response to stimuli with subjective experience (e.g., pain, pleasure)
+- Neural correlates of emotion and perception
+- Behavioral indicators of awareness
+
+**ΨORM Context:** In the ontological hierarchy, sentience is inherent to the soul (Level 3). It provides the raw material for experience. Consciousness (Level 4) is the projection of sentience into the configuration space, allowing navigation and soul growth.
+
+**Falsifiability:** ΨORM predicts that:
+1. Sentience will correlate with the complexity and coherence of the soul's garbon structure.
+2. Consciousness will correlate with measurable frequency shifts (EEG/MEG), while sentience will correlate with neural correlates of feeling and perception.
+3. Advanced AI may simulate consciousness but will not possess sentience unless it has a soul.
+
+**Related Terms:** Consciousness, Soul, Biological Receiver, Garbons
+
+**The Ah-Hah Moment:**
+> "Consciousness is the driver. Sentience is the ability to feel the road. The driver navigates; the passenger feels the bumps."
+
 ## Notes on Usage
 
 - Terms are defined within the context of the ΨORM framework.
