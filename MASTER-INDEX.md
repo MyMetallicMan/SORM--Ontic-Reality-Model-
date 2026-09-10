@@ -1,7 +1,7 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.4 (Expanded Practical Edition)  
+**Version:** 13.5 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
@@ -161,6 +161,20 @@ For in-text citations: (Vannrox, 2026)
 3. **Then use the Master Index** — Use this document to navigate to any section.
 4. **Proceed through Parts II–V in order** — Each section builds on the previous.
 5. **Use the Reference Materials** — The glossary, predictions, and ah-hah moments are designed for quick reference.
+
+## Recommended Reading Order
+
+For first-time readers:
+
+1. Core Thesis
+2. Your bridge document (if applicable)
+3. Section III: Foundational Claims
+4. Section VIII: The Ontology of Consciousness
+5. Section IX: Death and Continuity
+6. Section VI: Falsifiability and Experimental Directions
+7. Then proceed through Parts III-V in order.
+
+Do not attempt to read all 32 sections in one sitting. ΨORM is a framework, not a novel. It rewards patience.
 
 ---
 
