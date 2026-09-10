@@ -1,7 +1,7 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.2 (Expanded Practical Edition)  
+**Version:** 13.3 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
@@ -60,6 +60,8 @@ For in-text citations: (Vannrox, 2026)
 | VIII | The Ontology of Consciousness | [Section VIII](./sections/section-08-ontology-of-consciousness.md) |
 | XIV | Foundational Review and Genesis | [Section XIV](./sections/section-14-genesis.md) |
 | XXI | Overlapping Attractor Basins and the Perception of Shared Physical Reality | [Section XXI](./sections/section-21-overlapping-attractor-basins.md) |
+
+> **Note on Core Concepts:** Section VIII introduces the foundational terms of ΨORM — quanta, garbons, swales, soul, and consciousness vector. These are the building blocks. All later sections depend on them. If you are new to the framework, read Section VIII twice before proceeding. The first pass introduces the vocabulary. The second pass shows how the pieces fit together.
 
 ---
 
