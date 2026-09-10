@@ -1,6 +1,6 @@
 # Section VIII: The Ontology of Consciousness
 
-**Version:** 13.1  
+**Version:** 13.2  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 
