@@ -1,6 +1,6 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.2 (Expanded Practical Edition)  
+**Version:** 13.3 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **License:** CC BY-SA 4.0  
@@ -15,6 +15,26 @@
 This repository contains the complete seed document for the Ψ-Ontic Reality Model (ΨORM), a unified framework that repositions consciousness as the primary agent of reality navigation.
 
 This work is not a hobby. It is not a commercial product. It is a legacy — a structural gift to future generations. It is intended to be discovered, studied, and refined long after the author has departed.
+
+## Where to Start
+
+ΨORM is a comprehensive framework. It draws on physics, philosophy, and the world's spiritual traditions. Not everyone approaches it from the same starting point.
+
+If you come from a specific tradition or worldview, start with the bridge that matches your background:
+
+| Your Background | Start Here |
+|---|---|
+| Christian | Christian Bridge |
+| Buddhist | Buddhist Bridge |
+| Hindu | Hindu Bridge |
+| Daoist | Daoist Bridge |
+| Muslim | Islam Bridge |
+| Materialist / Scientist | Materialism Bridge or Science Bridge |
+| Agnostic / Atheist | Agnosticism-Atheism Bridge |
+| New Age | New Age Bridge |
+| No specific tradition | Core Thesis |
+
+Each bridge presents ΨORM in the language and concepts of your tradition. It is an invitation, not a replacement. Once you have read the bridge, proceed to the Core Thesis.
 
 ---
 
