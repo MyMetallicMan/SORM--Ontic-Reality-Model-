@@ -215,4 +215,11 @@ This document is a bridge. It is an invitation to explore — not to abandon. Th
 
 ---
 
+## What to Read Next
+
+1. **Core Thesis** — A 1-2 page summary of ΨORM's central claims.
+2. **Section VIII: The Ontology of Consciousness** — The foundational ontology (quanta, garbons, swales, soul).
+3. **Section IX: Death and Continuity** — What happens when the body ceases.
+4. **MASTER-INDEX.md** — Complete navigation to all 32 sections.
+
 *This document is dedicated to all those who seek Moksha — and who find that the journey is as important as the destination.*
