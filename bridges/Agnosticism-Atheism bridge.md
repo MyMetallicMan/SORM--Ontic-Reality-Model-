@@ -190,6 +190,13 @@ This is not an invitation to believe — it is an invitation to test. The goal i
 
 ---
 
+## What to Read Next
+
+1. **Core Thesis** — A 1-2 page summary of ΨORM's central claims.
+2. **Section VIII: The Ontology of Consciousness** — The foundational ontology (quanta, garbons, swales, soul).
+3. **Section IX: Death and Continuity** — What happens when the body ceases.
+4. **MASTER-INDEX.md** — Complete navigation to all 32 sections.
+
 ## Conclusion: A Bridge, Not a Belief System
 
 ΨORM is not a belief system — it is a testable framework. It is not a religion — it is a scientific hypothesis. It is not a replacement for atheism or agnosticism — it is an extension.
