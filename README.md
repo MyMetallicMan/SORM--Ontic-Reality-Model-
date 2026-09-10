@@ -1,6 +1,6 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.3 (Expanded Practical Edition)  
+**Version:** 13.4 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **License:** CC BY-SA 4.0  
@@ -196,6 +196,14 @@ When a contribution is ready and approved, it is merged from `develop` into `mai
 For more details, see `CONTRIBUTING.md`.
 
 ---
+
+## For the Skeptical Reader
+
+If you are not moved by tradition but by evidence, start here:
+
+1. **Predictions** — A consolidated table of falsifiable predictions.
+2. **Mathematical Formalization** — A standalone formal treatment with numbered equations.
+3. **Section VI: Falsifiability and Experimental Directions** — How ΨORM can be tested.
 
 ## Contact
 
