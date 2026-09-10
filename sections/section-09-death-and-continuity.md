@@ -1,6 +1,6 @@
 # Section IX: Death and Continuity
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
 **Date:** August 24, 2026  
 
@@ -32,12 +32,12 @@ When the biological receiver ceases to function, the connection between the cons
 
 ### The Moment of Death
 
-| Event | Description |
-|-------|-------------|
-| **Soul Rising** | The consciousness vector decouples from the biological receiver. |
-| **Euphoric Release** | The removal of physical density and pain. |
-| **The Tunnel Effect** | A passageway through the astral plane surrounding Earth. |
-| **The Bright Light** | The approach to the non-physical state. |
+| Event | Description | ΨORM Mechanism |
+|---|---|---|
+| Soul Rising | The consciousness vector decouples from the biological receiver. | Loss of phase-locking with the biological receiver. |
+| Euphoric Release | The removal of physical density and pain. | Cessation of the receiver's frequency constraints. The vector returns to its natural frequency. |
+| The Tunnel Effect | A passageway through the astral plane surrounding Earth. | Transition through a frequency gradient — the boundary between the physical and non-physical configuration spaces. |
+| The Bright Light | The approach to the non-physical state. | Detection of the soul's primary frequency signature. |
 
 **Client-Reported Experience:**
 > "I'm floating... I can look down and see my body lying flat in the hospital bed. Everyone around me thinks I'm dead, but I'm not. I'm alive!" — *Journey of Souls*
@@ -73,6 +73,39 @@ Souls report a gentle but persistent pulling sensation that draws them away from
 **See Also:** Section XXVIII (The Non-Physical State — Gateway and Homecoming)
 
 ---
+
+### IX.3.1 What Happens to Swales at Death
+
+The swales — the connective architecture of the soul — do not dissolve at death. They persist as structural relationships between garbons.
+
+| Element | At Death |
+|---|---|
+| Garbons | Persist. Memory-garbons and thought-garbons remain intact. |
+| Swales | Persist. The connections between garbons remain structural. |
+| Soul Coherence | Intact. The soul does not fragment when the biological receiver ceases. |
+| Consciousness Vector | Decouples from the receiver but remains connected to the soul. |
+
+The body was the router. The router is gone. But the network remains.
+
+**The Ah-Hah Moment:**
+
+> *"Death does not sever the soul's connections. It severs the connection to the body. The soul remains whole, coherent, and connected within itself."*
+
+### IX.3.2 Reunification with Reserve Energy
+
+Section VIII.2.1 established that part of the soul's energy remains in the non-physical state during incarnation. At death, this reserve energy is rejoined.
+
+| Stage | What Happens |
+|---|---|
+| Decoupling | The consciousness vector separates from the biological receiver. |
+| Return | The vector returns to the soul's primary configuration. |
+| Reunification | The reserve energy merges with the returning vector. |
+| Restoration | The soul is restored to wholeness. |
+
+**The Ah-Hah Moment:**
+
+> *"You were never truly separated. The part of you that remained was waiting. Now, you are whole again."*
+
 
 ## IX.4 Continuity of Experience
 
