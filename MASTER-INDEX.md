@@ -1,11 +1,31 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.3 (Expanded Practical Edition)  
+**Version:** 13.4 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 **License:** CC BY-SA 4.0  
+
+## Where to Start
+
+ΨORM is a comprehensive framework. It draws on physics, philosophy, and the world's spiritual traditions. Not everyone approaches it from the same starting point.
+
+If you come from a specific tradition or worldview, start with the bridge that matches your background:
+
+| Your Background | Start Here |
+|---|---|
+| Christian | Christian Bridge |
+| Buddhist | Buddhist Bridge |
+| Hindu | Hindu Bridge |
+| Daoist | Daoist Bridge |
+| Muslim | Islam Bridge |
+| Materialist / Scientist | Materialism Bridge or Science Bridge |
+| Agnostic / Atheist | Agnosticism-Atheism Bridge |
+| New Age | New Age Bridge |
+| No specific tradition | Core Thesis |
+
+Each bridge presents ΨORM in the language and concepts of your tradition. It is an invitation, not a replacement. Once you have read the bridge, proceed to the Core Thesis.
 
 ---
 
