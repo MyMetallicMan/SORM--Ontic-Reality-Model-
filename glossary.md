@@ -1,7 +1,7 @@
 # Glossary of Terms — ΨORM
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.2 (Expanded Practical Edition)  
+**Version:** 13.3 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 27, 2026  
 
@@ -313,6 +313,29 @@ A complex, organized collection of garbons that has achieved sentience and agenc
 **Related Terms:** Garbon, Consciousness, Quantum Information Repository
 
 ---
+
+### Swale
+
+**Definition:** A structural channel or pathway that connects garbons, enabling communication, synchronization, and integration within the soul.
+
+**Extended Definition:** Swales are the connective architecture of the soul. They are not garbons themselves, but the relationships *between* garbons that allow them to function as a coherent system. The term is borrowed from construction and hydrology, where a swale is a designed channel that allows water to flow — preventing stagnation and enabling distribution. In ΨORM, swales serve the same function at the quantum-structural level: they are the pathways through which garbons exchange information, maintain phase coherence, and integrate new experience.
+
+**Key Functions:**
+- **Binding** — Connect individual garbons into larger complexes
+- **Communication** — Allow garbons to exchange information
+- **Coherence** — Maintain phase relationships between garbons
+- **Integration** — Allow new garbons to be incorporated into the soul
+- **Resonance** — Propagate frequency synchronization through the soul
+- **Continuity** — Persist across lives, carrying structural relationships
+
+**Why It Matters:** Without swales, garbons would be isolated. The soul would be a heap, not a system. Memory would be inaccessible, learning impossible, and agency impotent. Swales are what transform a collection of garbons into a living, coherent soul.
+
+**Biological Counterpart:** Synaptic pathways, white matter tracts, oscillatory coupling.
+
+**See Also:** Garbon, Soul, Consciousness Vector
+
+**The Ah-Hah Moment:**
+> *"Garbons are the nodes. Swales are the edges. The soul is the network. Consciousness is the signal that travels through it."*
 
 ### Template Refresh
 A technique of conducting a slide to a "refreshed" template that is functionally identical but free from previous affirmation residue. Used to clear inertia and start with a clean slate.
