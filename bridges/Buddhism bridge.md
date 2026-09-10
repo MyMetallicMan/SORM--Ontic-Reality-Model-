@@ -215,6 +215,13 @@ This is not an invitation to abandon your path — it is an invitation to deepen
 
 ---
 
+## What to Read Next
+
+1. **Core Thesis** — A 1-2 page summary of ΨORM's central claims.
+2. **Section VIII: The Ontology of Consciousness** — The foundational ontology (quanta, garbons, swales, soul).
+3. **Section IX: Death and Continuity** — What happens when the body ceases.
+4. **MASTER-INDEX.md** — Complete navigation to all 32 sections.
+
 ## Conclusion: A Bridge, Not a Replacement
 
 ΨORM is not a replacement for Buddhism. It is a framework that deepens and extends the truths of Buddhism. It offers a language and a structure for understanding the nature of consciousness, karma, and liberation that is consistent with the best of Buddhist tradition.
