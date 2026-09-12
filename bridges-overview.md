@@ -3,7 +3,7 @@
 **A Collection of Accessible Introductions to ΨORM**
 
 **Author:** Robert Vannrox  
-**Date:** August 24, 2026  
+**Date:** September 12, 2026  
 
 ---
 
@@ -59,6 +59,7 @@ The goal is not to change anyone's beliefs. It is to invite exploration.
 | **Islam** | Allah, the soul, resurrection, mercy | The soul's journey, judgment as guidance, reincarnation as mercy |
 | **Materialism** | Matter, evidence, mechanism | Consciousness as navigator, frequency synchronization, falsifiability |
 | **New Age** | Creation, vibration, awakening | Frequency alignment, manifestation, the non-physical state |
+| **Psychedelic Science** | Neural entropy, DMN suppression, ego-dissolution | Filtering, frequency synchronization, navigation, integration |
 | **Science** | Empiricism, falsifiability, mechanism | Testable predictions, quantum measurement, consciousness as causal |
 
 ---
