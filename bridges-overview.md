@@ -42,6 +42,7 @@ The goal is not to change anyone's beliefs. It is to invite exploration.
 | **Islam** | Muslims, followers of the Qur'an | [Read](./bridges/Islam%20bridge.md) |
 | **Materialism** | Materialists, physicalists, naturalists | [Read](./bridges/Materialism%20bridge.md) |
 | **New Age** | New Age seekers, spiritual explorers | [Read](./bridges/New%20Age%20bridge.md) |
+| **Psychedelic Science** | Researchers, clinicians, psychonauts | [Read](./bridges/Psychedelic-Science%20bridge.md) |
 | **Science (Empirical)** | Scientists, researchers, empiricists | [Read](./bridges/Science%20(Empirical)%20bridge.md) |
 
 ---
