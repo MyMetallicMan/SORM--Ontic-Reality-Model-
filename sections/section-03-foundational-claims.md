@@ -1,8 +1,8 @@
 # Section III: Foundational Claims
 
-**Version:** 13.1  
+**Version:** 13.2 
 **Author:** Robert Vannrox  
-**Date:** August 25, 2026  
+**Date:** September 12, 2026  
 
 ---
 
@@ -15,7 +15,7 @@ The Ψ-Ontic Reality Model (ΨORM) is built on four foundational claims. These c
 ## III.2 Claim 1: Time Is Not Fundamental
 
 **The Ah-Hah Moment:**
-> "We are not moving through time—we are illuminating static moments. The film reel is fixed; the light is moving. Time is the experience of the light."
+> "The film reel is fixed. The projector is the body. The light is you. You are not moving through time — you are illuminating the moments. Time is not something that happens to you. Time is what you are doing."
 
 **Statement:** Time is not a fundamental dimension of reality. It is an emergent property of consciousness navigation through a series of static configuration spaces.
 
