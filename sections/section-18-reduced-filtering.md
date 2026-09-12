@@ -1,8 +1,8 @@
 # Section XVIII: Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering
 
-**Version:** 13.0  
+**Version:** 13.1  
 **Author:** Robert Vannrox  
-**Date:** August 21, 2026  
+**Date:** September 12, 2026  
 
 ---
 
@@ -43,6 +43,71 @@ In ΨORM, the biological receiver performs several filtering functions:
 | Time dilation or contraction | The temporal filter is reduced, allowing the consciousness to access adjacent frozen moments more freely. |
 | Synesthesia (hearing colors, seeing sounds) | The perceptual filters are reduced, allowing frequency input to be translated across modalities. |
 | Ego dissolution | The ego filter is reduced, allowing the consciousness to experience itself as part of the frequency field rather than a separate entity. |
+
+### XVIII.3.1 Pharmacological Reduction of Filtering
+
+The filters described in XVIII.2 are not fixed. They can be loosened by state changes (sleep, meditation, trauma) — and they can be loosened pharmacologically. Psychedelic substances, in particular, reliably reduce filtering across all five domains.
+
+#### The Mechanism
+
+Psychedelics do not add content to experience. They remove constraints on it.
+
+| ΨORM Filter | Pharmacological Effect |
+|---|---|
+| **Temporal Filter** | Time perception becomes fluid; past, present, and future may overlap or lose sequence. |
+| **Spatial Filter** | Space becomes fluid; objects may appear to shift, grow, shrink, or lose stable boundaries. |
+| **Perceptual Filter** | Sensory modalities blend; synesthesia becomes common; visual and auditory input gain unusual texture. |
+| **Pattern Filter** | Chaotic input is interpreted creatively; patterns emerge, shift, and transform; surfaces may appear to move or breathe. |
+| **Ego Filter** | The boundary between self and environment blurs; unity experiences become possible; the sense of a separate "I" may dissolve. |
+
+The neurological evidence supports this model. Decreased connectivity between the parahippocampus and retrosplenial cortex correlates strongly with ego-dissolution. Visual cortex activity increases while intrinsic brain activity exerts greater influence on visual processing. These are not hallucinations in the pathological sense — they are the rendering process becoming visible.
+
+#### What Psychedelics Are and Are Not
+
+ΨORM does not claim that:
+
+- Psychedelics reveal "the true reality." The filter is not a lie. It is a necessary interface. Removing it does not produce a more accurate rendering — it produces a different rendering.
+- Psychedelic insights are inherently metaphysical truths. The content of a psychedelic experience requires discernment. Insight and delusion can coexist.
+- Every psychedelic experience is a valid navigation event. Reduced filtering makes the frequency field more apparent, but it does not guarantee correct interpretation.
+
+ΨORM does claim that:
+
+- Psychedelics reduce filtering.
+- Reduced filtering makes the frequency field more apparent.
+- The experience is a rendering shift, not a hallucination.
+- The insights are structurally real, even if their content requires discernment.
+
+#### The PiHKAL Archive
+
+Alexander Shulgin's *PiHKAL* (Phenethylamines I Have Known and Loved) and *TiHKAL* (Tryptamines I Have Known and Loved) are systematic, phenomenologically detailed accounts of reduced-filtering states. Shulgin documented 179 phenethylamines and 55 tryptamines, including synthesis, dosage, duration, and detailed subjective effects commentary.
+
+This archive is not a drug manual. It is an empirical record of what happens when the filters are loosened — recorded by a chemist who documented rather than preached. It is structurally credible in a way that mystical reports are not, because it makes no metaphysical claims. It simply reports what was experienced.
+
+For ΨORM, PiHKAL and TiHKAL are a first-person archive of reduced-filtering states. They are a data source.
+
+#### The Distinction Between Insight and Delusion
+
+Reduced filtering does not guarantee truth. It guarantees access. The consciousness vector, when the filters are loosened, may perceive the frequency field more directly. But perception is not interpretation. The vector may still misread what it sees.
+
+This is why ΨORM treats psychedelic experience as data, not doctrine. The experience is real. The interpretation requires discernment. The framework does not ask anyone to accept a psychedelic insight as true. It asks only that the insight be treated as a navigation event — a moment in which the vector perceived something it does not normally perceive.
+
+#### Falsifiability
+
+ΨORM predicts that:
+
+1. **Frequency coherence measures (EEG/MEG) will correlate with reported depth of psychedelic experience.** Higher coherence should correspond to more intense reports of unity, synesthesia, and ego-dissolution.
+2. **Reduced filtering will correlate with increased access to adjacent frozen moments.** This predicts that time distortion, precognition-like experiences, and spatial fluidity will cluster together in the same sessions.
+3. **The content of psychedelic insights will be tradition-independent.** A Christian, a Buddhist, and a materialist will describe structurally similar experiences, because the mechanism is the same.
+
+If no such correlations are found, these predictions would be falsified.
+
+#### The Ah-Hah Moment
+
+> *"Psychedelics do not show you another world. They remove the filters that make this world look stable. What you see is not a hallucination — it is the frequency field, becoming visible."*
+
+#### Summary
+
+This subsection extends the reduced-filtering model of Section XVIII to include pharmacological reduction. Psychedelics loosen the five filters — temporal, spatial, perceptual, pattern, and ego — making the frequency field more apparent. They do not reveal "true reality." They reveal the rendering process itself. PiHKAL and TiHKAL are treated as empirical archives of reduced-filtering states, recorded by a chemist who documented rather than preached. The framework treats psychedelic experience as data, not doctrine. Insight requires discernment. The experience is real; the interpretation is the work.
 
 ---
 
