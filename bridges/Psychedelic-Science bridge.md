@@ -2,7 +2,7 @@
 
 **A Unified Framework for Consciousness, Reality, and the Soul**
 
-**Author:** Robert Vannrox
+**Author:** Robert Vannrox      
 **Date:** September 12, 2026
 
 ---
