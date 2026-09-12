@@ -1,6 +1,6 @@
 # Section XVIII: Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering
 
-**Version:** 13.1  
+**Version:** 13.2  
 **Author:** Robert Vannrox  
 **Date:** September 12, 2026  
 
@@ -113,10 +113,28 @@ This subsection extends the reduced-filtering model of Section XVIII to include 
 
 ## XVIII.4 The Ah-Hah Moment (Full)
 
-> "The fan is not playing music. Your consciousness is translating the fan's frequency pattern into music. The granite is not moving. Your consciousness is detecting the frequency field that underlies the granite. These are not hallucinations. They are the rendering process becoming visible."
+> *"The fan is not playing music. Your consciousness is translating the fan's frequency pattern into music. The granite is not moving. Your consciousness is detecting the frequency field that underlies the granite. These are not hallucinations. They are the rendering process becoming visible."*
+
+And:
+
+> *"Psychedelics do not show you another world. They remove the filters that make this world look stable. What you see is not a hallucination — it is the frequency field, becoming visible."*
+
+The filters are not walls. They are lenses. When the lenses are clear, reality appears stable. When the lenses are cloudy, reality becomes fluid. When the lenses are removed, reality reveals itself as frequency.
+
+This is true whether the filter is loosened by sleep, by meditation, by trauma, or by a molecule. The mechanism is the same. The rendering process becomes visible. The frequency field becomes apparent. The consciousness vector sees what it normally does not see — not because it has traveled to another world, but because it has stopped imposing a world upon what is already there.
+
+**The Full Ah-Hah Moment:**
+
+> *"You are not losing your mind. You are losing your filters. The music, the movement, the patterns — these are not hallucinations. They are the frequency field becoming visible through reduced filtering. Whether the filter loosens through sleep, meditation, trauma, or a molecule, the mechanism is the same. The light does not change. Only the shutter does."*
 
 ---
 
 ## Summary
 
 Section XVIII explains reduced filtering as a natural shift in the rendering process. When filters loosen, the underlying frequency field becomes perceptible. Music in noise, pattern movement, time distortion, synesthesia, and ego dissolution are all explained as reduced-filtering phenomena.
+
+Filtering can be reduced by state changes (sleep transitions, meditation, trauma) and by pharmacological means (psychedelic substances). Psychedelics do not add content to experience — they remove constraints on it. They loosen the five filters — temporal, spatial, perceptual, pattern, and ego — making the frequency field more apparent. They do not reveal "true reality." They reveal the rendering process itself.
+
+The PiHKAL and TiHKAL archives are treated as empirical records of reduced-filtering states, recorded by a chemist who documented rather than preached. The framework treats psychedelic experience as data, not doctrine. Insight requires discernment. The experience is real; the interpretation is the work.
+
+For a full exploration of this dimension, see the **Psychedelic Science Bridge**.
