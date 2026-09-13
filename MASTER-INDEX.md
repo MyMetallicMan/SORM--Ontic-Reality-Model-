@@ -1,7 +1,7 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.5 (Expanded Practical Edition)  
+**Version:** 13.6 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
@@ -101,23 +101,23 @@ For in-text citations: (Vannrox, 2026)
 
 | Section | Title | Location |
 |---------|-------|----------|
-| IX | Death and Continuity | [Section IX](./sections/section-09-death-and-continuity.md) |
-| XI | Heaven, Nirvana, and Non-Physical Communities | [Section XI](./sections/section-11-heaven-nirvana.md) |
-| XVI | Travelers, Anomalies, and the Reality of MWI Navigation | [Section XVI](./sections/section-16-travelers-anomalies.md) |
-| XVII | Anomalous Phenomena and the Mechanics of Consciousness Navigation | [Section XVII](./sections/section-17-anomalous-phenomena.md) |
-| XVIII | Reduced Filtering and Perceptual Shifts — The Mechanics of Altered Rendering | [Section XVIII](./sections/section-18-reduced-filtering.md) |
-| XX | Group Vector Shifts and the Reconfiguration of Rendered Reality | [Section XX](./sections/section-20-group-vector-shifts.md) |
-| XXIII | Frequency Alignment with Group Vectors — The Mechanism of Joining a New Attractor Basin | [Section XXIII](./sections/section-23-frequency-alignment-group-vectors.md) |
-| XXIV | Applied Frequency Modulation: Practical Techniques for Intention Navigation | [Section XXIV](./sections/section-24-applied-frequency-modulation.md) |
-| XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](./sections/section-25-remote-viewing.md) |
-| XXVI | The Topography of the Configuration Space | [Section XXVI](./sections/section-26-topography.md) |
-| XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](./sections/section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md) |
-| XXVIII | The Non-Physical State — A Client-Mapped Geography of Heaven | [Section XXVIII](./sections/section-28-The-Non-Physical-State.md) |
-| XXIX | The Council of Elders and Karmic Review | [Section XXIX](./sections/section-29-The-Council-of-Elders-and-Karmic-Review.md) |
-| XXX | Soul Specializations — The Roles of Advanced Souls | [Section XXX](./sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
-| XXXI | The Ring of Destiny — Life Selection and Body Choice | [Section XXXI](./sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
-| XXXII | The Colors of Souls and Levels of Development | [Section XXXII](./sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
-| XXXIII | The Experience of Consciousness at Death | Section XXXIII |
+| IX | Death and Continuity | [Section IX](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-09-death-and-continuity.md) |
+| XI | Heaven, Nirvana, and Non-Physical Communities | [Section XI](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-11-heaven-nirvana.md) |
+| XVI | Travelers, Anomalies, and the Reality of MWI Navigation | [Section XVI](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-16-travelers-anomalies.md) |
+| XVII | Anomalous Phenomena and the Mechanics of Consciousness Navigation | [Section XVII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-17-anomalous-phenomena.md) |
+| XVIII | Reduced Filtering and Perceptual Shifts | [Section XVIII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-18-reduced-filtering.md) |
+| XX | Group Vector Shifts and the Reconfiguration of Rendered Reality | [Section XX](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-20-group-vector-shifts.md) |
+| XXIII | Frequency Alignment with Group Vectors | [Section XXIII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-23-frequency-alignment-group-vectors.md) |
+| XXIV | Applied Frequency Modulation | [Section XXIV](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-24-applied-frequency-modulation.md) |
+| XXV | Remote Viewing as Applied Consciousness Navigation | [Section XXV](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-25-remote-viewing.md) |
+| XXVI | The Topography of the Configuration Space | [Section XXVI](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-26-topography.md) |
+| XXVII | Discrete States of Consciousness as Frequency Basins | [Section XXVII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md) |
+| XXVIII | The Non-Physical State | [Section XXVIII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-28-The-Non-Physical-State.md) |
+| XXIX | The Council of Elders and Karmic Review | [Section XXIX](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-29-The-Council-of-Elders-and-Karmic-Review.md) |
+| XXX | Soul Specializations | [Section XXX](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
+| XXXI | The Ring of Destiny | [Section XXXI](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
+| XXXII | The Colors of Souls and Levels of Development | [Section XXXII](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
+| **XXXIII** | **The Experience of Consciousness at Death** | [**Section XXXIII**](https://github.com/MyMetallicMan/SORM--Ontic-Reality-Model-/blob/develop/sections/section-33-The-Experience-of-Consciousness-at-Death.md) |
 
 ---
 
