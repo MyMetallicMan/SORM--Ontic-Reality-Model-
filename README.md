@@ -1,6 +1,6 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.4 (Expanded Practical Edition)  
+**Version:** 13.5 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
 **Date:** August 25, 2026  
 **License:** CC BY-SA 4.0  
@@ -44,7 +44,7 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 |----------|-------------|
 | **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
 | **[Case Studies](./case-studies.md)** | Anonymized observations from applied ΨORM practices over decades. |
-| **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 32 sections. |
+| **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 33 sections. |
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
 | **[Bridges](./BRIDGES.md)** | Accessible introductions to ΨORM for different worldviews. |
