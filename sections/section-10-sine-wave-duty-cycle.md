@@ -1,8 +1,8 @@
 # Section X: The Sine Wave and the Duty Cycle
 
-**Version:** 13.1
-**Author:** Robert Vannrox
-**Date:** September 13, 2026
+**Version:** 13.1      
+**Author:** Robert Vannrox      
+**Date:** September 13, 2026      
 
 ---
 
