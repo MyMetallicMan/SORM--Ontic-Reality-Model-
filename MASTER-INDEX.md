@@ -117,6 +117,7 @@ For in-text citations: (Vannrox, 2026)
 | XXX | Soul Specializations — The Roles of Advanced Souls | [Section XXX](./sections/section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md) |
 | XXXI | The Ring of Destiny — Life Selection and Body Choice | [Section XXXI](./sections/section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md) |
 | XXXII | The Colors of Souls and Levels of Development | [Section XXXII](./sections/section-32-The-Colors-of-Souls-and-Levels-of-Development.md) |
+| XXXIII | The Experience of Consciousness at Death | Section XXXIII |
 
 ---
 
