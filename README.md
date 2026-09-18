@@ -1,8 +1,8 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.5 (Expanded Practical Edition)  
-**Author:** Robert Vannrox  
-**Date:** August 25, 2026  
+**Version:** 13.7 (Expanded Practical Edition)  
+**Author:** Robert Vannrox    
+**Date:** September 18, 2026  
 **License:** CC BY-SA 4.0  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 
@@ -24,15 +24,28 @@ If you come from a specific tradition or worldview, start with the bridge that m
 
 | Your Background | Start Here |
 |---|---|
-| Christian | Christian Bridge |
-| Buddhist | Buddhist Bridge |
-| Hindu | Hindu Bridge |
-| Daoist | Daoist Bridge |
-| Muslim | Islam Bridge |
-| Materialist / Scientist | Materialism Bridge or Science Bridge |
-| Agnostic / Atheist | Agnosticism-Atheism Bridge |
-| New Age | New Age Bridge |
-| No specific tradition | Core Thesis |
+| Agnostic / Atheist | [Agnosticism-Atheism Bridge](./bridges/Agnosticism-Atheism%20bridge.md) |
+| Baha'i | [Baha'i Bridge](./bridges/Baha'i%20bridge.md) |
+| Buddhist | [Buddhist Bridge](./bridges/Buddhism%20bridge.md) |
+| Christian | [Christian Bridge](./bridges/Christian%20bridge.md) |
+| Confucian | [Confucianism Bridge](./bridges/Confucianism%20bridge.md) |
+| Daoist | [Daoism Bridge](./bridges/Daoism%20bridge.md) |
+| Existentialist / Absurdist | [Existentialism-Absurdism Bridge](./bridges/Existentialism-Absurdism%20bridge.md) |
+| Golden Dawn / Ceremonial Magician | [Golden Dawn Bridge](./bridges/Golden-Dawn%20bridge.md) |
+| Hindu | [Hinduism Bridge](./bridges/Hinduism%20bridge.md) |
+| Jain | [Jainism Bridge](./bridges/Jainism%20bridge.md) |
+| Jewish | [Judaism Bridge](./bridges/Judaism%20bridge.md) |
+| Muslim | [Islam Bridge](./bridges/Islam%20bridge.md) |
+| Materialist / Scientist | [Materialism Bridge](./bridges/Materialism%20bridge.md) or [Science Bridge](./bridges/Science%20(Empirical)%20bridge.md) |
+| New Age | [New Age Bridge](./bridges/New%20Age%20bridge.md) |
+| Psychedelic Researcher | [Psychedelic Science Bridge](./bridges/Psychedelic-Science%20bridge.md) |
+| Secular Humanist | [Secular Humanism Bridge](./bridges/Secular-Humanism%20bridge.md) |
+| Shinto | [Shinto Bridge](./bridges/Shinto%20bridge.md) |
+| Sikh | [Sikhism Bridge](./bridges/Sikhism%20bridge.md) |
+| Stoic | [Stoicism Bridge](./bridges/Stoicism%20bridge.md) |
+| Thelemite / Crowley Practitioner | [Thelema-Crowley Bridge](./bridges/Thelema-Crowley%20bridge.md) |
+| Witch / Wiccan | [Witchcraft-Wicca Bridge](./bridges/Witchcraft-Wicca%20bridge.md) |
+| No specific tradition | [Core Thesis](./core-thesis.md) |
 
 Each bridge presents ΨORM in the language and concepts of your tradition. It is an invitation, not a replacement. Once you have read the bridge, proceed to the Core Thesis.
 
@@ -47,7 +60,7 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 | **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 33 sections. |
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
-| **[Bridges](./BRIDGES.md)** | Accessible introductions to ΨORM for different worldviews. |
+| **[Bridges](./bridges-overview.md)** | Accessible introductions to ΨORM for different worldviews. |
 
 ---
 
@@ -70,7 +83,7 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.2, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.7, (2026).**  
 DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
@@ -86,7 +99,7 @@ To ensure this work is permanently preserved and citable, this repository is pai
 1. Create a free account at [zenodo.org](https://zenodo.org).
 2. Connect your GitHub account to Zenodo.
 3. Enable archiving for this repository (`SORM`).
-4. Create a release on GitHub (v13.2 or later).
+4. Create a release on GitHub (v13.7 or later).
 5. Zenodo will automatically archive the release and assign a DOI.
 6. Update this README with the assigned DOI.
 
@@ -95,120 +108,3 @@ This process ensures that even if GitHub changes or disappears, the work remains
 ---
 
 ## Repository Structure
-
-```
-SORM/
-├── README.md                         # This file
-├── core-thesis.md                    # 1-2 page summary
-├── case-studies.md                   # Anonymized observations from applied practices
-├── MASTER-INDEX.md                   # Complete navigation
-├── BRIDGES.md                        # Overview of worldview bridges
-├── LICENSE                           # CC BY-SA 4.0
-├── CITATION.cff                      # Citation metadata
-├── CONTRIBUTING.md                   # Contribution guidelines
-├── ROADMAP.md                        # Future development roadmap
-├── CODE_OF_CONDUCT.md                # Community standards
-├── SECURITY.md                       # Security policy
-├── CHANGELOG.md                      # Version history
-├── .gitignore                        # Git ignore file
-├── glossary.md                       # Definitions of key terms
-├── predictions.md                    # Consolidated table of falsifiable predictions
-├── ah-hah.md                         # Summary of Ah-Hah moments
-├── mathematical-formalization.md     # Standalone mathematical framework
-├── sections/
-│   ├── section-01-introduction.md
-│   ├── section-02-intellectual-ancestry.md
-│   ├── section-03-foundational-claims.md
-│   ├── section-04-grounding-in-mainstream-physics.md
-│   ├── section-05-mathematical-formalization.md
-│   ├── section-06-falsifiability.md
-│   ├── section-07-shared-reality.md
-│   ├── section-08-ontology-of-consciousness.md
-│   ├── section-09-death-and-continuity.md
-│   ├── section-10-sine-wave-duty-cycle.md
-│   ├── section-11-heaven-nirvana.md
-│   ├── section-12-practical-implications.md
-│   ├── section-13-future-work.md
-│   ├── section-14-genesis.md
-│   ├── section-15-comparative-analysis.md
-│   ├── section-16-travelers-anomalies.md
-│   ├── section-17-anomalous-phenomena.md
-│   ├── section-18-reduced-filtering.md
-│   ├── section-19-dropping-the-filter.md
-│   ├── section-20-group-vector-shifts.md
-│   ├── section-21-overlapping-attractor-basins.md
-│   ├── section-22-intentional-frequency-shift.md
-│   ├── section-23-frequency-alignment-group-vectors.md
-│   ├── section-24-applied-frequency-modulation.md
-│   ├── section-25-remote-viewing.md
-│   ├── section-26-topography.md
-│   ├── section-27-Discrete-States-of-Consciousness-as-Frequency-Basins.md
-│   ├── section-28-The-Non-Physical-State.md
-│   ├── section-29-The-Council-of-Elders-and-Karmic-Review.md
-│   ├── section-30-Soul-Specializations-The-Roles-of-Advanced-Souls.md
-│   ├── section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md
-│   └── section-32-The-Colors-of-Souls-and-Levels-of-Development.md
-├── bridges/
-│   ├── Agnosticism-Atheism bridge.md
-│   ├── Buddhism bridge.md
-│   ├── Christian bridge.md
-│   ├── Daoism bridge.md
-│   ├── Hinduism bridge.md
-│   ├── Islam bridge.md
-│   ├── Materialism bridge.md
-│   ├── New Age bridge.md
-│   └── Science (Empirical) bridge.md
-├── early-pdfs/                       # Blog entries (2017–2020)
-├── submissions/                      # JCS submission materials
-└── .github/
-    └── workflows/
-        └── release-pdf.yml           # Automatic PDF generation on release
-```
-
----
-
-## License
-
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material for any purpose.
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
-
-Full license text is available in the `LICENSE` file and at:  
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
-
-## Branching Strategy
-
-This repository uses a two-branch workflow:
-
-- **`main`** — The canonical, stable release. Only the maintainer can merge changes here. All changes are reviewed and approved.
-- **`develop`** — The active development branch. Contributors submit Pull Requests to `develop`.
-
-When a contribution is ready and approved, it is merged from `develop` into `main` and a new release is created.
-
-For more details, see `CONTRIBUTING.md`.
-
----
-
-## For the Skeptical Reader
-
-If you are not moved by tradition but by evidence, start here:
-
-1. **Predictions** — A consolidated table of falsifiable predictions.
-2. **Mathematical Formalization** — A standalone formal treatment with numbered equations.
-3. **Section VI: Falsifiability and Experimental Directions** — How ΨORM can be tested.
-
-## Contact
-
-This repository is maintained by Robert Vannrox. For inquiries regarding the work, contact through the blog at [metallicman.com](https://metallicman.com).
-
----
-
-*This work is dedicated to future generations. May it serve them well.*
