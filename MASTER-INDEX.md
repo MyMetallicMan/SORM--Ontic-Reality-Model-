@@ -1,9 +1,9 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.6 (Expanded Practical Edition)  
-**Author:** Robert Vannrox  
-**Date:** August 25, 2026  
+**Version:** 13.7 (Expanded Practical Edition)  
+**Author:** Robert Vannrox      
+**Date:** September 18, 2026     
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 **License:** CC BY-SA 4.0  
 
@@ -15,15 +15,28 @@ If you come from a specific tradition or worldview, start with the bridge that m
 
 | Your Background | Start Here |
 |---|---|
-| Christian | Christian Bridge |
-| Buddhist | Buddhist Bridge |
-| Hindu | Hindu Bridge |
-| Daoist | Daoist Bridge |
-| Muslim | Islam Bridge |
-| Materialist / Scientist | Materialism Bridge or Science Bridge |
-| Agnostic / Atheist | Agnosticism-Atheism Bridge |
-| New Age | New Age Bridge |
-| No specific tradition | Core Thesis |
+| Agnostic / Atheist | [Agnosticism-Atheism Bridge](./bridges/Agnosticism-Atheism%20bridge.md) |
+| Baha'i | [Baha'i Bridge](./bridges/Baha'i%20bridge.md) |
+| Buddhist | [Buddhist Bridge](./bridges/Buddhism%20bridge.md) |
+| Christian | [Christian Bridge](./bridges/Christian%20bridge.md) |
+| Confucian | [Confucianism Bridge](./bridges/Confucianism%20bridge.md) |
+| Daoist | [Daoism Bridge](./bridges/Daoism%20bridge.md) |
+| Existentialist / Absurdist | [Existentialism-Absurdism Bridge](./bridges/Existentialism-Absurdism%20bridge.md) |
+| Golden Dawn / Ceremonial Magician | [Golden Dawn Bridge](./bridges/Golden-Dawn%20bridge.md) |
+| Hindu | [Hinduism Bridge](./bridges/Hinduism%20bridge.md) |
+| Jain | [Jainism Bridge](./bridges/Jainism%20bridge.md) |
+| Jewish | [Judaism Bridge](./bridges/Judaism%20bridge.md) |
+| Muslim | [Islam Bridge](./bridges/Islam%20bridge.md) |
+| Materialist / Scientist | [Materialism Bridge](./bridges/Materialism%20bridge.md) or [Science Bridge](./bridges/Science%20(Empirical)%20bridge.md) |
+| New Age | [New Age Bridge](./bridges/New%20Age%20bridge.md) |
+| Psychedelic Researcher | [Psychedelic Science Bridge](./bridges/Psychedelic-Science%20bridge.md) |
+| Secular Humanist | [Secular Humanism Bridge](./bridges/Secular-Humanism%20bridge.md) |
+| Shinto | [Shinto Bridge](./bridges/Shinto%20bridge.md) |
+| Sikh | [Sikhism Bridge](./bridges/Sikhism%20bridge.md) |
+| Stoic | [Stoicism Bridge](./bridges/Stoicism%20bridge.md) |
+| Thelemite / Crowley Practitioner | [Thelema-Crowley Bridge](./bridges/Thelema-Crowley%20bridge.md) |
+| Witch / Wiccan | [Witchcraft-Wicca Bridge](./bridges/Witchcraft-Wicca%20bridge.md) |
+| No specific tradition | [Core Thesis](./core-thesis.md) |
 
 Each bridge presents ΨORM in the language and concepts of your tradition. It is an invitation, not a replacement. Once you have read the bridge, proceed to the Core Thesis.
 
@@ -31,7 +44,7 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 
 ## How to Read This Work
 
-This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **thirty-two sections**, plus reference materials.
+This document is the master index for the complete ΨORM framework. The work is organized into **six parts**, comprising **thirty-three sections**, plus reference materials.
 
 All sections are now available in **Markdown format** for easy reading, editing, and contribution.
 
@@ -54,7 +67,7 @@ All sections are now available in **Markdown format** for easy reading, editing,
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.2, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.7, (2026).**  
 DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
@@ -175,7 +188,7 @@ For first-time readers:
 6. Section VI: Falsifiability and Experimental Directions
 7. Then proceed through Parts III-V in order.
 
-Do not attempt to read all 32 sections in one sitting. ΨORM is a framework, not a novel. It rewards patience.
+Do not attempt to read all 33 sections in one sitting. ΨORM is a framework, not a novel. It rewards patience.
 
 ---
 
