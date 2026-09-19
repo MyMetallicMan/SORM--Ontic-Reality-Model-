@@ -2,8 +2,8 @@
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
 **Author:** Robert Vannrox  
-**Version:** 13.0  
-**Date:** August 22, 2026  
+**Version:** 14.0  
+**Date:** September 19, 2026  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434) 
 **License:** CC BY-SA 4.0  
 
