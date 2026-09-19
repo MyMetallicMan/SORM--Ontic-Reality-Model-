@@ -1,9 +1,9 @@
 # Glossary of Terms — ΨORM
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.3 (Expanded Practical Edition)  
+**Version:** 14.0 (Expanded Practical Edition)  
 **Author:** Robert Vannrox  
-**Date:** August 27, 2026  
+**Date:** September 19, 2026  
 
 ---
 
