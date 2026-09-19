@@ -1,6 +1,6 @@
 # Case Studies — Applied ΨORM Practices
 
-**Version:** 13.0  
+**Version:** 14.0  
 **Author:** Robert Vannrox  
 **Date:** August 22, 2026  
 
