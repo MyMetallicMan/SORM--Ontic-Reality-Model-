@@ -1,7 +1,7 @@
 # ΨORM — Master Index
 
 **The Ψ-Ontic Reality Model (ΨORM)**  
-**Version:** 13.7 (Expanded Practical Edition)  
+**Version:** 14.0 (Expanded Practical Edition)  
 **Author:** Robert Vannrox      
 **Date:** September 18, 2026     
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
