@@ -1,6 +1,6 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 13.8 (Expanded Practical Edition)  
+**Version:** 14.0 (Expanded Practical Edition)  
 **Author:** Robert Vannrox    
 **Date:** September 18, 2026  
 **License:** CC BY-SA 4.0  
