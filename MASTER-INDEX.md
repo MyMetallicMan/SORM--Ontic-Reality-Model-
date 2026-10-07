@@ -154,6 +154,17 @@ For in-text citations: (Vannrox, 2026)
 
 ---
 
+## Part VII: Musings and Extensions
+
+| # | Title | Status | Location |
+|---|-------|--------|----------|
+| 01 | The Council of Elders as Garbons | For Consideration | Musing 01 |
+| — | — | — | — |
+
+*Note: Musings are non-canonical explorations. They are not required reading for understanding ΨORM. They are offered as seeds, not cathedrals.*
+
+---
+
 ## Supplementary Materials
 
 | Item | Location |
