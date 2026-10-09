@@ -121,6 +121,103 @@ If no such consistency is found, these predictions would be falsified.
 
 ---
 
+## XI.6 Soul Groups, Soulmates, and the Mechanics of Reunion
+
+### The Principle
+
+The non-physical state is not a random collection of isolated consciousnesses. It is a structured social environment, organized by frequency compatibility and shared experience.
+
+Souls cluster into **groups** — intimate circles of 3–25 souls who have traveled together across many lifetimes. Within these groups, specific **soulmates** — souls with particularly strong frequency resonance — form bonds that persist across incarnations.
+
+**The Ah-Hah Moment:**
+> *"You do not travel alone. You travel with your soul group — the ones who have been with you since before you were born, and who will be with you after you die."*
+
+### The Structure of Soul Groups
+
+| Element | Description |
+|---------|-------------|
+| **Primary Soul Group** | Intimate circle of 3–25 souls. The core family of the soul. |
+| **Secondary Soul Group** | Broader community of up to 1,000 souls. Extended family and colleagues. |
+| **Soulmates** | Specific souls within the group with particularly strong frequency resonance. |
+| **Guides** | Advanced souls who assist the group's development. |
+| **The Council** | Garbon-clusters within the soul that serve as diagnosticians (see Musing 01). |
+
+### The Mechanics of Reunion
+
+| Element | Description |
+|---------|-------------|
+| **Frequency Resonance** | Souls are drawn together by frequency compatibility. Like attracts like. |
+| **Quantum Entanglement** | Strong bonds create quantum entanglements that persist across lifetimes. |
+| **Intentional Navigation** | In the non-physical state, souls can will themselves to each other. |
+| **Guide Assistance** | Guides can assist souls in finding each other if navigation is difficult. |
+| **Natural Attraction** | The bond itself draws souls together — no effort is required. |
+
+**Client-Reported Experience:**
+> "We are always together. We travel in the same group. We have been together for many lifetimes." — *Journey of Souls*
+
+### The Role of Soulmates
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | A soul with whom you share a particularly strong frequency resonance. |
+| **Function** | To accelerate growth through deep, sustained relationship. |
+| **Persistence** | The bond persists across lifetimes. You find each other again and again. |
+| **Variety** | Soulmates can be romantic partners, close friends, family members, or even pets. |
+| **Purpose** | To provide mutual support, challenge, and growth. |
+
+### The Role of Guides
+
+| Element | Description |
+|---------|-------------|
+| **Definition** | Advanced souls who assist the development of less advanced souls. |
+| **Function** | To provide guidance, support, and navigation assistance. |
+| **Relationship** | Guides are not part of the soul group — they are external helpers. |
+| **Persistence** | A guide may stay with a soul across many lifetimes. |
+| **Connection** | Guides are accessible in the non-physical state and, sometimes, in the physical state (through intuition, dreams, and synchronicity). |
+
+### The Continuity of Bonds
+
+| Element | Description |
+|---------|-------------|
+| **Across Lifetimes** | Bonds formed in one life carry into the next. |
+| **Across States** | Bonds persist from the physical state to the non-physical state and back. |
+| **Across Species** | Bonds can form across species (human-pet) and persist after death. |
+| **Across Dimensions** | Bonds can persist even when souls are navigating different regions of the configuration space. |
+
+**The Ah-Hah Moment:**
+> *"The bonds you form in this life are not temporary. They are the threads that weave your soul group together across eternity."*
+
+### Implications for Reunion After Death
+
+| Implication | Description |
+|-------------|-------------|
+| **No Separation** | Death does not sever the bonds. It reveals them. |
+| **Natural Reunion** | The bonds themselves draw souls together. |
+| **Guided Reunion** | Guides can assist if navigation is difficult. |
+| **Intentional Reunion** | You can will yourself to your loved ones. |
+| **Certain Reunion** | The bonds ensure that reunion will occur. |
+
+### Practical Implications
+
+| Implication | Description |
+|-------------|-------------|
+| **Affirmation Preparation** | You can include affirmations for reunion with loved ones. |
+| **Emotional Bonding** | The stronger the bond, the easier the reunion. |
+| **Soul Group Awareness** | Recognizing your soul group in this life can deepen your relationships. |
+| **Guide Connection** | Cultivating connection with your guide can assist navigation. |
+
+### Falsifiability
+
+ΨORM predicts that:
+1. Individuals in deep hypnosis will consistently describe soul groups of 3–25 members.
+2. Soulmates will show higher frequency similarity than non-soulmates (hyperscanning EEG).
+3. Bonds formed in one life will correlate with reported connections in past-life regression.
+4. Guides will be consistently described as external helpers, distinct from soul group members.
+
+If no such consistency is found, these predictions would be falsified.
+
+---
+
 ## XI.7 Pair Consciousness and Shared World-Lines
 
 ### The Principle
