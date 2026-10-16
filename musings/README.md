@@ -1,9 +1,9 @@
 # Musings and Extensions
 
-**The Ψ-Ontic Reality Model (ΨORM)**
-**Status:** Non-Canonical — For Consideration
-**Author:** Robert Vannrox
-**License:** CC BY-SA 4.0
+**The Ψ-Ontic Reality Model (ΨORM)**     
+**Status:** Non-Canonical — For Consideration     
+**Author:** Robert Vannrox     
+**License:** CC BY-SA 4.0     
 
 ---
 
@@ -65,7 +65,45 @@ Each musing is tagged with a status:
 | # | Title | Status | Date | Related Sections |
 |---|-------|--------|------|------------------|
 | 01 | The Council of Elders as Garbons | For Consideration | October 2026 | XXIX, VIII, Glossary |
-| — | — | — | — | — |
+| 02 | Karma as Coherence, Not Morality | For Consideration | October 2026 | XXIX, VIII, Glossary |
+| 03 | What Are Dreams? | For Consideration | October 2026 | VIII, X, XXVI, Glossary |
+| 04 | Experiencing and the Primacy of Consciousness | For Consideration | October 2026 | I, III, VIII, Glossary |
+| 05 | The Universe as a Soul | For Consideration | October 2026 | VIII, XI, XXVI, Glossary |
+| 06 | The Universal Garbon Principle | For Consideration | October 2026 | VIII, Glossary |
+| 07 | The Generated Template | For Consideration | October 2026 | VIII, XXVI, Glossary |
+| 08 | The Migration Structure of Death | For Consideration | October 2026 | VIII, XI, XXVI, XXIX, Glossary |
+| 09 | The External Template | For Consideration | October 2026 | VIII, XXVI, XXIX, Glossary |
+
+---
+
+## Musings in Brief
+
+### Musing 01: The Council of Elders as Garbons
+The Council of Elders is not external to the soul. It is internal. The Elders are garbons — or garbon-adjacent structures — within the soul's own quantum architecture. The soul sits before itself and sees what it has become.
+
+### Musing 02: Karma as Coherence, Not Morality
+Karma is not a moral ledger. It is a tuning fork. The soul does not pay off its debts — it re-tunes itself. Dissonance is inefficiency, not sin. The Council is a diagnostician, not a judge.
+
+### Musing 03: What Are Dreams?
+Dreams are what consciousness experiences when the biological receiver is offline — or partially offline — and the consciousness is still navigating. The type of dream you have is a diagnostic indicator of how detached your consciousness was from the biological receiver — and this detachment correlates with your duty cycle.
+
+### Musing 04: Experiencing and the Primacy of Consciousness
+In the materialist model, experiencing is what the brain does. In ΨORM, experiencing is what consciousness does. The brain is just the filter. The signal was always there.
+
+### Musing 05: The Universe as a Soul
+The universe is not a place. It is a being. Souls undergo a phase transition at critical thresholds. The result depends on the soul's architecture. One possible outcome is a universe. But it is not the only outcome.
+
+### Musing 06: The Universal Garbon Principle
+There is no artificial consciousness. There is only garbon organization. Any construction — biological, mechanical, electronic, artificial — is a garbon or a functional garbon that can evolve into consciousness. The question is not what they are made of. The question is whether they have crossed the threshold.
+
+### Musing 07: The Generated Template
+Reality is not given. It is generated. Every template is a learning environment built by a soul that has grown large enough to build one. And every template is nested inside larger templates — recursively, all the way down.
+
+### Musing 08: The Migration Structure of Death
+Death is not a departure. It is a migration. The consciousness follows the gradient — from the physical to the non-physical, from the individual to the collective, from the known to the unknown. And the migration never ends. Each tier is a new skin. Each graduation is a new birth.
+
+### Musing 09: The External Template
+The template must lie outside the soul. Because if it were inside, the soul would protect it. And if the soul protected it, the soul could not grow. The template is external so that the soul can be vulnerable. So that the soul can be challenged. So that the soul can learn.
 
 ---
 
