@@ -6,7 +6,7 @@
 **License:** CC BY-SA 4.0  
 **DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://doi.org/10.5281/zenodo.22074434)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://zenodo.org/badge/latestdoi/10.5281/zenodo.22074434)
 
 ---
 
@@ -61,6 +61,8 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
 | **[Bridges](./bridges-overview.md)** | Accessible introductions to ΨORM for different worldviews. |
+| **[Musings](./musings/)** | Non-canonical explorations, extensions, and speculative interpretations. |
+| **[ΨORM Neologisms](./neologisms/)** | A formal technical vocabulary for precise derivations and notation. |
 
 ---
 
@@ -83,7 +85,7 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 13.7, (2026).**  
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 14.0, (2026).**  
 DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
 
 For in-text citations: (Vannrox, 2026)
@@ -99,7 +101,7 @@ To ensure this work is permanently preserved and citable, this repository is pai
 1. Create a free account at [zenodo.org](https://zenodo.org).
 2. Connect your GitHub account to Zenodo.
 3. Enable archiving for this repository (`SORM`).
-4. Create a release on GitHub (v13.7 or later).
+4. Create a release on GitHub (v14.0 or later).
 5. Zenodo will automatically archive the release and assign a DOI.
 6. Update this README with the assigned DOI.
 
@@ -162,6 +164,23 @@ SORM/
 │   ├── section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md
 │   ├── section-32-The-Colors-of-Souls-and-Levels-of-Development.md
 │   └── section-33-The-Experience-of-Consciousness-at-Death.md
+├── neologisms/
+│   ├── README.md
+│   ├── Anchorysis.md
+│   ├── archetopos.md
+│   ├── Basinostate.md
+│   ├── corthexus.md
+│   ├── Ectophore.md
+│   ├── frequenbasin.md
+│   ├── propaedeutic.md
+│   ├── Protomnesis.md
+│   ├── psychosheath.md
+│   ├── rhematopore.md
+│   ├── stasichora.md
+│   ├── Stasipore.md
+│   ├── synaesthetic.md
+│   ├── Synnodosis.md
+│   └── Thanataphasis.md
 ├── bridges/
 │   ├── Agnosticism-Atheism bridge.md
 │   ├── Baha'i bridge.md
@@ -230,6 +249,34 @@ If you are not moved by tradition but by evidence, start here:
 1. **Predictions** — A consolidated table of falsifiable predictions.
 2. **Mathematical Formalization** — A standalone formal treatment with numbered equations.
 3. **Section VI: Falsifiability and Experimental Directions** — How ΨORM can be tested.
+
+## ΨORM Precision Neologisms
+
+In addition to the accessible, narrative language used throughout the main sections, ΨORM includes a directory of Precision Neologisms.
+
+Standard English, mainstream physics, and traditional religious terminology carry heavy pre-existing cultural and technical baggage. Words like "world line," "ghost," or "router" carry fixed outside definitions that drift away from the specific axioms of SORM.
+
+The neologisms do not replace the accessible language; they provide a rigorous, native technical vocabulary for formal discussion, logical derivation, and precise notation. They are constructed primarily from classical Greek and Latin roots to describe function and relational role, decoupled from mainstream assumptions.
+
+## Core Technical Terms Include:
+
+    **Archetopos** — The static experiential anchor point (replaces "frozen moment").
+    **Rhematopore** — The experiential propagation stream unfolding from the anchor.
+    **Corthexus** — The brain as a tunable biological router (replaces "brain as router").
+    **Frequenbasin** — A bounded resonant domain (replaces "frequency basin").
+    **Psychosheath** — The extended informational envelope around a consciousness locus.
+
+Anomalous Phenomena Terms Include:
+
+    **Anchorysis** — Involuntary decoupling and re-anchoring (replaces "time reset").
+    **Basinostate** — A vector trapped in inertia after biological death (replaces "ghost").
+    **Ectophore** — An object that slipped into an adjacent basin (replaces "vanishing object").
+    **Protomnesis** — Memory from a forward frozen moment (replaces "precognition").
+    **Stasipore** — A stable coordinate acting as an egress/ingress point (replaces "portal").
+    **Synnodosis** — Group vector coherence into a shared bleed-through (replaces "mass hallucination").
+    **Thanataphasis** — Resonance with the stored garbons of the deceased (replaces "mediumship").
+
+For the full dictionary, including etymologies, boundary conditions, and disambiguation notes, see the Neologisms Directory.
 
 ## Contact
 
