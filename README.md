@@ -266,7 +266,7 @@ The neologisms do not replace the accessible language; they provide a rigorous, 
     **Frequenbasin** — A bounded resonant domain (replaces "frequency basin").
     **Psychosheath** — The extended informational envelope around a consciousness locus.
 
-Anomalous Phenomena Terms Include:
+## Anomalous Phenomena Terms Include:
 
     **Anchorysis** — Involuntary decoupling and re-anchoring (replaces "time reset").
     **Basinostate** — A vector trapped in inertia after biological death (replaces "ghost").
