@@ -1,4 +1,10 @@
-# October 22, 2026
+# Note: On the Origin of DC
+
+**Date:** October 2026
+**Status:** Field Note / Historical Record
+**Related Concepts:** neologisms
+
+---
 
 So far, I have built the technical language for the entire SORM framework.
 
