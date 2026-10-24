@@ -291,17 +291,6 @@ For the full dictionary, including etymologies, boundary conditions, and disambi
 
 ---
 
-## Citation Instructions
-
-When citing this work, please use the following format:
-
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 14.0, (2026).**  
-DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
-
-For in-text citations: (Vannrox, 2026)
-
----
-
 ## Permanent Archiving with Zenodo
 
 To ensure this work is permanently preserved and citable, this repository is paired with Zenodo for long-term archiving and Digital Object Identifier (DOI) assignment.
