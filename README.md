@@ -1,12 +1,12 @@
 # SORM: The Ψ-Ontic Reality Model
 
-**Version:** 14.0 (Expanded Practical Edition)  
-**Author:** Robert Vannrox    
-**Date:** September 18, 2026  
-**License:** CC BY-SA 4.0  
-**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)  
+**Version:** 14.0 (Lexicon & Architecture Edition)       
+**Author:** Robert Vannrox      
+**Date:** October 2026      
+**License:** CC BY-SA 4.0      
+**DOI:** [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)       
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://zenodo.org/badge/latestdoi/10.5281/zenodo.22074434)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22074434.svg)](https://doi.org/10.5281/zenodo.22074434)
 
 ---
 
@@ -18,9 +18,11 @@ This work is not a hobby. It is not a commercial product. It is a legacy — a s
 
 ## Where to Start
 
-ΨORM is a comprehensive framework. It draws on physics, philosophy, and the world's spiritual traditions. Not everyone approaches it from the same starting point.
+ΨORM is a comprehensive framework. Not everyone approaches it from the same starting point.
 
-If you come from a specific tradition or worldview, start with the bridge that matches your background:
+**If you are new to SORM:** Start with the **[Basics](./basics/)**. It uses simple metaphors (The Home and the Garden) to explain the core mechanics without technical jargon.
+
+**If you come from a specific tradition:** Start with the bridge that matches your background:
 
 | Your Background | Start Here |
 |---|---|
@@ -51,18 +53,19 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 
 ---
 
-## Quick Start
+## Quick Start & Repository Architecture
 
-| Document | Description |
+| Document / Folder | Description |
 |----------|-------------|
+| **[Basics](./basics/)** | The simple, metaphor-driven entry point for absolute beginners. |
 | **[Core Thesis](./core-thesis.md)** | 1–2 page summary of ΨORM's central claims, differentiators, and testable predictions. |
-| **[Case Studies](./case-studies.md)** | Anonymized observations from applied ΨORM practices over decades. |
-| **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 33 sections. |
+| **[MASTER-INDEX.md](./MASTER-INDEX.md)** | Complete navigation to all 33 canonical sections. |
 | **[Glossary](./glossary.md)** | Definitions of key terms, including operational definitions. |
 | **[Mathematical Formalization](./mathematical-formalization.md)** | Standalone document with numbered equations and derivations. |
 | **[Bridges](./bridges-overview.md)** | Accessible introductions to ΨORM for different worldviews. |
 | **[Musings](./musings/)** | Non-canonical explorations, extensions, and speculative interpretations. |
-| **[ΨORM Neologisms](./neologisms/)** | A formal technical vocabulary for precise derivations and notation. |
+| **[Neologisms](./neologisms/)** | The formal, precision technical vocabulary (The SORM Lexicon). |
+| **[Notes](./notes/)** | The raw quarry. Unfiltered field notes, DC transmissions, and hypotheses. |
 
 ---
 
@@ -130,6 +133,12 @@ SORM/
 ├── predictions.md                    # Consolidated table of falsifiable predictions
 ├── ah-hah.md                         # Summary of Ah-Hah moments
 ├── mathematical-formalization.md     # Standalone mathematical framework
+├── basics/                           # The beginner-friendly entry point
+│   ├── README.md
+│   ├── 02-the-vehicle-and-the-driver.md
+│   ├── 03-the-travelers-you-meet.md
+│   ├── 04-the-school-curriculum.md
+│   └── 05-the-radio-and-the-broadcast.md
 ├── sections/
 │   ├── section-01-introduction.md
 │   ├── section-02-intellectual-ancestry.md
@@ -164,6 +173,7 @@ SORM/
 │   ├── section-31-The-Ring-of-Destiny-Life-Selection-and-Body-Choice.md
 │   ├── section-32-The-Colors-of-Souls-and-Levels-of-Development.md
 │   └── section-33-The-Experience-of-Consciousness-at-Death.md
+├── musings/                          # Speculative extensions (Musing 01 - 09)
 ├── neologisms/
 │   ├── README.md
 │   ├── Anchorysis.md
@@ -181,6 +191,7 @@ SORM/
 │   ├── synaesthetic.md
 │   ├── Synnodosis.md
 │   └── Thanataphasis.md
+├── notes/                            # The Raw Quarry (Field notes and origins)
 ├── bridges/
 │   ├── Agnosticism-Atheism bridge.md
 │   ├── Baha'i bridge.md
@@ -277,6 +288,49 @@ The neologisms do not replace the accessible language; they provide a rigorous, 
     **Thanataphasis** — Resonance with the stored garbons of the deceased (replaces "mediumship").
 
 For the full dictionary, including etymologies, boundary conditions, and disambiguation notes, see the Neologisms Directory.
+
+---
+
+## Citation Instructions
+
+When citing this work, please use the following format:
+
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 14.0, (2026).**  
+DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
+
+For in-text citations: (Vannrox, 2026)
+
+---
+
+## Permanent Archiving with Zenodo
+
+To ensure this work is permanently preserved and citable, this repository is paired with Zenodo for long-term archiving and Digital Object Identifier (DOI) assignment.
+
+**For the repository maintainer:**
+
+1. Create a release on GitHub (`v14.0`).
+2. Zenodo will automatically archive the release and assign a DOI.
+3. Update this README with the assigned DOI.
+
+This process ensures that even if GitHub changes or disappears, the work remains accessible through Zenodo.
+
+---
+
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+---
 
 ## Contact
 
