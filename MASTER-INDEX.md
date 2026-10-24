@@ -165,6 +165,24 @@ For in-text citations: (Vannrox, 2026)
 
 ---
 
+## Part VIII: Supplementary Architecture
+
+In addition to the canonical sections, SORM includes several structural layers designed for accessibility, precision, and ongoing evolution.
+
+| Material | Description | Location |
+|----------|-------------|----------|
+| **Basics** | Simple, metaphor-driven introductions for absolute beginners. | `/basics/` |
+| **Musings** | Non-canonical explorations and speculative extensions of the framework. | `/musings/` |
+| **Neologisms** | The precision technical lexicon for rigorous derivation. | `/neologisms/` |
+| **Notes** | The raw quarry of unfiltered field observations and hypotheses. | `/notes/` |
+| **Bridges** | Translations of ΨORM for different traditions and worldviews. | `/bridges/` |
+| **Glossary** | Operational definitions of key canonical terms. | `glossary.md` |
+| **Predictions** | Consolidated table of falsifiable predictions. | `predictions.md` |
+| **Ah-Hah** | Summary of core insights and breakthroughs. | `ah-hah.md` |
+| **Mathematical Formalization** | Standalone mathematical framework. | `mathematical-formalization.md` |
+
+---
+
 ## Supplementary Materials
 
 | Item | Location |
