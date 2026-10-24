@@ -88,8 +88,8 @@ Each bridge presents ΨORM in the language and concepts of your tradition. It is
 
 When citing this work, please use the following format:
 
-**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 14.0, (2026).**  
-DOI: [10.5281/zenodo.22074434](https://doi.org/10.5281/zenodo.22074434)
+**Robert Vannrox, *SORM: The Ψ-Ontic Reality Model*, Version 14.1, (2026).**  
+DOI: [10.5281/zenodo.23617744](https://doi.org/10.5281/zenodo.23617744)
 
 For in-text citations: (Vannrox, 2026)
 
