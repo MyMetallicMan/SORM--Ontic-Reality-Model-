@@ -2,6 +2,20 @@
 
 All significant changes to the ΨORM repository are documented here.
 
+## [14.0] - October 2026
+
+### Added
+- **The Lexicon & Architecture Edition.** 
+- Added `/neologisms/` folder: A complete precision vocabulary (18 terms) built from Greek and Latin roots to replace overloaded standard terminology. Includes *Archetopos*, *Frequenbasin*, *Ektoplax*, *Toponarch*, *Symnoet*, and the anomaly terms.
+- Added `/basics/` folder: A five-part introductory curriculum using simple metaphors (The Home and the Garden, The Vehicle and the Driver) to make the framework accessible to absolute beginners.
+- Added `/notes/` folder: The raw quarry. A chronological repository for field notes, DC transmissions, and origin stories (e.g., "On the Origin of SORM").
+- Added `/musings/` folder: A repository for non-canonical explorations and speculative extensions (Musings 01 through 09).
+- Expanded the `/bridges/` directory to include 22 distinct worldviews and traditions.
+
+### Changed
+- Updated `README.md` to reflect the new repository architecture and provide clear reading paths for different types of readers.
+- Updated `MASTER-INDEX.md` to include "Part VII: Supplementary Architecture."
+
 # Release Notes — v14.0 (The Bridge Expansion)
 
 **Date:** September 18, 2026
