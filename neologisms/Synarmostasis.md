@@ -1,8 +1,8 @@
 # Synarmostasis
-**Pronunciation:** /sɪnˌɑːrməˈsteɪsɪs/
-**Etymology:** Greek *syn-* (together, with) + *harmos* (joint, fitting) + *stasis* (standing still, resistance).
-**Related SORM Concepts:** Frequenbasin, Frequency Shift, Momentum, Affirmation Campaign
-**Status:** Proposed Neologism (Contributed via peer-review)
+**Pronunciation:** /sɪnˌɑːrməˈsteɪsɪs/     
+**Etymology:** Greek *syn-* (together, with) + *harmos* (joint, fitting) + *stasis* (standing still, resistance).     
+**Related SORM Concepts:** Frequenbasin, Frequency Shift, Momentum, Affirmation Campaign      
+**Status:** Proposed Neologism (Contributed via peer-review)      
 
 ## Core Definition (SORM Canonical Use)
 Synarmostasis is the structural inertia or "friction" exerted by a current frequenbasin resisting a consciousness vector's shift to a new basin. It is the resistance that keeps a navigator trapped in old patterns. A sustained affirmation campaign wears down synarmostasis through the accumulation of frequency momentum, eventually allowing the vector to bypass the resistance and manifest the shift.
