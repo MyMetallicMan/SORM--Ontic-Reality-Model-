@@ -78,7 +78,21 @@ The physical rendering of a frequency-aligned intention may not match the mental
 
 ---
 
-## XII.7 Aligning with Deeper Needs
+## XII.7 The Mechanics of Momentum and Friction
+
+A common misconception in affirmation campaigns is the assumption of linear time. Practitioners often assume that if they double the duration of a campaign, the time required for manifestation will be halved. This is mathematically and mechanically incorrect.
+
+Frequency alignment does not operate like a microwave oven. It operates through **momentum** and **friction**.
+
+Every day you hold a frequency, you build structural momentum in the configuration space. Meanwhile, the old frequency basin exerts *inertia*—a form of friction that resists your shift. 
+
+When you extend a campaign, you are not simply "waiting longer." You are building momentum and wearing down the friction of the old basin. As the friction decreases, your consciousness can sink deeper into the new frequenbasin, bypassing the resistance that previously delayed manifestation. 
+
+Therefore, a campaign that might have required 3 years to overcome a high-friction basin may manifest in 1.5 years—not because of a linear formula, but because the sustained momentum finally broke through the inertia.
+
+*(Note: The conceptualization of this mechanic—identifying the role of momentum and friction—was contributed by Tim, a rigorous student of SORM. His translation and analysis of this mechanic significantly clarified the framework.)*
+
+## XII.8 Aligning with Deeper Needs
 
 Surface desires often mask deeper needs. What you think you want may not be what you truly need. The universe delivers the substance, not the symbol.
 
@@ -87,7 +101,7 @@ Surface desires often mask deeper needs. What you think you want may not be what
 
 ---
 
-## XII.8 Embracing Trade-Offs
+## XII.9 Embracing Trade-Offs
 
 Every intentional frequency shift involves trade-offs. The goal is not to achieve an idealized image but to align with authentic needs and values.
 
@@ -96,7 +110,7 @@ Every intentional frequency shift involves trade-offs. The goal is not to achiev
 
 ---
 
-## XII.9 Falsifiability
+## XII.10 Falsifiability
 
 ΨORM predicts that individuals who practice intentional frequency alignment will show measurable increases in frequency coherence (EEG/MEG) over time. If no such correlation is found, this prediction would be falsified.
 
