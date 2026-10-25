@@ -1,9 +1,9 @@
 # SORM Notes: The Raw Quarry
 
-**The Ψ-Ontic Reality Model (ΨORM)**
-**Status:** Unfiltered. Unpolished. Ongoing.
-**Author:** Robert Vannrox
-**License:** CC BY-SA 4.0
+**The Ψ-Ontic Reality Model (ΨORM)**    
+**Status:** Unfiltered. Unpolished. Ongoing.    
+**Author:** Robert Vannrox   
+**License:** CC BY-SA 4.0   
 
 ---
 
