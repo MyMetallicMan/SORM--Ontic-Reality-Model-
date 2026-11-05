@@ -1,11 +1,11 @@
 # Musing 10: The Problem of the Other — Solipsism, Phantembryons, and the Illusion of the Empty Room
 
-**Status:** For Consideration
-**Author:** Robert Vannrox
-**Date:** November 2026
-**Related Sections:** VII (The Structure of Shared Reality), VIII (The Ontology of Consciousness), Glossary (Quantum Shadow, Bleed-Over, Phantembryon)
-**Related Musings:** Musing 04 (Experiencing and the Primacy of Consciousness), Musing 09 (The External Template)
-**License:** CC BY-SA 4.0
+**Status:** For Consideration   
+**Author:** Robert Vannrox   
+**Date:** November 2026   
+**Related Sections:** VII (The Structure of Shared Reality), VIII (The Ontology of Consciousness), Glossary (Quantum Shadow, Bleed-Over, Phantembryon)   
+**Related Musings:** Musing 04 (Experiencing and the Primacy of Consciousness), Musing 09 (The External Template)   
+**License:** CC BY-SA 4.0   
 
 ---
 
